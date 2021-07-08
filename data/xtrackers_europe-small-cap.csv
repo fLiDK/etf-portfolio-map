@@ -1,0 +1,973 @@
+	Name	ISIN	Country	Currency	Exchange	Type of Security	Rating	Primary Listing	Industry Classification	Weighting
+1	IMCD	NL0010801007	Niederlande	EUR	Euronext Amsterdam	Equity	-	Amsterdam Exchanges Index	Industrials	0.0051047447
+2	INTERMEDIATE CAPITAL GR.	GB00BYT1DJ19	Vereinigtes Königreich	GBP	London Stock Exchange	Equity	-	FTSE 100 Index	Financials	0.0047309375
+3	EURONEXT NV	NL0006294274	Niederlande	EUR	Euronext Paris	Equity	-	CAC 40 Index	Financials	0.0046968632
+4	SIG COMBIBLOC	CH0435377954	Schweiz	CHF	Scoach Switzerland	Equity	-	Swiss Market Index	Materials	0.004693928
+5	SMITH (DS)	GB0008220112	Vereinigtes Königreich	GBP	London Stock Exchange	Equity	-	FTSE 100 Index	Materials	0.0046602696
+6	SIGNIFY	NL0011821392	Niederlande	EUR	Euronext Amsterdam	Equity	-	Amsterdam Exchanges Index	Industrials	0.0045453666
+7	GETINGE B	SE0000202624	Schweden	SEK	Stockholm Stock Exchange	Equity	-	OMX Stockholm 30 Index	Health Care	0.004501911
+8	VAT GROUP	CH0311864901	Schweiz	CHF	Scoach Switzerland	Equity	-	Swiss Market Index	Industrials	0.0043709552
+9	AERCAP	NL0000687663	Niederlande	USD	New York Stock Exchange	Equity	-	S&P 500 Index	Industrials	0.0042604066
+10	B&M EUROPEAN VALUE RETAIL	LU1072616219	Luxemburg	GBP	London Stock Exchange	Equity	-	FTSE 100 Index	Consumer Discretionary	0.0042522302
+11	RIGHTMOVE	GB00BGDT3G23	Vereinigtes Königreich	GBP	-	Equity	-	-	Communication Services	0.0041405005
+12	OUTOTEC	FI0009014575	Finnland	EUR	Helsinki Stock Exchange	Equity	-	OMX Helsinki Index	Industrials	0.0041094003
+13	INDUTRADE	SE0001515552	Schweden	SEK	Stockholm Stock Exchange	Equity	-	OMX Stockholm 30 Index	Industrials	0.0039296294
+14	ROYAL MAIL	GB00BDVZYZ77	Vereinigtes Königreich	GBP	London Stock Exchange	Equity	-	FTSE 100 Index	Industrials	0.0038913636
+15	ITV	GB0033986497	Vereinigtes Königreich	GBP	London Stock Exchange	Equity	Baa3	FTSE 100 Index	Communication Services	0.0038559607
+16	GALIFORM	GB0005576813	Vereinigtes Königreich	GBP	London Stock Exchange	Equity	-	FTSE 100 Index	Industrials	0.0038260682
+17	WEIR GROUP	GB0009465807	Vereinigtes Königreich	GBP	London Stock Exchange	Equity	Baa1	FTSE 100 Index	Industrials	0.0037894007
+18	ROYAL UNIBREW	DK0060634707	Dänemark	DKK	Copenhagen Stock Exchange	Equity	-	OMX COPENHAGEN 20 Index	Consumer Staples	0.0037344695
+19	PENNON GROUP	GB00B18V8630	Vereinigtes Königreich	GBP	London Stock Exchange	Equity	-	FTSE 100 Index	Utilities	0.0035968357
+20	DECHRA PHARMACEUTICALS	GB0009633180	Vereinigtes Königreich	GBP	London Stock Exchange	Equity	-	FTSE 100 Index	Health Care	0.0035932216
+21	EMBRACER GR.	SE0013121589	Schweden	SEK	-	Equity	-	-	Communication Services	0.0035870274
+22	BELLWAY	GB0000904986	Vereinigtes Königreich	GBP	London Stock Exchange	Equity	-	FTSE 100 Index	Consumer Discretionary	0.0035851447
+23	BANK OF IRELAND	IE00BD1RP616	Irland	EUR	-	Equity	-	-	Financials	0.0035611024
+24	ELECTROCOMPONENTS	GB0003096442	Vereinigtes Königreich	GBP	London Stock Exchange	Equity	-	FTSE 100 Index	Industrials	0.0035607133
+25	TRELLEBORG B	SE0000114837	Schweden	SEK	Stockholm Stock Exchange	Equity	-	OMX Stockholm 30 Index	Industrials	0.0035572082
+26	ASR NEDERLAND	NL0011872643	Niederlande	EUR	Euronext Amsterdam	Equity	-	Amsterdam Exchanges Index	Financials	0.0035523391
+27	IMI	GB00BGLP8L22	Vereinigtes Königreich	GBP	London Stock Exchange	Equity	-	FTSE 100 Index	Industrials	0.0035358471
+28	CASTELLUM	SE0000379190	Schweden	SEK	Stockholm Stock Exchange	Equity	-	OMX Stockholm 30 Index	Real Estate	0.0033884283
+29	TECAN N	CH0012100191	Schweiz	CHF	Scoach Switzerland	Equity	-	Swiss Market Index	Health Care	0.0033803512
+30	EVOTEC	DE0005664809	Deutschland	EUR	XETRA	Equity	-	DAX Index	Health Care	0.0033782249
+31	DIALOG SEMICON.	GB0059822006	Vereinigtes Königreich	EUR	XETRA	Equity	-	DAX Index	Information Technology	0.0033514465
+32	VALMET	FI4000074984	Finnland	EUR	Helsinki Stock Exchange	Equity	-	OMX Helsinki Index	Industrials	0.003256637
+33	CLX COMMUNICATIONS	SE0007439112	Schweden	SEK	-	Equity	-	-	Information Technology	0.0032319823
+34	AALBERTS INDUSTRIES	NL0000852564	Niederlande	EUR	Euronext Amsterdam	Equity	-	Amsterdam Exchanges Index	Industrials	0.0031117796
+35	PSP SWISS PROPERTY	CH0018294154	Schweiz	CHF	Scoach Switzerland	Equity	-	Swiss Market Index	Real Estate	0.0030917679
+36	TOMRA SYSTEMS	NO0005668905	Norwegen	NOK	Oslo Stock Exchange	Equity	-	Oslo SE All-share Index	Industrials	0.0030906731
+37	MEGGITT	GB0005758098	Vereinigtes Königreich	GBP	London Stock Exchange	Equity	-	FTSE 100 Index	Industrials	0.0030812831
+38	GEORG FISCHER N	CH0001752309	Schweiz	CHF	Scoach Switzerland	Equity	-	Swiss Market Index	Industrials	0.0030733522
+39	SIMCORP	DK0060495240	Dänemark	DKK	Copenhagen Stock Exchange	Equity	-	OMX COPENHAGEN 20 Index	Information Technology	0.0030584979
+40	BESI RG	NL0012866412	Niederlande	EUR	Euronext Amsterdam	Equity	-	Amsterdam Exchanges Index	Information Technology	0.0029971644
+42	DERWENT LONDON	GB0002652740	Vereinigtes Königreich	GBP	London Stock Exchange	Equity	Baa2	FTSE 100 Index	Real Estate	0.0029882909
+43	TRAVIS PERKINS RG	GB00BK9RKT01	Vereinigtes Königreich	GBP	-	Equity	-	-	Industrials	0.0029597779
+44	TATE & LYLE	GB0008754136	Vereinigtes Königreich	GBP	London Stock Exchange	Equity	Baa2	FTSE 100 Index	Consumer Staples	0.0029414928
+45	NOKIAN RENKAAT	FI0009005318	Finnland	EUR	Helsinki Stock Exchange	Equity	-	OMX Helsinki Index	Consumer Discretionary	0.0029187125
+46	REXEL	FR0010451203	Frankreich	EUR	Euronext Paris	Equity	Ba3	CAC 40 Index	Industrials	0.0029116032
+47	UNITE GROUP	GB0006928617	Vereinigtes Königreich	GBP	London Stock Exchange	Equity	B1	FTSE 100 Index	Real Estate	0.0029088184
+48	ASOS	GB0030927254	Vereinigtes Königreich	GBP	London Stock Exchange	Equity	-	FTSE 100 Index	Consumer Discretionary	0.002905828
+49	DIPLOMA	GB0001826634	Vereinigtes Königreich	GBP	London Stock Exchange	Equity	-	FTSE 100 Index	Industrials	0.0028718115
+50	SPECTRIS	GB0003308607	Vereinigtes Königreich	GBP	London Stock Exchange	Equity	-	FTSE 100 Index	Information Technology	0.0028708316
+51	THULE GROUP	SE0006422390	Schweden	SEK	Stockholm Stock Exchange	Equity	-	OMX Stockholm 30 Index	Consumer Discretionary	0.002867689
+52	GAMES WORKSHOP	GB0003718474	Vereinigtes Königreich	GBP	London Stock Exchange	Equity	B1	FTSE 100 Index	Consumer Discretionary	0.0028657586
+53	BANCO BPM	IT0005218380	Italien	EUR	Milan Stock Exchange	Equity	-	FTSE Italia All-Share Index	Financials	0.0028629951
+54	ELEKTA B	SE0000163628	Schweden	SEK	Stockholm Stock Exchange	Equity	-	OMX Stockholm 30 Index	Health Care	0.0028456441
+55	AMS	AT0000A18XM4	Österreich	CHF	Scoach Switzerland	Equity	-	Swiss Market Index	Information Technology	0.0028137035
+56	TUI AG	DE000TUAG000	Deutschland	GBP	XETRA	Equity	B3	DAX Index	Consumer Discretionary	0.0027751889
+57	THYSSENKRUPP	DE0007500001	Deutschland	EUR	XETRA	Equity	Ba1	DAX Index	Materials	0.002759262
+58	CONVATEC GROUP	GB00BD3VFW73	Vereinigtes Königreich	GBP	London Stock Exchange	Equity	-	FTSE 100 Index	Health Care	0.0027350991
+59	NETCOMPAN GRP BR/RG	DK0060952919	Dänemark	DKK	-	Equity	-	-	Information Technology	0.0027348477
+60	SIGN AVIAT RG	GB00BKDM7X41	Vereinigtes Königreich	GBP	-	Equity	-	-	Industrials	0.0027207325
+61	WAREHOUSES DE PAUW	BE0974349814	Belgien	EUR	Euronext Brussels	Equity	-	BEL 20 Index	Real Estate	0.0027204644
+62	MILLICOM INTL. CELLULAR	SE0001174970	Luxemburg	SEK	Stockholm Stock Exchange	Equity	-	OMX Stockholm 30 Index	Communication Services	0.0027112834
+63	DOMETIC GROUP	SE0007691613	Schweden	SEK	Stockholm Stock Exchange	Equity	-	OMX Stockholm 30 Index	Consumer Discretionary	0.0027094096
+64	PROSIEBENSAT 1 MEDIA	DE000PSM7770	Deutschland	EUR	XETRA	Equity	-	DAX Index	Communication Services	0.0026933502
+65	BOOHOO.COM	JE00BG6L7297	Vereinigtes Königreich	GBP	London Stock Exchange	Equity	-	FTSE 100 Index	Consumer Discretionary	0.0026597244
+66	TRITAX BIG BOX REIT	GB00BG49KP99	Vereinigtes Königreich	GBP	London Stock Exchange	Equity	-	FTSE 100 Index	Real Estate	0.0026237113
+67	WIENERBERGER	AT0000831706	Österreich	EUR	Vienna Stock Exchange	Equity	Ba2	Austrian Traded Index	Materials	0.0026221984
+68	GENUS	GB0002074580	Vereinigtes Königreich	GBP	London Stock Exchange	Equity	-	FTSE 100 Index	Health Care	0.0026205225
+69	RUBIS	FR0013269123	Frankreich	EUR	-	Equity	-	-	Utilities	0.0025898308
+70	INCHCAPE	GB00B61TVQ02	Vereinigtes Königreich	GBP	London Stock Exchange	Equity	-	FTSE 100 Index	Consumer Discretionary	0.0025881339
+71	BANCO DE SABADELL	ES0113860A34	Spanien	EUR	Mercado Continuo Espana	Equity	-	IBEX 35 Index	Financials	0.00258129
+72	IG GR. HLDGS.	GB00B06QFB75	Vereinigtes Königreich	GBP	London Stock Exchange	Equity	-	FTSE 100 Index	Financials	0.0025708652
+73	CENTRICA	GB00B033F229	Vereinigtes Königreich	GBP	London Stock Exchange	Equity	A3	FTSE 100 Index	Utilities	0.0025642347
+74	HUHTAMAKI	FI0009000459	Finnland	EUR	Helsinki Stock Exchange	Equity	-	OMX Helsinki Index	Materials	0.0025587072
+75	BAKKAFROST	FO0000000179	Färöer	NOK	Oslo Stock Exchange	Equity	-	Oslo SE All-share Index	Consumer Staples	0.0025395288
+76	HOLMEN-B RG	SE0011090018	Schweden	SEK	Stockholm Stock Exchange	Equity	-	OMX Stockholm 30 Index	Materials	0.0025346387
+77	RHEINMETALL ST.	DE0007030009	Deutschland	EUR	XETRA	Equity	Ba1	DAX Index	Industrials	0.0025197623
+78	STOREBRAND	NO0003053605	Norwegen	NOK	Oslo Stock Exchange	Equity	Baa3	Oslo SE All-share Index	Financials	0.0025105548
+79	MARKS & SPENCER	GB0031274896	Vereinigtes Königreich	GBP	London Stock Exchange	Equity	Baa3	FTSE 100 Index	Consumer Discretionary	0.0025091291
+80	LIFCO	SE0015949201	Schweden	SEK	-	Equity	-	-	Industrials	0.0024953479
+81	ADDTECH RG-B	SE0014781795	Schweden	SEK	-	Equity	-	-	Industrials	0.0024766621
+82	ABCAM	GB00B6774699	Vereinigtes Königreich	GBP	London Stock Exchange	Equity	-	FTSE 100 Index	Health Care	0.0024746358
+83	TAG IMMOBILIEN	DE0008303504	Deutschland	EUR	XETRA	Equity	-	DAX Index	Real Estate	0.0024669107
+84	FUTURE RG	GB00BYZN9041	Vereinigtes Königreich	GBP	-	Equity	-	-	Communication Services	0.0024649309
+85	MERLIN PROPERTIES	ES0105025003	Spanien	EUR	Mercado Continuo Espana	Equity	-	IBEX 35 Index	Real Estate	0.0024542226
+86	AVAST	GB00BDD85M81	Vereinigtes Königreich	GBP	-	Equity	-	-	Information Technology	0.0024517121
+87	FABEGE RG	SE0011166974	Schweden	SEK	-	Equity	-	OMX Stockholm 30 Index	Real Estate	0.0024372214
+88	INTERPUMP GROUP	IT0001078911	Italien	EUR	Milan Stock Exchange	Equity	-	FTSE Italia All-Share Index	Industrials	0.0023864643
+89	ROTORK	GB00BVFNZH21	Vereinigtes Königreich	GBP	London Stock Exchange	Equity	-	FTSE 100 Index	Industrials	0.0023706191
+90	BOVIS HOMES	GB0001859296	Vereinigtes Königreich	GBP	London Stock Exchange	Equity	-	FTSE 100 Index	Consumer Discretionary	0.0023594108
+91	SOITEC	FR0013227113	Frankreich	EUR	Euronext Paris	Equity	-	CAC 40 Index	Information Technology	0.0023578794
+92	BAWAG GROUP	AT0000BAWAG2	Österreich	EUR	Vienna Stock Exchange	Equity	-	Austrian Traded Index	Financials	0.0023468669
+93	HAYS	GB0004161021	Vereinigtes Königreich	GBP	London Stock Exchange	Equity	-	FTSE 100 Index	Industrials	0.0023405347
+94	AAK RG	SE0011337708	Schweden	SEK	-	Equity	-	OMX Stockholm 30 Index	Consumer Staples	0.002339489
+95	AEDIFICA	BE0003851681	Belgien	EUR	Euronext Brussels	Equity	-	BEL 20 Index	Real Estate	0.0023327311
+96	SALMAR	NO0010310956	Norwegen	NOK	Oslo Stock Exchange	Equity	-	Oslo SE All-share Index	Consumer Staples	0.0023321929
+97	BANKINTER	ES0113679I37	Spanien	EUR	Mercado Continuo Espana	Equity	Baa3	IBEX 35 Index	Financials	0.002324662
+98	AVANZA BANK	SE0012454072	Schweden	SEK	-	Equity	-	-	Financials	0.0023204835
+99	HELVETIA	CH0466642201	Schweiz	CHF	Scoach Switzerland	Equity	-	Swiss Market Index	Financials	0.0022973426
+100	QUILTER	GB00BDCXV269	Vereinigtes Königreich	GBP	-	Equity	-	-	Financials	0.0022950964
+101	HOMESERVE	GB00BYYTFB60	Vereinigtes Königreich	GBP	London Stock Exchange	Equity	-	FTSE 100 Index	Industrials	0.0022902091
+102	HISCOX	BMG4593F1389	Bermuda	GBP	London Stock Exchange	Equity	-	FTSE 100 Index	Financials	0.002261071
+103	FEVERTREE DRINKS	GB00BRJ9BJ26	Vereinigtes Königreich	GBP	London Stock Exchange	Equity	-	FTSE 100 Index	Consumer Staples	0.0022563018
+104	REGUS	JE00BYVQYS01	Schweiz	GBP	London Stock Exchange	Equity	-	FTSE 100 Index	Industrials	0.0022558863
+105	CTS EVENTIM	DE0005470306	Deutschland	EUR	XETRA	Equity	-	DAX Index	Communication Services	0.0022494753
+106	BELIMO HOLD.	CH1101098163	Schweiz	CHF	-	Equity	-	-	Industrials	0.0022154624
+107	ENTRA ASA	NO0010716418	Norwegen	NOK	Oslo Stock Exchange	Equity	-	Oslo SE All-share Index	Real Estate	0.0022029183
+108	UNITED DRUG	IE0033024807	Irland	GBP	London Stock Exchange	Equity	-	FTSE 100 Index	Health Care	0.0022016806
+109	ANDRITZ	AT0000730007	Österreich	EUR	Vienna Stock Exchange	Equity	-	Austrian Traded Index	Industrials	0.0021964623
+110	COFINIMMO	BE0003593044	Belgien	EUR	Euronext Brussels	Equity	Baa2	BEL 20 Index	Real Estate	0.0021926516
+111	GRAFTON GROUP	IE00B00MZ448	Irland	GBP	London Stock Exchange	Equity	-	FTSE 100 Index	Industrials	0.0021845201
+112	FLUGHAFEN ZURICH	CH0319416936	Schweiz	CHF	Scoach Switzerland	Equity	-	Swiss Market Index	Industrials	0.0021796239
+113	SIEGFRIED HLDG.	CH0014284498	Schweiz	CHF	Scoach Switzerland	Equity	-	Swiss Market Index	Health Care	0.0021759597
+114	COUNTRYSIDE PROPERTIES	GB00BYPHNG03	Vereinigtes Königreich	GBP	London Stock Exchange	Equity	-	FTSE 100 Index	Consumer Discretionary	0.0021638156
+115	UNIBET	SE0007871645	Malta	SEK	Stockholm Stock Exchange	Equity	-	OMX Stockholm 30 Index	Consumer Discretionary	0.0021572423
+116	GREGGS	GB00B63QSB39	Vereinigtes Königreich	GBP	London Stock Exchange	Equity	-	FTSE 100 Index	Consumer Discretionary	0.0021324853
+117	CYBG	GB00BD6GN030	Vereinigtes Königreich	GBP	London Stock Exchange	Equity	-	FTSE 100 Index	Financials	0.0021307359
+118	ACCIONA	ES0125220311	Spanien	EUR	Mercado Continuo Espana	Equity	-	IBEX 35 Index	Utilities	0.0021282731
+119	ALTEN	FR0000071946	Frankreich	EUR	Euronext Paris	Equity	-	CAC 40 Index	Information Technology	0.002114269
+120	ACKERMANS & VAN HAAREN	BE0003764785	Belgien	EUR	Euronext Brussels	Equity	-	BEL 20 Index	Financials	0.0021076217
+121	CARNIVAL	GB0031215220	Vereinigte Staaten	GBP	London Stock Exchange	Equity	Baa1	FTSE 100 Index	Consumer Discretionary	0.0021052149
+122	GLANBIA	IE0000669501	Irland	EUR	Irish Stock Exchange	Equity	-	ISEQ Irish Overall Index	Consumer Staples	0.0020993457
+123	GERRESHEIMER	DE000A0LD6E6	Deutschland	EUR	XETRA	Equity	Ba1	DAX Index	Health Care	0.0020930287
+124	BRITVIC	GB00B0N8QD54	Vereinigtes Königreich	GBP	London Stock Exchange	Equity	-	FTSE 100 Index	Consumer Staples	0.002075272
+125	SILTRONIC	DE000WAF3019	Deutschland	EUR	-	Equity	-	-	Information Technology	0.0020747031
+126	NORDIC SEMICONDUCTOR	NO0003055501	Norwegen	NOK	Oslo Stock Exchange	Equity	-	Oslo SE All-share Index	Information Technology	0.0020725945
+127	BIOVITRUM	SE0000872095	Schweden	SEK	Stockholm Stock Exchange	Equity	-	OMX Stockholm 30 Index	Health Care	0.0020517635
+128	ELIS	FR0012435121	Frankreich	EUR	Euronext Paris	Equity	-	CAC 40 Index	Industrials	0.002047397
+129	DUFRY	CH0023405456	Schweiz	CHF	Scoach Switzerland	Equity	-	Swiss Market Index	Consumer Discretionary	0.0020360309
+130	FLUIDRA SA	ES0137650018	Spanien	EUR	Mercado Continuo Espana	Equity	-	IBEX 35 Index	Industrials	0.002026353
+131	MAN GRP RG	JE00BJ1DLW90	Vereinigtes Königreich	GBP	-	Equity	-	-	Financials	0.0020191181
+132	SWECO RG-B	SE0014960373	Schweden	SEK	-	Equity	-	-	Industrials	0.0020159138
+133	BEIJER REF-B RG	SE0015949748	Schweden	SEK	-	Equity	-	-	Industrials	0.0020155509
+134	SSP GRP	GB00BGBN7C04	Vereinigtes Königreich	GBP	-	Equity	-	-	Consumer Discretionary	0.0019999753
+135	SAMHALLSBYGGNADSBOLAGET I NORDEN	SE0009554454	Schweden	SEK	-	Equity	-	-	Real Estate	0.0019944138
+136	ISS	DK0060542181	Dänemark	DKK	Copenhagen Stock Exchange	Equity	-	OMX COPENHAGEN 20 Index	Industrials	0.0019868167
+137	FREENET	DE000A0Z2ZZ5	Deutschland	EUR	XETRA	Equity	-	DAX Index	Communication Services	0.0019839546
+138	BILLERUD	SE0000862997	Schweden	SEK	Stockholm Stock Exchange	Equity	-	OMX Stockholm 30 Index	Materials	0.0019783761
+139	CORBION	NL0010583399	Niederlande	EUR	Euronext Amsterdam	Equity	-	Amsterdam Exchanges Index	Materials	0.0019777069
+140	HUGO BOSS	DE000A1PHFF7	Deutschland	EUR	XETRA	Equity	-	DAX Index	Consumer Discretionary	0.0019680014
+141	LEONARDO-FINMECCANICA	IT0003856405	Italien	EUR	Milan Stock Exchange	Equity	Ba1	FTSE Italia All-Share Index	Industrials	0.001949436
+142	SSAB B	SE0000120669	Schweden	SEK	Stockholm Stock Exchange	Equity	Ba2	OMX Stockholm 30 Index	Materials	0.001931505
+143	HERA	IT0001250932	Italien	EUR	Milan Stock Exchange	Equity	Baa1	FTSE Italia All-Share Index	Utilities	0.0019254224
+144	CLOSE BROTHERS GROUP	GB0007668071	Vereinigtes Königreich	GBP	London Stock Exchange	Equity	Baa1	FTSE 100 Index	Financials	0.0019237044
+145	NORD ENTERTAINMENT	SE0012116390	Schweden	SEK	-	Equity	-	OMX Stockholm 30 Index	Communication Services	0.0019207549
+146	AF GROUP B	SE0005999836	Schweden	SEK	Stockholm Stock Exchange	Equity	-	OMX Stockholm 30 Index	Industrials	0.0019003931
+147	BUCHER INDUSTRIES	CH0002432174	Schweiz	CHF	Scoach Switzerland	Equity	-	Swiss Market Index	Industrials	0.0018943543
+148	PETS AT HOME	GB00BJ62K685	Vereinigtes Königreich	GBP	London Stock Exchange	Equity	-	FTSE 100 Index	Consumer Discretionary	0.0018741447
+149	HEXPOL	SE0007074281	Schweden	SEK	Stockholm Stock Exchange	Equity	-	OMX Stockholm 30 Index	Materials	0.0018578309
+150	ITALGAS	IT0005211237	Italien	EUR	Milan Stock Exchange	Equity	-	FTSE Italia All-Share Index	Utilities	0.0018476037
+151	DE'LONGHI	IT0003115950	Italien	EUR	Milan Stock Exchange	Equity	-	FTSE Italia All-Share Index	Consumer Discretionary	0.0018467236
+152	AGGREKO A	GB00BK1PTB77	Vereinigtes Königreich	GBP	London Stock Exchange	Equity	-	FTSE 100 Index	Industrials	0.0018431467
+153	ALK-ABELLO AS	DK0060027142	Dänemark	DKK	Copenhagen Stock Exchange	Equity	-	OMX COPENHAGEN 20 Index	Health Care	0.0018362388
+154	A2A	IT0001233417	Italien	EUR	Milan Stock Exchange	Equity	Baa3	FTSE Italia All-Share Index	Utilities	0.0018353949
+155	TIETO	FI0009000277	Finnland	EUR	Helsinki Stock Exchange	Equity	-	OMX Helsinki Index	Information Technology	0.0018317965
+156	GALENICA SANTE	CH0360674466	Schweiz	CHF	Scoach Switzerland	Equity	-	Swiss Market Index	Health Care	0.0018308432
+157	AURUBIS	DE0006766504	Deutschland	EUR	XETRA	Equity	-	DAX Index	Materials	0.0018301197
+158	REPLY	IT0005282865	Italien	EUR	-	Equity	-	-	Information Technology	0.0018265038
+159	WH SMITH	GB00B2PDGW16	Vereinigtes Königreich	GBP	London Stock Exchange	Equity	-	FTSE 100 Index	Consumer Discretionary	0.0018199121
+160	ZUR ROSE	CH0042615283	Schweiz	CHF	-	Equity	-	-	Consumer Staples	0.0018093907
+161	CEMBRA MONEY BANK	CH0225173167	Schweiz	CHF	Scoach Switzerland	Equity	-	Swiss Market Index	Financials	0.0018090898
+162	SOFTCAT	GB00BYZDVK82	Vereinigtes Königreich	GBP	London Stock Exchange	Equity	-	FTSE 100 Index	Information Technology	0.0017934818
+163	BRAVIDA HLDG. AB	SE0007491303	Schweden	SEK	Stockholm Stock Exchange	Equity	-	OMX Stockholm 30 Index	Industrials	0.001791692
+164	DART	GB00B1722W11	Vereinigtes Königreich	GBP	London Stock Exchange	Equity	-	FTSE 100 Index	Industrials	0.0017905369
+165	BIG YELLOW GROUP	GB0002869419	Vereinigtes Königreich	GBP	London Stock Exchange	Equity	-	FTSE 100 Index	Real Estate	0.0017819696
+166	SOPRA GROUP	FR0000050809	Frankreich	EUR	Euronext Paris	Equity	-	CAC 40 Index	Information Technology	0.0017816772
+167	ARCADIS	NL0006237562	Niederlande	EUR	Euronext Amsterdam	Equity	-	Amsterdam Exchanges Index	Industrials	0.0017808677
+168	WIHLBORGS FASTIG RG	SE0011205194	Schweden	SEK	-	Equity	-	-	Real Estate	0.0017768525
+169	INMOBILIARIA COLONIAL	ES0139140174	Spanien	EUR	Mercado Continuo Espana	Equity	-	IBEX 35 Index	Real Estate	0.001772589
+170	BACHEM	CH0012530207	Schweiz	CHF	Scoach Switzerland	Equity	-	Swiss Market Index	Health Care	0.0017675772
+171	SCATEC SOLAR	NO0010715139	Norwegen	NOK	Oslo Stock Exchange	Equity	-	Oslo SE All-share Index	Utilities	0.0017572151
+172	APERAM	LU0569974404	Luxemburg	EUR	Euronext Amsterdam	Equity	B3	Amsterdam Exchanges Index	Materials	0.0017481624
+173	INVESTEC	GB00B17BBQ50	Vereinigtes Königreich	GBP	London Stock Exchange	Equity	Ba1	FTSE 100 Index	Financials	0.0017388784
+174	BALFOUR BEATTY	GB0000961622	Vereinigtes Königreich	GBP	London Stock Exchange	Equity	B1	FTSE 100 Index	Industrials	0.0017359724
+175	MICHAEL PAGE INTL.	GB0030232317	Vereinigtes Königreich	GBP	London Stock Exchange	Equity	-	FTSE 100 Index	Industrials	0.0017301148
+176	OSB GRP RG	GB00BLDRH360	Vereinigtes Königreich	GBP	-	Equity	-	-	Financials	0.0017278512
+177	VICTREX	GB0009292243	Vereinigtes Königreich	GBP	London Stock Exchange	Equity	-	FTSE 100 Index	Materials	0.0017267716
+178	UNIPOL	IT0004810054	Italien	EUR	Milan Stock Exchange	Equity	Ba2	FTSE Italia All-Share Index	Financials	0.0017243927
+179	JYSKE BANK	DK0010307958	Dänemark	DKK	Copenhagen Stock Exchange	Equity	-	OMX COPENHAGEN 20 Index	Financials	0.0017130302
+180	CRANSWICK	GB0002318888	Vereinigtes Königreich	GBP	London Stock Exchange	Equity	-	FTSE 100 Index	Consumer Staples	0.0017124261
+181	SPIE	FR0012757854	Frankreich	EUR	Euronext Paris	Equity	-	CAC 40 Index	Industrials	0.0017057945
+182	JOHN LAING GROUP	GB00BVC3CB83	Vereinigtes Königreich	GBP	London Stock Exchange	Equity	-	FTSE 100 Index	Industrials	0.0016860158
+183	KONECRANES	FI0009005870	Finnland	EUR	Helsinki Stock Exchange	Equity	-	OMX Helsinki Index	Industrials	0.00168128
+184	MORPHOSYS	DE0006632003	Deutschland	EUR	XETRA	Equity	-	DAX Index	Health Care	0.0016799909
+185	COMPUTACENTER	GB00BV9FP302	Vereinigtes Königreich	GBP	London Stock Exchange	Equity	-	FTSE 100 Index	Information Technology	0.0016683853
+186	VISCOFAN	ES0184262212	Spanien	EUR	Mercado Continuo Espana	Equity	B1	IBEX 35 Index	Consumer Staples	0.0016646166
+187	IDORSIA	CH0363463438	Schweiz	CHF	Scoach Switzerland	Equity	-	Swiss Market Index	Health Care	0.0016641657
+188	AXFOOD	SE0006993770	Schweden	SEK	Stockholm Stock Exchange	Equity	-	OMX Stockholm 30 Index	Consumer Staples	0.0016585038
+189	FRAPORT	DE0005773303	Deutschland	EUR	XETRA	Equity	-	DAX Index	Industrials	0.0016504092
+190	LEROY SEAFOOD GROUP	NO0003096208	Norwegen	NOK	Oslo Stock Exchange	Equity	-	Oslo SE All-share Index	Consumer Staples	0.001649895
+191	POSTNL	NL0009739416	Niederlande	EUR	Euronext Amsterdam	Equity	Baa3	Amsterdam Exchanges Index	Industrials	0.0016460139
+192	SPBK 1 SR-BANK RG	NO0010631567	Norwegen	NOK	Oslo Stock Exchange	Equity	A2	Oslo SE All-share Index	Financials	0.0016402586
+193	PEAB B	SE0000106205	Schweden	SEK	Stockholm Stock Exchange	Equity	-	OMX Stockholm 30 Index	Industrials	0.0016394589
+194	GRAND CITY PROPERTIES	LU0775917882	Luxemburg	EUR	XETRA	Equity	-	DAX Index	Real Estate	0.0016387934
+195	RENISHAW	GB0007323586	Vereinigtes Königreich	GBP	London Stock Exchange	Equity	B1	FTSE 100 Index	Information Technology	0.0016367725
+196	REDROW RG	GB00BG11K365	Vereinigtes Königreich	GBP	-	Equity	-	-	Consumer Discretionary	0.0016237302
+197	OCI NV	NL0010558797	Niederlande	EUR	Euronext Amsterdam	Equity	-	Amsterdam Exchanges Index	Materials	0.0016214074
+198	CA IMMOBILIEN ANLAGEN	AT0000641352	Österreich	EUR	Vienna Stock Exchange	Equity	-	Austrian Traded Index	Real Estate	0.0016197719
+199	SAFESTORE HLDGS.	GB00B1N7Z094	Vereinigtes Königreich	GBP	London Stock Exchange	Equity	-	FTSE 100 Index	Real Estate	0.0016156809
+200	TRAINLINE RG	GB00BKDTK925	Vereinigtes Königreich	GBP	-	Equity	-	-	Consumer Discretionary	0.0016138804
+201	ICADE EMGP	FR0000035081	Frankreich	EUR	Euronext Paris	Equity	Baa1	CAC 40 Index	Real Estate	0.0016123423
+202	LOOMIS RG	SE0014504817	Schweden	SEK	-	Equity	-	-	Industrials	0.0016118721
+203	NEL	NO0010081235	Norwegen	NOK	Oslo Stock Exchange	Equity	-	Oslo SE All-share Index	Industrials	0.0016115368
+204	WACKER CHEMIE	DE000WCH8881	Deutschland	EUR	XETRA	Equity	-	DAX Index	Materials	0.00160519
+205	KORIAN	FR0010386334	Frankreich	EUR	Euronext Paris	Equity	-	CAC 40 Index	Health Care	0.0016049786
+206	VARTA	DE000A0TGJ55	Deutschland	EUR	XETRA	Equity	-	DAX Index	Industrials	0.001594093
+207	BANCA GENERALI	IT0001031084	Italien	EUR	Milan Stock Exchange	Equity	-	FTSE Italia All-Share Index	Financials	0.00157806
+208	SBM OFFSHORE	NL0000360618	Niederlande	EUR	Euronext Amsterdam	Equity	-	Amsterdam Exchanges Index	Energy	0.0015733006
+209	ALSTRIA OFFICE REIT	DE000A0LD2U1	Deutschland	EUR	XETRA	Equity	-	DAX Index	Real Estate	0.0015732891
+210	RWS HLDGS RG	GB00BVFCZV34	Vereinigtes Königreich	GBP	-	Equity	-	-	Industrials	0.0015726189
+211	FINTECH GR.	DE000FTG1111	Deutschland	EUR	-	Equity	-	DAX Index	Financials	0.0015704488
+212	ALLREAL N	CH0008837566	Schweiz	CHF	Scoach Switzerland	Equity	-	Swiss Market Index	Real Estate	0.0015693898
+213	BAVARIAN NORDIC	DK0015998017	Dänemark	DKK	Copenhagen Stock Exchange	Equity	-	OMX COPENHAGEN 20 Index	Health Care	0.0015678404
+214	MAPFRE	ES0124244E34	Spanien	EUR	Mercado Continuo Espana	Equity	Baa1	IBEX 35 Index	Financials	0.0015673992
+215	DKSH HLDG.	CH0126673539	Schweiz	CHF	Scoach Switzerland	Equity	-	Swiss Market Index	Industrials	0.0015653826
+216	GREAT PORT EST	GB00BF5H9P87	Vereinigtes Königreich	GBP	-	Equity	-	-	Real Estate	0.0015619847
+217	BOSKALIS WESTMINSTER	NL0000852580	Niederlande	EUR	Euronext Amsterdam	Equity	-	Amsterdam Exchanges Index	Industrials	0.0015608496
+218	STILLFRONT GRP RG	SE0015346135	Schweden	SEK	-	Equity	-	-	Communication Services	0.0015562741
+219	AZIMUT HLDG.	IT0003261697	Italien	EUR	Milan Stock Exchange	Equity	-	FTSE Italia All-Share Index	Financials	0.0015545724
+220	ASSURA	GB00BVGBWW93	Vereinigtes Königreich	GBP	London Stock Exchange	Equity	-	FTSE 100 Index	Real Estate	0.001551219
+221	D'IETEREN	BE0974259880	Belgien	EUR	Euronext Brussels	Equity	-	BEL 20 Index	Consumer Discretionary	0.0015501643
+222	KOJAMO	FI4000312251	Finnland	EUR	Helsinki Stock Exchange	Equity	-	OMX Helsinki Index	Real Estate	0.0015437706
+223	SHOP APOTHEKE EUROPE	NL0012044747	Niederlande	EUR	-	Equity	-	-	Consumer Discretionary	0.0015434539
+224	VITROLIFE RG	SE0011205202	Schweden	SEK	-	Equity	-	-	Health Care	0.0015389918
+225	WALLENSTAM	SE0007074844	Schweden	SEK	Stockholm Stock Exchange	Equity	-	OMX Stockholm 30 Index	Real Estate	0.0015380645
+226	EASYJET	GB00B7KR2P84	Vereinigtes Königreich	GBP	London Stock Exchange	Equity	-	FTSE 100 Index	Industrials	0.0015374929
+227	BEFESA	LU1704650164	Luxemburg	EUR	-	Equity	-	-	Industrials	0.0015362848
+228	PRIMARY HEALTH PROP.	GB00BYRJ5J14	Vereinigtes Königreich	GBP	London Stock Exchange	Equity	-	FTSE 100 Index	Real Estate	0.0015357317
+229	LONDON & STAM PTY	GB00B4WFW713	Vereinigtes Königreich	GBP	London Stock Exchange	Equity	B1	FTSE 100 Index	Real Estate	0.0015354341
+230	SFS GROUP	CH0239229302	Schweiz	CHF	Scoach Switzerland	Equity	-	Swiss Market Index	Industrials	0.0015353243
+231	GRAINGER	GB00B04V1276	Vereinigtes Königreich	GBP	London Stock Exchange	Equity	Ba2	FTSE 100 Index	Real Estate	0.0015353045
+232	DRAX GROUP	GB00B1VNSX38	Vereinigtes Königreich	GBP	London Stock Exchange	Equity	-	FTSE 100 Index	Utilities	0.0015340497
+233	JUNGHEINRICH	DE0006219934	Deutschland	EUR	XETRA	Equity	-	DAX Index	Industrials	0.001532729
+234	TOPDANMARK	DK0060477503	Dänemark	DKK	Copenhagen Stock Exchange	Equity	-	OMX COPENHAGEN 20 Index	Financials	0.0015155617
+235	RINGKJOEBING LANDBOBANK	DK0060854669	Dänemark	DKK	Copenhagen Stock Exchange	Equity	-	-	Financials	0.0015040808
+236	BREEDON GRP RG	JE00B2419D89	Jersey	GBP	-	Equity	-	-	Materials	0.0014990318
+237	M-REAL CORPORATION	FI0009000665	Finnland	EUR	Helsinki Stock Exchange	Equity	-	OMX Helsinki Index	Materials	0.0014969813
+238	QINETIQ GROUP	GB00B0WMWD03	Vereinigtes Königreich	GBP	London Stock Exchange	Equity	B1	FTSE 100 Index	Industrials	0.0014955849
+239	KEYWORDS STUDIOS	GB00BBQ38507	Irland	GBP	London Stock Exchange	Equity	-	FTSE 100 Index	Information Technology	0.0014876872
+240	CARGOTEC CORPORATION	FI0009013429	Finnland	EUR	Helsinki Stock Exchange	Equity	-	OMX Helsinki Index	Industrials	0.0014811561
+241	BEAZLEY	GB00BYQ0JC66	Vereinigtes Königreich	GBP	London Stock Exchange	Equity	-	FTSE 100 Index	Financials	0.0014779286
+242	INTEGRAFIN HLDGS.	GB00BD45SH49	Vereinigtes Königreich	GBP	-	Equity	-	-	Financials	0.0014719861
+243	DORMAKABA	CH0011795959	Schweiz	CHF	Scoach Switzerland	Equity	-	Swiss Market Index	Industrials	0.0014718935
+244	BUZZI UNICEM	IT0001347308	Italien	EUR	Milan Stock Exchange	Equity	Ba1	FTSE Italia All-Share Index	Materials	0.0014704392
+245	WOOD GROUP (JOHN)	GB00B5N0P849	Vereinigtes Königreich	GBP	London Stock Exchange	Equity	-	FTSE 100 Index	Energy	0.001469585
+246	NETW INTL HLDGS RG	GB00BH3VJ782	Vereinigtes Königreich	GBP	-	Equity	-	-	Information Technology	0.0014676904
+247	JM AB	SE0000806994	Schweden	SEK	Stockholm Stock Exchange	Equity	-	OMX Stockholm 30 Index	Consumer Discretionary	0.0014676028
+248	GB GR.	GB0006870611	Vereinigtes Königreich	GBP	London Stock Exchange	Equity	-	FTSE 100 Index	Information Technology	0.0014671783
+249	SULZER	CH0038388911	Schweiz	CHF	Scoach Switzerland	Equity	-	Swiss Market Index	Industrials	0.0014654674
+250	BURFORD CAPITAL	GG00BMGYLN96	Guernsey	GBP	-	Equity	-	-	Financials	0.0014600211
+251	YULE CATTO	GB0009887422	Vereinigtes Königreich	GBP	London Stock Exchange	Equity	-	FTSE 100 Index	Materials	0.0014584161
+252	INTERROLL N	CH0006372897	Schweiz	CHF	-	Equity	-	-	Industrials	0.0014581547
+253	NEXANS	FR0000044448	Frankreich	EUR	Euronext Paris	Equity	Ba2	CAC 40 Index	Industrials	0.0014539483
+254	SAVILLS	GB00B135BJ46	Vereinigtes Königreich	GBP	London Stock Exchange	Equity	-	FTSE 100 Index	Real Estate	0.0014426086
+255	SERCO GROUP	GB0007973794	Vereinigtes Königreich	GBP	London Stock Exchange	Equity	B1	FTSE 100 Index	Industrials	0.0014398892
+256	NOLATO RG-B	SE0015962477	Schweden	SEK	-	Equity	-	-	Industrials	0.0014351849
+257	SAAB B	SE0000112385	Schweden	SEK	Stockholm Stock Exchange	Equity	-	OMX Stockholm 30 Index	Industrials	0.0014319065
+258	BPER BANCA	IT0000066123	Italien	EUR	Milan Stock Exchange	Equity	Ba2	FTSE Italia All-Share Index	Financials	0.0014316047
+259	DOMINO'S PIZZA UK & IRL	GB00BYN59130	Vereinigtes Königreich	GBP	London Stock Exchange	Equity	-	FTSE 100 Index	Consumer Discretionary	0.0014209227
+260	ACERIAS Y FORJAS DE AZCOITIA	ES0105630315	Spanien	EUR	Mercado Continuo Espana	Equity	-	IBEX 35 Index	Consumer Discretionary	0.0014025537
+261	TKH	NL0000852523	Niederlande	EUR	Euronext Amsterdam	Equity	-	Amsterdam Exchanges Index	Industrials	0.0013992889
+262	MICRONIC LASER SYSTEMS	SE0000375115	Schweden	SEK	Stockholm Stock Exchange	Equity	-	OMX Stockholm 30 Index	Information Technology	0.001398759
+263	AIB GR.	IE00BF0L3536	Irland	EUR	-	Equity	-	-	Financials	0.0013974695
+264	OSRAM LICHT	DE000LED4000	Deutschland	EUR	XETRA	Equity	-	DAX Index	Industrials	0.001394102
+265	EUTELSAT COMMUNICATIONS	FR0010221234	Frankreich	EUR	Euronext Paris	Equity	Baa2	CAC 40 Index	Communication Services	0.0013936786
+266	STROER OUT-OF-HOME	DE0007493991	Deutschland	EUR	XETRA	Equity	-	DAX Index	Communication Services	0.0013931252
+267	MOBIMO HOLDING	CH0011108872	Schweiz	CHF	Scoach Switzerland	Equity	-	Swiss Market Index	Real Estate	0.0013899389
+268	BCA POP. SONDRIO	IT0000784196	Italien	EUR	Milan Stock Exchange	Equity	-	FTSE Italia All-Share Index	Financials	0.0013870777
+269	DUNELM GR.	GB00B1CKQ739	Vereinigtes Königreich	GBP	London Stock Exchange	Equity	-	FTSE 100 Index	Consumer Discretionary	0.0013804258
+270	BIC	FR0000120966	Frankreich	EUR	Euronext Paris	Equity	-	CAC 40 Index	Industrials	0.001374909
+271	ACERINOX	ES0132105018	Spanien	EUR	Mercado Continuo Espana	Equity	-	IBEX 35 Index	Materials	0.0013732678
+272	MARSHALLS	GB00B012BV22	Vereinigtes Königreich	GBP	London Stock Exchange	Equity	-	FTSE 100 Index	Materials	0.0013682062
+273	SUBSEA 7 S.A.	LU0075646355	Vereinigtes Königreich	NOK	Oslo Stock Exchange	Equity	-	Oslo SE All-share Index	Energy	0.0013679355
+274	ADO PROPERTIES	LU1250154413	Deutschland	EUR	XETRA	Equity	-	DAX Index	Real Estate	0.001362957
+275	DAETWYLER HLDG.	CH0030486770	Schweiz	CHF	Scoach Switzerland	Equity	-	Swiss Market Index	Industrials	0.0013616287
+276	SPIRENT COMMUNICATIONS	GB0004726096	Vereinigtes Königreich	GBP	London Stock Exchange	Equity	-	FTSE 100 Index	Information Technology	0.0013600916
+277	CERVED INFORM. SOLUTIONS SPA	IT0005010423	Italien	EUR	Milan Stock Exchange	Equity	-	FTSE Italia All-Share Index	Financials	0.001354759
+278	LANCASHIRE HLDGS.	BMG5361W1047	Vereinigtes Königreich	GBP	London Stock Exchange	Equity	Baa2	FTSE 100 Index	Financials	0.0013522886
+279	MICRO FOCUS INTL RG	GB00BJ1F4N75	Vereinigtes Königreich	GBP	-	Equity	-	-	Information Technology	0.001352095
+280	K+S	DE000KSAG888	Deutschland	EUR	XETRA	Equity	Ba1	DAX Index	Materials	0.0013505828
+281	INTRUM JUSTITIA	SE0000936478	Schweden	SEK	Stockholm Stock Exchange	Equity	-	OMX Stockholm 30 Index	Industrials	0.0013473552
+282	ASHMORE GROUP	GB00B132NW22	Vereinigtes Königreich	GBP	London Stock Exchange	Equity	-	FTSE 100 Index	Financials	0.001345997
+283	CANCOM IT SYS.	DE0005419105	Deutschland	EUR	XETRA	Equity	B1	DAX Index	Information Technology	0.0013444454
+284	OC OERLIKON	CH0000816824	Schweiz	CHF	Scoach Switzerland	Equity	-	Swiss Market Index	Industrials	0.0013420946
+285	JCDECAUX	FR0000077919	Frankreich	EUR	Euronext Paris	Equity	Baa2	CAC 40 Index	Communication Services	0.0013409618
+286	BORREGAARD	NO0010657505	Norwegen	NOK	Oslo Stock Exchange	Equity	-	Oslo SE All-share Index	Materials	0.0013406798
+287	DURR	DE0005565204	Deutschland	EUR	XETRA	Equity	-	DAX Index	Industrials	0.0013351545
+288	ULTRA ELECTRONICS HLDGS.	GB0009123323	Vereinigtes Königreich	GBP	London Stock Exchange	Equity	-	FTSE 100 Index	Industrials	0.0013298106
+289	TP ICAP GRP RG	JE00BMDZN391	Jersey	GBP	-	Equity	-	-	Financials	0.0013286233
+290	HUFVUDSTADEN	SE0000170375	Schweden	SEK	Stockholm Stock Exchange	Equity	-	OMX Stockholm 30 Index	Real Estate	0.0013281929
+291	CVS GROUP	GB00B2863827	Vereinigtes Königreich	GBP	London Stock Exchange	Equity	-	FTSE 100 Index	Health Care	0.0013269873
+292	AIXTRON	DE000A0WMPJ6	Deutschland	EUR	XETRA	Equity	-	DAX Index	Information Technology	0.0013243159
+293	STADLER RAIL	CH0002178181	Schweiz	CHF	-	Equity	-	-	Industrials	0.0013230384
+294	KUNGSLEDEN	SE0000549412	Schweden	SEK	Stockholm Stock Exchange	Equity	-	OMX Stockholm 30 Index	Real Estate	0.001317944
+295	EMMI	CH0012829898	Schweiz	CHF	Scoach Switzerland	Equity	-	Swiss Market Index	Consumer Staples	0.0013152943
+296	IMMOFINANZ	AT0000A21KS2	Österreich	EUR	Vienna Stock Exchange	Equity	-	Austrian Traded Index	Real Estate	0.0013117765
+297	MONEYSUPERMARKET.COM	GB00B1ZBKY84	Vereinigtes Königreich	GBP	London Stock Exchange	Equity	-	FTSE 100 Index	Consumer Discretionary	0.0013078378
+298	NEXITY	FR0010112524	Frankreich	EUR	Euronext Paris	Equity	-	CAC 40 Index	Real Estate	0.0013063775
+299	NYFOSA	SE0011426428	Schweden	SEK	-	Equity	-	-	Real Estate	0.0013061865
+300	BASIC-FIT	NL0011872650	Niederlande	EUR	Euronext Amsterdam	Equity	-	Amsterdam Exchanges Index	Consumer Discretionary	0.0013039167
+301	PIRELLI & C SPA	IT0005278236	Italien	EUR	-	Equity	-	-	Consumer Discretionary	0.0013009329
+302	CENTAMIN	JE00B5TT1872	Jersey	GBP	London Stock Exchange	Equity	-	FTSE 100 Index	Materials	0.0012926282
+303	SOFTWARE	DE000A2GS401	Deutschland	EUR	XETRA	Equity	-	DAX Index	Information Technology	0.0012874867
+304	NKT HLDG.	DK0010287663	Dänemark	DKK	Copenhagen Stock Exchange	Equity	-	OMX COPENHAGEN 20 Index	Industrials	0.001286288
+305	BKW AG	CH0130293662	Schweiz	CHF	Scoach Switzerland	Equity	-	Swiss Market Index	Utilities	0.0012814668
+306	NATIONAL EXPRESS GROUP	GB0006215205	Vereinigtes Königreich	GBP	London Stock Exchange	Equity	Baa3	FTSE 100 Index	Industrials	0.00127956
+307	FORTNOX RG	SE0001966656	Schweden	SEK	-	Equity	-	FTSE 100 Index	Information Technology	0.0012764835
+308	VONTOBEL	CH0012335540	Schweiz	CHF	Scoach Switzerland	Equity	-	Swiss Market Index	Financials	0.001270695
+309	DLY MG NON VTG-A RG	GB00BJQZC279	Vereinigtes Königreich	GBP	-	Equity	-	-	Communication Services	0.0012567836
+310	GAZTRANSPORT ET TECHNIGAZ	FR0011726835	Frankreich	EUR	Euronext Paris	Equity	-	CAC 40 Index	Energy	0.0012529345
+311	BURE EQUITY	SE0000195810	Schweden	SEK	Stockholm Stock Exchange	Equity	-	OMX Stockholm 30 Index	Financials	0.0012529111
+312	MELEXIS	BE0165385973	Belgien	EUR	Euronext Brussels	Equity	-	BEL 20 Index	Information Technology	0.0012490582
+313	SOFTWAREONE HOLDING	CH0496451508	Schweiz	CHF	Scoach Switzerland	Equity	-	Swiss Market Index	Information Technology	0.001246701
+314	VALIANT HLDG	CH0014786500	Schweiz	CHF	Scoach Switzerland	Equity	-	Swiss Market Index	Financials	0.001241684
+315	IRIDE	IT0003027817	Italien	EUR	Milan Stock Exchange	Equity	-	FTSE Italia All-Share Index	Utilities	0.0012343102
+316	KONGSBERG GRUPP	NO0003043309	Norwegen	NOK	Oslo Stock Exchange	Equity	-	Oslo SE All-share Index	Industrials	0.0012322037
+317	BODYCOTE	GB00B3FLWH99	Vereinigtes Königreich	GBP	London Stock Exchange	Equity	-	FTSE 100 Index	Industrials	0.0012242304
+318	BREMBO	IT0005252728	Italien	EUR	Milan Stock Exchange	Equity	-	FTSE Italia All-Share Index	Consumer Discretionary	0.0011989208
+319	ASCENTIAL	GB00BYM8GJ06	Vereinigtes Königreich	GBP	London Stock Exchange	Equity	-	FTSE 100 Index	Communication Services	0.0011980947
+320	HYPOPORT	DE0005493365	Deutschland	EUR	XETRA	Equity	-	DAX Index	Financials	0.0011901367
+321	COMPUGROUP MEDICAL	DE000A288904	Deutschland	EUR	-	Equity	-	-	Health Care	0.0011836898
+322	PLASTIC OMNIUM	FR0000124570	Frankreich	EUR	Euronext Paris	Equity	-	CAC 40 Index	Consumer Discretionary	0.0011836898
+323	INTERTRUST	NL0010937058	Niederlande	EUR	Euronext Amsterdam	Equity	-	Amsterdam Exchanges Index	Industrials	0.0011814327
+324	STABILUS	LU1066226637	Deutschland	EUR	XETRA	Equity	-	DAX Index	Industrials	0.0011670808
+325	S4 CAP RG	GB00BFZZM640	Vereinigtes Königreich	GBP	-	Equity	-	-	Communication Services	0.0011670556
+326	BARCO RG	BE0974362940	Belgien	EUR	-	Equity	-	-	Information Technology	0.0011644477
+327	HAMMERSON REIT RG	GB00BK7YQK64	Vereinigtes Königreich	GBP	-	Equity	-	-	Real Estate	0.0011599749
+328	AUTOSTRADA	IT0000084027	Italien	EUR	Milan Stock Exchange	Equity	B1	FTSE Italia All-Share Index	Industrials	0.0011579393
+329	LENZING	AT0000644505	Österreich	EUR	Vienna Stock Exchange	Equity	-	Austrian Traded Index	Materials	0.001149059
+330	FLSMIDTH & CO.	DK0010234467	Dänemark	DKK	Copenhagen Stock Exchange	Equity	-	OMX COPENHAGEN 20 Index	Industrials	0.0011478786
+331	ARJO (B)	SE0010468116	Schweden	SEK	-	Equity	-	OMX Stockholm 30 Index	Health Care	0.0011435619
+332	AL NOOR HOSPITALS	GB00B8HX8Z88	Vereinigte Arabische Emirate	GBP	London Stock Exchange	Equity	-	FTSE 100 Index	Health Care	0.0011419814
+333	DFDS	DK0060655629	Dänemark	DKK	Copenhagen Stock Exchange	Equity	-	OMX COPENHAGEN 20 Index	Industrials	0.0011418851
+334	SIXT ST.	DE0007231326	Deutschland	EUR	XETRA	Equity	-	DAX Index	Industrials	0.0011290959
+335	AKER A	NO0010234552	Norwegen	NOK	Oslo Stock Exchange	Equity	-	Oslo SE All-share Index	Financials	0.0011266003
+336	MIPS	SE0009216278	Schweden	SEK	-	Equity	-	-	Consumer Discretionary	0.0011241606
+337	CPTL & COUNT PROP	GB00B62G9D36	Vereinigtes Königreich	GBP	London Stock Exchange	Equity	-	FTSE 100 Index	Real Estate	0.0011233999
+338	INFICON	CH0011029946	Schweiz	CHF	Scoach Switzerland	Equity	-	Swiss Market Index	Information Technology	0.0011218061
+339	888 HLDGS.	GI000A0F6407	Gibraltar	GBP	London Stock Exchange	Equity	-	FTSE 100 Index	Consumer Discretionary	0.0011203031
+340	PLAYTECH	IM00B7S9G985	Isle of Man	GBP	London Stock Exchange	Equity	-	FTSE 100 Index	Consumer Discretionary	0.0011146119
+341	PARAGON GROUP OF COMPANIES	GB00B2NGPM57	Vereinigtes Königreich	GBP	London Stock Exchange	Equity	-	FTSE 100 Index	Financials	0.0011142809
+342	SPAREBANKEN MIDT-NORGE	NO0006390301	Norwegen	NOK	Oslo Stock Exchange	Equity	-	Oslo SE All-share Index	Financials	0.001112692
+343	ENCAVIS	DE0006095003	Deutschland	EUR	XETRA	Equity	-	DAX Index	Utilities	0.0010995886
+344	JACKPOTJOY	GB00BZ14BX56	Vereinigtes Königreich	GBP	London Stock Exchange	Equity	-	FTSE 100 Index	Consumer Discretionary	0.001095557
+345	POLYPIPE	GB00BKRC5K31	Vereinigtes Königreich	GBP	London Stock Exchange	Equity	-	FTSE 100 Index	Industrials	0.0010933416
+346	ERG	IT0001157020	Italien	EUR	Milan Stock Exchange	Equity	-	FTSE Italia All-Share Index	Utilities	0.0010834687
+347	NEW CARPHONE WAREHOUSE	GB00B4Y7R145	Vereinigtes Königreich	GBP	London Stock Exchange	Equity	-	FTSE 100 Index	Consumer Discretionary	0.0010833273
+348	SHAFTESBURY	GB0007990962	Vereinigtes Königreich	GBP	London Stock Exchange	Equity	-	FTSE 100 Index	Real Estate	0.0010808914
+349	FERREXPO	GB00B1XH2C03	Schweiz	GBP	London Stock Exchange	Equity	B2	FTSE 100 Index	Materials	0.0010757663
+350	ASTON MARTIN LAGONDA GL.	GB00BN7CG237	Vereinigtes Königreich	GBP	-	Equity	-	-	Consumer Discretionary	0.001074154
+351	PLUS500	IL0011284465	Israel	GBP	London Stock Exchange	Equity	-	FTSE 100 Index	Financials	0.0010647764
+352	ALSO HLDG.	CH0024590272	Schweiz	CHF	Scoach Switzerland	Equity	-	Swiss Market Index	Information Technology	0.0010628634
+353	ITM POWER	GB00B0130H42	Vereinigtes Königreich	GBP	-	Equity	-	-	Industrials	0.0010559443
+354	TRIGANO	FR0005691656	Frankreich	EUR	Euronext Paris	Equity	-	CAC 40 Index	Consumer Discretionary	0.0010559179
+355	ST MODWEN PROPERTIES	GB0007291015	Vereinigtes Königreich	GBP	London Stock Exchange	Equity	-	FTSE 100 Index	Real Estate	0.0010439461
+356	TGS NOPEC GEOPHYSICAL CO.	NO0003078800	Norwegen	NOK	Oslo Stock Exchange	Equity	-	Oslo SE All-share Index	Energy	0.0010375728
+357	WORKSPACE GROUP	GB00B67G5X01	Vereinigtes Königreich	GBP	London Stock Exchange	Equity	-	FTSE 100 Index	Real Estate	0.001033671
+358	OUTOKUMPU	FI0009002422	Finnland	EUR	Helsinki Stock Exchange	Equity	-	OMX Helsinki Index	Materials	0.0010325787
+359	AAREAL BANK	DE0005408116	Deutschland	EUR	XETRA	Equity	-	DAX Index	Financials	0.0010315772
+360	FORBO N	CH0003541510	Schweiz	CHF	Scoach Switzerland	Equity	-	Swiss Market Index	Consumer Discretionary	0.0010306294
+361	CONZZETA	CH0244017502	Schweiz	CHF	Scoach Switzerland	Equity	-	Swiss Market Index	Industrials	0.0010296722
+362	SPORTS DIRECT INTL.	GB00B1QH8P22	Vereinigtes Königreich	GBP	London Stock Exchange	Equity	-	FTSE 100 Index	Consumer Discretionary	0.0010268019
+363	TELENET GROUP	BE0003826436	Belgien	EUR	Euronext Brussels	Equity	B1	BEL 20 Index	Communication Services	0.0010225299
+364	SAIPEM	IT0005252140	Italien	EUR	Milan Stock Exchange	Equity	-	FTSE Italia All-Share Index	Energy	0.0010219753
+365	METRO WHOLESALE & FOOD SPECIALIST	DE000BFB0019	Deutschland	EUR	XETRA	Equity	-	DAX Index	Consumer Staples	0.001016855
+366	IMERYS	FR0000120859	Frankreich	EUR	Euronext Paris	Equity	Baa2	CAC 40 Index	Materials	0.001016381
+367	INSTALCO INTRESSENTER	SE0009664253	Schweden	SEK	-	Equity	-	-	Industrials	0.0010143752
+368	ZOOPLUS	DE0005111702	Deutschland	EUR	XETRA	Equity	-	DAX Index	Consumer Discretionary	0.0010133434
+369	JUPITER	GB00B53P2009	Vereinigtes Königreich	GBP	London Stock Exchange	Equity	-	FTSE 100 Index	Financials	0.001009505
+370	PANDOX	SE0007100359	Schweden	SEK	Stockholm Stock Exchange	Equity	-	OMX Stockholm 30 Index	Consumer Discretionary	0.0010003222
+371	IP GROUP	GB00B128J450	Vereinigtes Königreich	GBP	London Stock Exchange	Equity	-	FTSE 100 Index	Financials	0.0009821201
+372	SIXT VZ.	DE0007231334	Deutschland	EUR	XETRA	Equity	-	DAX Index	Industrials	0.0009729875
+373	TROAX GRP	SE0012729366	Schweden	SEK	-	Equity	-	-	Industrials	0.0009724158
+374	HILLL & SMITH HLDGS.	GB0004270301	Vereinigtes Königreich	GBP	London Stock Exchange	Equity	-	FTSE 100 Index	Materials	0.0009712711
+375	BRUNELLO CUCINELLI	IT0004764699	Italien	EUR	Milan Stock Exchange	Equity	-	FTSE Italia All-Share Index	Consumer Discretionary	0.000969029
+376	NEOEN	FR0011675362	Frankreich	EUR	-	Equity	-	-	Utilities	0.0009649235
+377	EURONAV	BE0003816338	Belgien	EUR	Euronext Brussels	Equity	-	BEL 20 Index	Energy	0.0009601669
+378	RHI MAGNESITA NV	NL0012650360	Niederlande	GBP	-	Equity	-	-	Materials	0.0009600111
+379	SYDBANK	DK0010311471	Dänemark	DKK	Copenhagen Stock Exchange	Equity	Baa1	OMX COPENHAGEN 20 Index	Financials	0.0009576911
+380	SCHWEITER TECH.	CH0010754924	Schweiz	CHF	Scoach Switzerland	Equity	-	Swiss Market Index	Industrials	0.0009499219
+381	J D WETHERSPOON	GB0001638955	Vereinigtes Königreich	GBP	London Stock Exchange	Equity	-	FTSE 100 Index	Consumer Discretionary	0.0009480283
+382	KBC ANCORA	BE0003867844	Belgien	EUR	Euronext Brussels	Equity	-	BEL 20 Index	Financials	0.0009402391
+383	EBRO FOODS	ES0112501012	Spanien	EUR	Mercado Continuo Espana	Equity	-	IBEX 35 Index	Consumer Staples	0.0009380879
+384	XIOR STUDENT HOUSING	BE0974288202	Belgien	EUR	Euronext Brussels	Equity	-	BEL 20 Index	Real Estate	0.0009365192
+385	KAINOS GR.	GB00BZ0D6727	Vereinigtes Königreich	GBP	London Stock Exchange	Equity	-	FTSE 100 Index	Information Technology	0.0009352217
+386	LIONTR. ASSET MANAGEMENT	GB0007388407	Vereinigtes Königreich	GBP	London Stock Exchange	Equity	-	FTSE 100 Index	Financials	0.0009351087
+387	VESUVIUS	GB00B82YXW83	Vereinigtes Königreich	GBP	London Stock Exchange	Equity	-	FTSE 100 Index	Industrials	0.0009229663
+388	EUROMONEY INSTIT. INVESTOR	GB0006886666	Vereinigtes Königreich	GBP	London Stock Exchange	Equity	-	FTSE 100 Index	Communication Services	0.0009176841
+389	LINDAB INTERNATIONAL	SE0001852419	Schweden	SEK	Stockholm Stock Exchange	Equity	-	OMX Stockholm 30 Index	Industrials	0.0009175299
+390	FILTRONA	GB00B0744359	Vereinigtes Königreich	GBP	London Stock Exchange	Equity	-	FTSE 100 Index	Materials	0.000913789
+391	BYGGHEMMA GROUP FIRST	SE0010948588	Schweden	SEK	-	Equity	-	OMX Stockholm 30 Index	Consumer Discretionary	0.0009136106
+392	DERMAPHARM HLDG	DE000A2GS5D8	Deutschland	EUR	-	Equity	-	DAX Index	Health Care	0.0009111162
+393	ENAV	IT0005176406	Italien	EUR	Milan Stock Exchange	Equity	-	FTSE Italia All-Share Index	Industrials	0.0009102601
+394	C&C GROUP	IE00B010DT83	Irland	GBP	Irish Stock Exchange	Equity	-	ISEQ Irish Overall Index	Consumer Staples	0.0009092427
+395	JUST RETIREMENT GROUP	GB00BCRX1J15	Vereinigtes Königreich	GBP	London Stock Exchange	Equity	-	FTSE 100 Index	Financials	0.000908201
+396	NORMA GRP	DE000A1H8BV3	Deutschland	EUR	XETRA	Equity	-	DAX Index	Industrials	0.0009065703
+397	AJ BELL	GB00BFZNLB60	Vereinigtes Königreich	GBP	-	Equity	-	-	Financials	0.0009047782
+398	COMET HLDG.	CH0360826991	Schweiz	CHF	Scoach Switzerland	Equity	-	Swiss Market Index	Information Technology	0.0009031547
+399	CREST NICHOLSON	GB00B8VZXT93	Vereinigtes Königreich	GBP	London Stock Exchange	Equity	-	FTSE 100 Index	Consumer Discretionary	0.0009020262
+400	IPSOS	FR0000073298	Frankreich	EUR	Euronext Paris	Equity	-	CAC 40 Index	Communication Services	0.000900202
+401	CATALANA OCCIDENTE SA	ES0116920333	Spanien	EUR	Mercado Continuo Espana	Equity	-	IBEX 35 Index	Financials	0.0008987998
+402	BFF BANKING GR.	IT0005244402	Italien	EUR	-	Equity	-	-	Financials	0.0008984434
+403	AUSTEVOLL SEAFOOD	NO0010073489	Norwegen	NOK	Oslo Stock Exchange	Equity	-	Oslo SE All-share Index	Consumer Staples	0.0008975234
+404	INDIVIOR	GB00BRS65X63	Vereinigtes Königreich	GBP	London Stock Exchange	Equity	-	FTSE 100 Index	Health Care	0.0008924865
+405	TOKMANNI	FI4000197934	Finnland	EUR	Helsinki Stock Exchange	Equity	-	OMX Helsinki Index	Consumer Discretionary	0.0008892169
+406	AIR FRANCE-KLM	FR0000031122	Frankreich	EUR	Euronext Paris	Equity	-	CAC 40 Index	Industrials	0.0008882773
+407	NORDEX	DE000A0D6554	Deutschland	EUR	XETRA	Equity	-	DAX Index	Industrials	0.0008865838
+408	METSO CORP.	FI4000440664	Finnland	EUR	-	Equity	-	OMX Helsinki Index	Industrials	0.0008833871
+409	APPLUS SERVICES	ES0105022000	Spanien	EUR	Mercado Continuo Espana	Equity	-	IBEX 35 Index	Industrials	0.0008812707
+410	ANIMA HLDG	IT0004998065	Italien	EUR	Milan Stock Exchange	Equity	-	FTSE Italia All-Share Index	Financials	0.0008790443
+411	PHARMA MAR BR	ES0169501022	Spanien	EUR	-	Equity	-	-	Health Care	0.0008786714
+412	REVENIO GR.	FI0009010912	Finnland	EUR	Helsinki Stock Exchange	Equity	-	OMX Helsinki Index	Health Care	0.0008769512
+413	MUTUIONLINE	IT0004195308	Italien	EUR	-	Equity	-	-	Financials	0.000876084
+414	CASINO GUICHARD PERRACHON	FR0000125585	Frankreich	EUR	Euronext Paris	Equity	Baa3	CAC 40 Index	Consumer Staples	0.0008698614
+415	TECHNIP ENER BR RG	NL0014559478	Frankreich	EUR	-	Equity	-	-	Energy	0.0008682027
+416	NORTHGATE	GB00B41H7391	Vereinigtes Königreich	GBP	London Stock Exchange	Equity	-	FTSE 100 Index	Industrials	0.0008648933
+417	DEUTSCHE PFANDBRIEFBANK	DE0008019001	Deutschland	EUR	XETRA	Equity	-	DAX Index	Financials	0.0008628048
+418	ALD INTL.	FR0013258662	Frankreich	EUR	-	Equity	-	-	Industrials	0.0008592878
+419	LANDIS+GYR LTD	CH0371153492	Schweiz	CHF	-	Equity	-	-	Industrials	0.000859085
+420	NCC B	SE0000117970	Schweden	SEK	Stockholm Stock Exchange	Equity	-	OMX Stockholm 30 Index	Industrials	0.0008561653
+421	LAB. ALMIRALL SA	ES0157097017	Spanien	EUR	Mercado Continuo Espana	Equity	Ba3	IBEX 35 Index	Health Care	0.0008538549
+422	MODERN TIMES	SE0000412371	Schweden	SEK	Stockholm Stock Exchange	Equity	-	OMX Stockholm 30 Index	Communication Services	0.0008518183
+423	S IMMO	AT0000652250	Österreich	EUR	Vienna Stock Exchange	Equity	-	Austrian Traded Index	Real Estate	0.0008453387
+424	NORWEGIAN FINANS HLDG.	NO0010387004	Norwegen	NOK	Oslo Stock Exchange	Equity	-	Oslo SE All-share Index	Financials	0.0008452668
+425	BEKAERT	BE0974258874	Belgien	EUR	Euronext Brussels	Equity	-	BEL 20 Index	Materials	0.0008429182
+426	FIRSTGROUP	GB0003452173	Vereinigtes Königreich	GBP	London Stock Exchange	Equity	Baa3	FTSE 100 Index	Industrials	0.0008309547
+427	OESTERREICHISCHE POST	AT0000APOST4	Österreich	EUR	Vienna Stock Exchange	Equity	-	Austrian Traded Index	Industrials	0.000830596
+428	FLOW TRADERS	NL0011279492	Niederlande	EUR	Euronext Amsterdam	Equity	-	Amsterdam Exchanges Index	Financials	0.0008251149
+429	TECHNOGYM	IT0005162406	Italien	EUR	Milan Stock Exchange	Equity	-	FTSE Italia All-Share Index	Consumer Discretionary	0.0008138663
+430	NCC GROUP	GB00B01QGK86	Vereinigtes Königreich	GBP	London Stock Exchange	Equity	-	FTSE 100 Index	Information Technology	0.0008132876
+431	CLINIGEN	GB00B89J2419	Vereinigtes Königreich	GBP	London Stock Exchange	Equity	-	FTSE 100 Index	Health Care	0.000809564
+432	UPONOR	FI0009002158	Finnland	EUR	Helsinki Stock Exchange	Equity	-	OMX Helsinki Index	Industrials	0.0008093755
+433	EMIS GR.	GB00B61D1Y04	Vereinigtes Königreich	GBP	London Stock Exchange	Equity	-	FTSE 100 Index	Health Care	0.0008092368
+434	GCP STUDENT LIVING	GB00B8460Z43	Vereinigtes Königreich	GBP	London Stock Exchange	Equity	-	FTSE 100 Index	Real Estate	0.0008089725
+435	ALBIOMA	FR0000060402	Frankreich	EUR	Euronext Paris	Equity	-	CAC 40 Index	Utilities	0.0008085627
+436	KEMIRA	FI0009004824	Finnland	EUR	Helsinki Stock Exchange	Equity	-	OMX Helsinki Index	Materials	0.0008075618
+437	GRENKE	DE000A161N30	Deutschland	EUR	XETRA	Equity	-	DAX Index	Financials	0.0008074913
+438	BURCKARDT COMPRESSION HLDG.	CH0025536027	Schweiz	CHF	Scoach Switzerland	Equity	-	Swiss Market Index	Industrials	0.0008065427
+439	LXI REIT	GB00BYQ46T41	Vereinigtes Königreich	GBP	London Stock Exchange	Equity	-	FTSE 100 Index	Real Estate	0.0008058201
+440	BANCO COMERCIAL PORT.	PTBCP0AM0015	Portugal	EUR	Euronext Lisbon	Equity	-	-	Financials	0.000804014
+441	SALZGITTER	DE0006202005	Deutschland	EUR	XETRA	Equity	-	DAX Index	Materials	0.0008027555
+442	SANNE	JE00BVRZ8S85	Jersey	GBP	London Stock Exchange	Equity	-	FTSE 100 Index	Financials	0.0007983265
+443	UNIQA	AT0000821103	Österreich	EUR	Vienna Stock Exchange	Equity	A3	Austrian Traded Index	Financials	0.000796182
+444	EUROPRIS ASA	NO0010735343	Norwegen	NOK	Oslo Stock Exchange	Equity	-	Oslo SE All-share Index	Consumer Discretionary	0.0007934115
+445	EMENTOR	NO0004822503	Norwegen	NOK	Oslo Stock Exchange	Equity	-	Oslo SE All-share Index	Information Technology	0.0007932157
+446	LINEA DIRECTA BR	ES0105546008	Spanien	EUR	-	Equity	-	-	Financials	0.0007908695
+447	MUSTI GRP RG-A3	FI4000410758	Finnland	EUR	Helsinki Stock Exchange	Equity	-	OMX Helsinki Index	Consumer Discretionary	0.0007875753
+448	JENOPTIK N	DE000A2NB601	Deutschland	EUR	XETRA	Equity	-	DAX Index	Information Technology	0.0007865513
+449	GOLDEN OCEAN GROUP	BMG396372051	Bermuda	NOK	NASDAQ National Market System	Equity	-	NASDAQ Composite Index	Industrials	0.0007858698
+450	BEFIMMO S.C.A.	BE0003678894	Belgien	EUR	Euronext Brussels	Equity	-	BEL 20 Index	Real Estate	0.0007844278
+451	RATOS (B)	SE0000111940	Schweden	SEK	Stockholm Stock Exchange	Equity	-	OMX Stockholm 30 Index	Financials	0.000781652
+452	HORNBACH HLDG.	DE0006083405	Deutschland	EUR	XETRA	Equity	-	DAX Index	Consumer Discretionary	0.0007805849
+453	COMPANIAA DE DISTRIBUCION INTEGRAL LOGISTA	ES0105027009	Spanien	EUR	Mercado Continuo Espana	Equity	-	IBEX 35 Index	Industrials	0.0007797969
+454	SMART METERING SYSTEMS	GB00B4X1RC86	Vereinigtes Königreich	GBP	London Stock Exchange	Equity	-	FTSE 100 Index	Industrials	0.0007759927
+455	GROUPE FNAC	FR0011476928	Frankreich	EUR	Euronext Paris	Equity	-	CAC 40 Index	Consumer Discretionary	0.0007732646
+456	VEIDEKKE	NO0005806802	Norwegen	NOK	Oslo Stock Exchange	Equity	-	Oslo SE All-share Index	Industrials	0.0007679194
+457	RESTAURANT GROUP	GB00B0YG1K06	Vereinigtes Königreich	GBP	London Stock Exchange	Equity	-	FTSE 100 Index	Consumer Discretionary	0.0007678652
+458	DALATA HOTEL	IE00BJMZDW83	Irland	EUR	Irish Stock Exchange	Equity	-	ISEQ Irish Overall Index	Consumer Discretionary	0.0007611146
+459	GREENCORE GROUP	IE0003864109	Irland	GBP	London Stock Exchange	Equity	-	FTSE 100 Index	Consumer Staples	0.000759371
+460	SESA	IT0004729759	Italien	EUR	-	Equity	-	-	Information Technology	0.0007590526
+461	ARSEUS NV	BE0003874915	Belgien	EUR	Euronext Brussels	Equity	-	BEL 20 Index	Health Care	0.0007583433
+462	SPAREBANK 1 NORD-NORGE	NO0006000801	Norwegen	NOK	Oslo Stock Exchange	Equity	-	Oslo SE All-share Index	Financials	0.0007562333
+463	VIENNA INS.	AT0000908504	Österreich	EUR	Vienna Stock Exchange	Equity	A1	Austrian Traded Index	Financials	0.0007521662
+464	BANCA MEDIOLANUM	IT0004776628	Italien	EUR	Milan Stock Exchange	Equity	-	FTSE Italia All-Share Index	Financials	0.0007505343
+465	CEWE STIFTUNG & CO	DE0005403901	Deutschland	EUR	XETRA	Equity	B1	DAX Index	Industrials	0.0007498947
+466	BREWIN DOLPHIN HLDGS.	GB0001765816	Vereinigtes Königreich	GBP	London Stock Exchange	Equity	-	FTSE 100 Index	Financials	0.0007484776
+467	KLOVERN B	SE0006593919	Schweden	SEK	-	Equity	-	-	Real Estate	0.000746647
+468	DRAPER ESPRIT RG	GB00BY7QYJ50	Vereinigtes Königreich	GBP	-	Equity	-	-	Financials	0.0007447595
+469	GRANGES	SE0006288015	Schweden	SEK	Stockholm Stock Exchange	Equity	-	OMX Stockholm 30 Index	Materials	0.0007428147
+470	BOSSARD	CH0238627142	Schweiz	CHF	Scoach Switzerland	Equity	-	Swiss Market Index	Industrials	0.0007424915
+471	RATHBONE BROTHERS	GB0002148343	Vereinigtes Königreich	GBP	London Stock Exchange	Equity	-	FTSE 100 Index	Financials	0.0007424263
+472	BYTES TECH GRP RG	GB00BMH18Q19	Vereinigtes Königreich	GBP	-	Equity	-	-	Information Technology	0.0007390711
+473	SOLARIA ENERGIA SA	ES0165386014	Spanien	EUR	-	Equity	-	-	Utilities	0.000738276
+474	SWISSQUOTE GR.HLDG.	CH0010675863	Schweiz	CHF	Scoach Switzerland	Equity	-	Swiss Market Index	Financials	0.0007380428
+475	HMS NETWORKS	SE0009997018	Schweden	SEK	-	Equity	-	-	Information Technology	0.0007374355
+476	AMADEUS FIRE	DE0005093108	Deutschland	EUR	XETRA	Equity	-	DAX Index	Industrials	0.0007335911
+477	SCHOUW & CO	DK0010253921	Dänemark	DKK	Copenhagen Stock Exchange	Equity	-	OMX COPENHAGEN 20 Index	Consumer Staples	0.0007327151
+478	ELECTROLUX PRO RG-B	SE0013747870	Schweden	SEK	-	Equity	-	-	Industrials	0.0007324326
+479	ZEHNDER	CH0276534614	Schweiz	CHF	Scoach Switzerland	Equity	-	Swiss Market Index	Industrials	0.0007322219
+480	BIOTAGE AB	SE0000454746	Schweden	SEK	-	Equity	-	-	Health Care	0.0007300521
+481	AVON RUBBER	GB0000667013	Vereinigtes Königreich	GBP	London Stock Exchange	Equity	-	FTSE 100 Index	Industrials	0.000728228
+482	ECKERT & ZIEGLER	DE0005659700	Deutschland	EUR	-	Equity	-	DAX Index	Health Care	0.0007223957
+483	SCANDINAVIAN TOBACCO	DK0060696300	Dänemark	DKK	Copenhagen Stock Exchange	Equity	-	OMX COPENHAGEN 20 Index	Consumer Staples	0.0007176995
+484	SABRE INSURANCE GROUP	GB00BYWVDP49	Vereinigtes Königreich	GBP	-	Equity	-	-	Financials	0.0007158987
+485	ARYZTA	CH0043238366	Schweiz	CHF	Scoach Switzerland	Equity	-	Swiss Market Index	Consumer Staples	0.0007136729
+486	CINEWORLD GROUP	GB00B15FWH70	Vereinigtes Königreich	GBP	London Stock Exchange	Equity	-	FTSE 100 Index	Communication Services	0.0007134865
+487	TELEKOM AUSTRIA	AT0000720008	Österreich	EUR	Vienna Stock Exchange	Equity	Baa2	Austrian Traded Index	Communication Services	0.000713268
+488	CAIRN ENER RG	GB00BN0SMB92	Vereinigtes Königreich	GBP	-	Equity	-	-	Energy	0.0007116234
+489	VICTORIA	GB00BZC0LC10	Vereinigtes Königreich	GBP	London Stock Exchange	Equity	-	FTSE 100 Index	Consumer Discretionary	0.0007095849
+490	CERES POWER HLDGS.	GB00BG5KQW09	Vereinigtes Königreich	GBP	-	Equity	-	-	Industrials	0.0007022571
+491	AFG ARBONIA N	CH0110240600	Schweiz	CHF	Scoach Switzerland	Equity	-	Swiss Market Index	Industrials	0.0007010079
+492	VIRBAC	FR0000031577	Frankreich	EUR	Euronext Paris	Equity	-	CAC 40 Index	Health Care	0.0006998065
+493	FINGERPRINT CARDS	SE0008374250	Schweden	SEK	Stockholm Stock Exchange	Equity	-	OMX Stockholm 30 Index	Information Technology	0.0006993706
+494	ELEMENTIS	GB0002418548	Vereinigtes Königreich	GBP	London Stock Exchange	Equity	-	FTSE 100 Index	Materials	0.0006945898
+495	PER AARSLEFF (B)	DK0060700516	Dänemark	DKK	Copenhagen Stock Exchange	Equity	-	OMX COPENHAGEN 20 Index	Industrials	0.0006943467
+496	JOST WERKE	DE000JST4000	Deutschland	EUR	-	Equity	-	-	Industrials	0.0006935897
+497	RETAIL ESTATES	BE0003720340	Belgien	EUR	Euronext Brussels	Equity	-	BEL 20 Index	Real Estate	0.0006921117
+498	HIBERNIA	IE00BGHQ1986	Irland	EUR	Irish Stock Exchange	Equity	-	ISEQ Irish Overall Index	Real Estate	0.000690943
+499	CIVITAS SOCIAL HOUSING	GB00BD8HBD32	Vereinigtes Königreich	GBP	London Stock Exchange	Equity	-	FTSE 100 Index	Real Estate	0.0006896525
+500	LAGARDERE	FR0000130213	Frankreich	EUR	Euronext Paris	Equity	-	CAC 40 Index	Communication Services	0.00068809
+501	BPOST	BE0974268972	Belgien	EUR	Euronext Brussels	Equity	-	BEL 20 Index	Industrials	0.0006839688
+502	BILIA	SE0009921588	Schweden	SEK	Stockholm Stock Exchange	Equity	-	OMX Stockholm 30 Index	Consumer Discretionary	0.0006827776
+503	DT. EUROSHOP	DE0007480204	Deutschland	EUR	XETRA	Equity	-	DAX Index	Real Estate	0.0006763275
+504	KRONES	DE0006335003	Deutschland	EUR	XETRA	Equity	-	DAX Index	Industrials	0.0006703385
+505	MORGAN CRUCIBLE COMPANY	GB0006027295	Vereinigtes Königreich	GBP	London Stock Exchange	Equity	-	FTSE 100 Index	Industrials	0.0006700361
+506	NINETY ONE RG	GB00BJHPLV88	Vereinigtes Königreich	GBP	-	Equity	-	-	Financials	0.0006692739
+507	COATS GR.	GB00B4YZN328	Vereinigtes Königreich	GBP	London Stock Exchange	Equity	-	FTSE 100 Index	Consumer Discretionary	0.0006689038
+508	ZARDOYA OTIS	ES0184933812	Spanien	EUR	Mercado Continuo Espana	Equity	-	IBEX 35 Index	Industrials	0.0006684085
+509	IBSTOCK	GB00BYXJC278	Vereinigtes Königreich	GBP	London Stock Exchange	Equity	-	FTSE 100 Index	Materials	0.0006679456
+510	MAISONS DU MONDE	FR0013153541	Frankreich	EUR	Euronext Paris	Equity	-	CAC 40 Index	Consumer Discretionary	0.0006646228
+511	LEM HLDG	CH0022427626	Schweiz	CHF	Scoach Switzerland	Equity	-	Swiss Market Index	Information Technology	0.0006625428
+512	KARDEX	CH0100837282	Schweiz	CHF	Scoach Switzerland	Equity	-	Swiss Market Index	Industrials	0.000660483
+513	NOBIA	SE0000949331	Schweden	SEK	Stockholm Stock Exchange	Equity	-	OMX Stockholm 30 Index	Consumer Discretionary	0.0006595899
+514	CHEMOMETEC	DK0060055861	Dänemark	DKK	-	Equity	-	-	Health Care	0.0006591461
+515	SIRIUS REAL ESTATE	GG00B1W3VF54	Guernsey	GBP	-	Equity	-	-	Real Estate	0.000657807
+516	ACEA	IT0001207098	Italien	EUR	Milan Stock Exchange	Equity	-	FTSE Italia All-Share Index	Utilities	0.0006564131
+517	COFACE	FR0010667147	Frankreich	EUR	Euronext Paris	Equity	-	CAC 40 Index	Financials	0.0006551938
+518	FAES FARMA	S.A.	Spanien	EUR	Mercado Continuo Espana	Equity	-	IBEX 35 Index	Health Care	0.0006549985
+519	SUEDZUCKER	DE0007297004	Deutschland	EUR	XETRA	Equity	Baa2	DAX Index	Consumer Staples	0.000654508
+520	INDRA SISTEMAS S.A.	ES0118594417	Spanien	EUR	Mercado Continuo Espana	Equity	-	IBEX 35 Index	Information Technology	0.0006541541
+521	MITCHELLS & BUTLERS	GB00B1FP6H53	Vereinigtes Königreich	GBP	London Stock Exchange	Equity	-	FTSE 100 Index	Consumer Discretionary	0.00065201
+522	KAMBI GR.	MT0000780107	Malta	SEK	Stockholm Stock Exchange	Equity	-	OMX Stockholm 30 Index	Consumer Discretionary	0.0006516657
+523	CONSTRUCCIONES Y AUX. DE FERROCARRIL	ES0121975009	Spanien	EUR	Mercado Continuo Espana	Equity	-	IBEX 35 Index	Industrials	0.0006497653
+524	VICAT	FR0000031775	Frankreich	EUR	Euronext Paris	Equity	-	CAC 40 Index	Materials	0.0006484836
+525	HALFORDS GROUP	GB00B012TP20	Vereinigtes Königreich	GBP	London Stock Exchange	Equity	-	FTSE 100 Index	Consumer Discretionary	0.0006467207
+526	STRATEC BIOMEDICAL	DE000STRA555	Deutschland	EUR	XETRA	Equity	-	DAX Index	Health Care	0.0006464449
+527	INVISIO COMMUNICATIONS AB	SE0001200015	Schweden	SEK	-	Equity	-	-	Industrials	0.0006419535
+528	GREATLAND GOLD	GB00B15XDH89	Vereinigtes Königreich	GBP	-	Equity	-	-	Materials	0.0006397368
+529	CATENA	SE0001664707	Schweden	SEK	-	Equity	-	-	Real Estate	0.0006393327
+530	VZ HOLDING N	CH0528751586	Schweiz	CHF	-	Equity	-	-	Financials	0.0006392796
+531	LEARNING TECHNOLOGIES GR.	GB00B4T7HX10	Vereinigtes Königreich	GBP	-	Equity	-	-	Information Technology	0.0006389597
+532	AUTOGRILL	IT0001137345	Italien	EUR	Milan Stock Exchange	Equity	-	FTSE Italia All-Share Index	Consumer Discretionary	0.0006380294
+533	MONTEA	BE0003853703	Belgien	EUR	Euronext Brussels	Equity	-	BEL 20 Index	Real Estate	0.0006317365
+534	ST GALLER KANTONALBANK	CH0011484067	Schweiz	CHF	Scoach Switzerland	Equity	-	Swiss Market Index	Financials	0.0006290112
+535	MORGAN SINDALL	GB0008085614	Vereinigtes Königreich	GBP	London Stock Exchange	Equity	-	FTSE 100 Index	Industrials	0.0006282425
+536	BIOGAIA	SE0000470395	Schweden	SEK	Stockholm Stock Exchange	Equity	-	OMX Stockholm 30 Index	Health Care	0.0006273939
+537	SALVATORE FERRAGAMO	IT0004712375	Italien	EUR	Milan Stock Exchange	Equity	-	FTSE Italia All-Share Index	Consumer Discretionary	0.0006272272
+538	TULLOW OIL	GB0001500809	Ghana	GBP	London Stock Exchange	Equity	B1	FTSE 100 Index	Energy	0.0006272148
+539	VERALLIA	FR0013447729	Frankreich	EUR	-	Equity	-	-	Materials	0.0006266782
+540	SANOMA CORPORATION	FI0009007694	Finnland	EUR	Helsinki Stock Exchange	Equity	-	OMX Helsinki Index	Communication Services	0.0006259211
+541	ENERGEAN OIL&GAS	GB00BG12Y042	Vereinigtes Königreich	GBP	-	Equity	-	-	Energy	0.000625797
+542	MUNTERS GRP-B RG	SE0009806607	Schweden	SEK	-	Equity	-	-	Industrials	0.0006257797
+543	WASHTEC	DE0007507501	Deutschland	EUR	XETRA	Equity	-	DAX Index	Industrials	0.0006252571
+544	BIFFA	GB00BD8DR117	Vereinigtes Königreich	GBP	London Stock Exchange	Equity	-	FTSE 100 Index	Industrials	0.0006219581
+545	OXFORD BIOMEDICAL	GB00BDFBVT43	Vereinigtes Königreich	GBP	-	Equity	-	-	Health Care	0.0006211682
+546	BONAVA (B)	SE0008091581	Schweden	SEK	Stockholm Stock Exchange	Equity	-	OMX Stockholm 30 Index	Consumer Discretionary	0.0006184366
+547	A.G.BARR	GB00B6XZKY75	Vereinigtes Königreich	GBP	London Stock Exchange	Equity	-	FTSE 100 Index	Consumer Staples	0.0006178198
+548	VAN LANSCHOT KEMPEN NV	NL0000302636	Niederlande	EUR	Euronext Amsterdam	Equity	-	Amsterdam Exchanges Index	Financials	0.0006171445
+549	HUBER & SUHNERNEW	CH0030380734	Schweiz	CHF	Scoach Switzerland	Equity	-	Swiss Market Index	Industrials	0.0006167891
+550	PATRIZIA IMMOBILIEN	DE000PAT1AG3	Deutschland	EUR	XETRA	Equity	-	DAX Index	Real Estate	0.0006162914
+551	DIVER GAS OIL RG	GB00BYX7JT74	Vereinigte Staaten	GBP	-	Equity	-	-	Energy	0.0006159262
+552	GURIT-HEBERLEIN	CH0008012236	Schweiz	CHF	Scoach Switzerland	Equity	-	Swiss Market Index	Materials	0.0006155541
+553	ORIOR	CH0111677362	Schweiz	CHF	Scoach Switzerland	Equity	-	Swiss Market Index	Consumer Staples	0.0006130468
+554	BLUE PRISM GR.	GB00BYQ0HV16	Vereinigtes Königreich	GBP	London Stock Exchange	Equity	-	FTSE 100 Index	Information Technology	0.0006099237
+555	S&T AG	AT0000A0E9W5	Österreich	EUR	-	Equity	-	DAX Index	Information Technology	0.0006081371
+556	UNICAJA BANCO BR	ES0180907000	Spanien	EUR	Mercado Continuo Espana	Equity	-	IBEX 35 Index	Financials	0.0006034329
+557	KOMAX N	CH0010702154	Schweiz	CHF	Scoach Switzerland	Equity	-	Swiss Market Index	Industrials	0.0006008253
+558	YIT-YHTYMAE	FI0009800643	Finnland	EUR	Helsinki Stock Exchange	Equity	B1	OMX Helsinki Index	Industrials	0.0005997705
+559	EUROCOMMERCIAL PROPERTIES	NL0000288876	Niederlande	EUR	Euronext Amsterdam	Equity	-	Amsterdam Exchanges Index	Real Estate	0.000597376
+560	ALLIANCE PHARMA	GB0031030819	Vereinigtes Königreich	GBP	-	Equity	-	-	Health Care	0.0005968822
+561	CELLINK RG-B	SE0013647385	Schweden	SEK	-	Equity	-	-	Health Care	0.0005961139
+562	SOL MELIA	ES0176252718	Spanien	EUR	Mercado Continuo Espana	Equity	-	IBEX 35 Index	Consumer Discretionary	0.0005904379
+563	TELECOM PLUS	GB0008794710	Vereinigtes Königreich	GBP	London Stock Exchange	Equity	-	FTSE 100 Index	Utilities	0.0005887435
+564	REDES ENERGETICAS NACIONAIS	PTREL0AM0008	Portugal	EUR	Euronext Lisbon	Equity	-	-	Utilities	0.0005875786
+565	GVS N	IT0005411209	Italien	EUR	-	Equity	-	-	Health Care	0.0005864646
+566	COSMO PHARMACEUTICALS	NL0011832936	Niederlande	CHF	Scoach Switzerland	Equity	-	Swiss Market Index	Health Care	0.0005855224
+567	KAUFMAN ET BROAD	FR0004007813	Frankreich	EUR	Euronext Paris	Equity	-	CAC 40 Index	Consumer Discretionary	0.0005854667
+568	NSI	NL0012365084	Niederlande	EUR	Euronext Amsterdam	Equity	-	Amsterdam Exchanges Index	Real Estate	0.0005853966
+569	MEDIASET ESP.	ES0152503035	Spanien	EUR	Mercado Continuo Espana	Equity	-	IBEX 35 Index	Communication Services	0.0005841557
+570	FORTERRA	GB00BYYW3C20	Vereinigtes Königreich	GBP	London Stock Exchange	Equity	-	FTSE 100 Index	Materials	0.0005838445
+571	EUSKALTEL S.A.	ES0105075008	Spanien	EUR	Mercado Continuo Espana	Equity	-	IBEX 35 Index	Communication Services	0.0005822726
+572	VALORA N	CH0002088976	Schweiz	CHF	Scoach Switzerland	Equity	-	Swiss Market Index	Consumer Discretionary	0.0005819755
+573	MITIE GROUP	GB0004657408	Vereinigtes Königreich	GBP	London Stock Exchange	Equity	-	FTSE 100 Index	Industrials	0.000577377
+574	BABCOCK INTL.	GB0009697037	Vereinigtes Königreich	GBP	London Stock Exchange	Equity	-	FTSE 100 Index	Industrials	0.0005773731
+575	WÜSTENROT & WÜRTTEMBERGISCHE	DE0008051004	Deutschland	EUR	XETRA	Equity	-	DAX Index	Financials	0.0005768839
+576	AO WORLD	GB00BJTNFH41	Vereinigtes Königreich	GBP	London Stock Exchange	Equity	-	FTSE 100 Index	Consumer Discretionary	0.0005759797
+577	CORPORACION FINANCIERA ALBA	ES0117160111	Spanien	EUR	Mercado Continuo Espana	Equity	-	IBEX 35 Index	Financials	0.0005749391
+578	MEYER BURGER	CH0108503795	Schweiz	CHF	Scoach Switzerland	Equity	-	Swiss Market Index	Information Technology	0.0005737563
+579	BILFINGER BERGER	DE0005909006	Deutschland	EUR	XETRA	Equity	Baa1	DAX Index	Industrials	0.0005678175
+580	D/S NORDEN	DK0060083210	Dänemark	DKK	Copenhagen Stock Exchange	Equity	-	OMX COPENHAGEN 20 Index	Industrials	0.0005675738
+581	GIMV	BE0003699130	Belgien	EUR	Euronext Brussels	Equity	-	BEL 20 Index	Financials	0.0005652318
+582	CAREL INDUSTR N	IT0005331019	Italien	EUR	-	Equity	-	-	Industrials	0.0005639657
+583	INTERPARFUMS	FR0004024222	Frankreich	EUR	Euronext Paris	Equity	-	CAC 40 Index	Consumer Staples	0.0005628955
+584	ALFEN NV	NL0012817175	Niederlande	EUR	Euronext Amsterdam	Equity	-	Amsterdam Exchanges Index	Industrials	0.0005621498
+585	ADVANCED METALLURGICAL GROUP	NL0000888691	Niederlande	EUR	Euronext Amsterdam	Equity	-	Amsterdam Exchanges Index	Materials	0.0005614947
+586	MEDACTA GROUP SA	CH0468525222	Schweiz	CHF	-	Equity	-	-	Health Care	0.0005587061
+587	F&C COMMERCIAL PROPERTY TR. LIMITED (NEW)	GG00B4ZPCJ00	Guernsey	GBP	London Stock Exchange	Equity	-	FTSE 100 Index	Real Estate	0.0005573262
+588	SOLUTIONS 30	FR0013379484	Luxemburg	EUR	-	Equity	-	-	Information Technology	0.0005566911
+589	KWS SAAT AG	DE0007074007	Deutschland	EUR	XETRA	Equity	-	DAX Index	Consumer Staples	0.0005529112
+590	VERBIO AG	DE000A0JL9W6	Deutschland	EUR	XETRA	Equity	-	DAX Index	Energy	0.0005528985
+591	SSAB A	SE0000171100	Schweden	SEK	Stockholm Stock Exchange	Equity	Ba3	OMX Stockholm 30 Index	Materials	0.00055227
+592	WACKER NEUSON	DE000WACK012	Deutschland	EUR	XETRA	Equity	-	DAX Index	Industrials	0.0005498025
+593	SKANDIABANKEN	NO0010739402	Norwegen	NOK	Oslo Stock Exchange	Equity	-	Oslo SE All-share Index	Financials	0.0005483537
+594	PHARMING GROUP	NL0010391025	Niederlande	EUR	Euronext Amsterdam	Equity	-	Amsterdam Exchanges Index	Health Care	0.0005468377
+595	VALNEVA	FR0004056851	Frankreich	EUR	-	Equity	-	-	Health Care	0.0005461965
+596	CAPITA GROUP	GB00B23K0M20	Vereinigtes Königreich	GBP	London Stock Exchange	Equity	-	FTSE 100 Index	Information Technology	0.0005447464
+597	KINEPOLIS GRP	BE0974274061	Belgien	EUR	Euronext Brussels	Equity	-	BEL 20 Index	Communication Services	0.0005428824
+598	CARMILA	FR0010828137	Frankreich	EUR	-	Equity	-	-	Real Estate	0.0005421261
+599	TAMBURI INVESTMENTTNERS	IT0003153621	Italien	EUR	Milan Stock Exchange	Equity	-	FTSE Italia All-Share Index	Financials	0.0005414641
+600	CITYCON	FI4000369947	Finnland	EUR	-	Equity	-	-	Real Estate	0.0005406783
+601	SVOLDER AB B	SE0010663310	Schweden	SEK	-	Equity	-	OMX Stockholm 30 Index	Financials	0.0005394044
+602	ALTRI SGPS	PTALT0AE0002	Portugal	EUR	Euronext Lisbon	Equity	-	-	Materials	0.0005391514
+603	VETROPACK HLDG N-A	CH0530235594	Schweiz	CHF	-	Equity	-	-	Materials	0.0005374623
+604	VECTURA GRP RG	GB00BKM2MW97	Vereinigtes Königreich	GBP	-	Equity	-	-	Health Care	0.0005322297
+605	INTERVEST OFFICES	BE0003746600	Belgien	EUR	Euronext Brussels	Equity	-	BEL 20 Index	Real Estate	0.0005311714
+606	SACYR	ES0182870214	Spanien	EUR	Mercado Continuo Espana	Equity	-	IBEX 35 Index	Industrials	0.0005283795
+607	DT.BETEILIGUNGS	DE000A1TNUT7	Deutschland	EUR	XETRA	Equity	-	DAX Index	Financials	0.0005273939
+608	AVACTA GRP RG	GB00BYYW9G87	Vereinigtes Königreich	GBP	-	Equity	-	-	Health Care	0.0005270854
+609	CECONOMY	DE0007257503	Deutschland	EUR	XETRA	Equity	Baa3	DAX Index	Consumer Discretionary	0.0005255895
+610	ACCELL GROUP	NL0009767532	Niederlande	EUR	Euronext Amsterdam	Equity	-	Amsterdam Exchanges Index	Consumer Discretionary	0.0005229375
+611	SPAR NORD BANK	DK0060036564	Dänemark	DKK	Copenhagen Stock Exchange	Equity	-	OMX COPENHAGEN 20 Index	Financials	0.0005227315
+612	CREDEM - CREDITO EMILIANO	IT0003121677	Italien	EUR	Milan Stock Exchange	Equity	Baa2	FTSE Italia All-Share Index	Financials	0.0005226091
+613	WICKES GRP RG	GB00BL6C2002	Vereinigtes Königreich	GBP	-	Equity	-	-	Consumer Discretionary	0.000521368
+614	ELKEM	NO0010816093	Norwegen	NOK	Oslo Stock Exchange	Equity	-	Oslo SE All-share Index	Materials	0.0005212557
+615	ONTEX	BE0974276082	Belgien	EUR	Euronext Brussels	Equity	-	BEL 20 Index	Consumer Staples	0.0005204665
+616	CEMENTIR HLDG RG	NL0013995087	Italien	EUR	-	Equity	-	-	Materials	0.0005194045
+617	PROVIDENT FINANCIAL	GB00B1Z4ST84	Vereinigtes Königreich	GBP	London Stock Exchange	Equity	-	FTSE 100 Index	Financials	0.0005178498
+618	BETSSON RG-B	SE0015672282	Schweden	SEK	-	Equity	-	-	Consumer Discretionary	0.0005169227
+619	PALFINGER	AT0000758305	Österreich	EUR	-	Equity	-	-	Industrials	0.0005166604
+620	ATRIUM LJUNGBERG AB	SE0000191827	Schweden	SEK	-	Equity	-	-	Real Estate	0.0005154837
+621	SAS AB	SE0003366871	Schweden	SEK	Stockholm Stock Exchange	Equity	B3	OMX Stockholm 30 Index	Industrials	0.0005146921
+622	FIRST DERIVATIVES PLC	GB0031477770	Vereinigtes Königreich	GBP	-	Equity	-	-	Information Technology	0.0005143383
+623	FUGRO	NL00150004A7	Niederlande	EUR	-	Equity	-	-	Energy	0.0005111758
+624	NOS SGPS	PTZON0AM0006	Portugal	EUR	Euronext Lisbon	Equity	-	-	Communication Services	0.0005095402
+625	BOOZT	SE0009888738	Schweden	SEK	-	Equity	-	-	Consumer Discretionary	0.0005077287
+626	ALIMAK GR.	SE0007158910	Schweden	SEK	Stockholm Stock Exchange	Equity	-	OMX Stockholm 30 Index	Industrials	0.0005076966
+627	MEDIASET	IT0001063210	Italien	EUR	Milan Stock Exchange	Equity	-	FTSE Italia All-Share Index	Communication Services	0.0005047774
+628	ITALMOBILIARE	IT0005253205	Italien	EUR	Milan Stock Exchange	Equity	-	FTSE Italia All-Share Index	Industrials	0.0005029029
+629	HOCHSCHILD MINING	GB00B1FW5029	Vereinigtes Königreich	GBP	London Stock Exchange	Equity	-	FTSE 100 Index	Materials	0.0005021032
+630	FOMENTO DE CONSTRUCCIONES Y CONTRATAS	ES0122060314	Spanien	EUR	Mercado Continuo Espana	Equity	-	IBEX 35 Index	Industrials	0.0005014966
+631	CARBONE-LORRAINE	FR0000039620	Frankreich	EUR	Euronext Paris	Equity	-	CAC 40 Index	Industrials	0.0005012661
+632	MAERSK DRILLING RG	DK0061135753	Dänemark	DKK	-	Equity	-	-	Energy	0.0004994995
+633	VOSSLOH	DE0007667107	Deutschland	EUR	XETRA	Equity	-	DAX Index	Industrials	0.0004972237
+634	NOBINA AB	SE0007185418	Schweden	SEK	Stockholm Stock Exchange	Equity	-	OMX Stockholm 30 Index	Industrials	0.0004971643
+635	SPAREBANK 1 RG	NO0010751910	Norwegen	NOK	-	Equity	-	-	Financials	0.000496921
+636	KLOECKNER&CO.	DE000KC01000	Deutschland	EUR	XETRA	Equity	B1	DAX Index	Industrials	0.0004954897
+637	PETROPAVLOVSK	GB0031544546	Vereinigtes Königreich	GBP	London Stock Exchange	Equity	-	FTSE 100 Index	Materials	0.0004925007
+638	COFIDE	IT0000070786	Italien	EUR	-	Equity	-	-	Consumer Discretionary	0.0004923409
+639	EQUINITI GR.	GB00BYWWHR75	Vereinigtes Königreich	GBP	London Stock Exchange	Equity	-	FTSE 100 Index	Information Technology	0.0004903333
+640	CLIPPER LOGISTICS	GB00BMMV6B79	Vereinigtes Königreich	GBP	London Stock Exchange	Equity	-	FTSE 100 Index	Industrials	0.0004899925
+641	SENSIRION	CH0406705126	Schweiz	CHF	-	Equity	-	-	Information Technology	0.0004895753
+642	TARKETT SA	FR0004188670	Frankreich	EUR	Euronext Paris	Equity	-	CAC 40 Index	Industrials	0.0004885084
+643	EVN	AT0000741053	Österreich	EUR	Vienna Stock Exchange	Equity	-	Austrian Traded Index	Utilities	0.0004883732
+644	STRIX GRP RG	IM00BF0FMG91	Isle of Man	GBP	-	Equity	-	-	Information Technology	0.0004880143
+645	TEAM17 GRP RG	GB00BYVX2X20	Vereinigtes Königreich	GBP	-	Equity	-	-	Communication Services	0.0004863757
+646	ONCOPEPTIDES	SE0009414576	Schweden	SEK	-	Equity	-	-	Health Care	0.0004860474
+647	DEUTZ	DE0006305006	Deutschland	EUR	XETRA	Equity	-	DAX Index	Industrials	0.0004841519
+648	AKTIA BANK	FI4000058870	Finnland	EUR	Helsinki Stock Exchange	Equity	-	OMX Helsinki Index	Financials	0.0004833655
+649	M6 METROPOLE TELEVISION	FR0000053225	Frankreich	EUR	Euronext Paris	Equity	-	CAC 40 Index	Communication Services	0.000482488
+650	POWERCELL SWEDEN	SE0006425815	Schweden	SEK	-	Equity	-	-	Industrials	0.0004806063
+651	MARR	IT0003428445	Italien	EUR	Milan Stock Exchange	Equity	B1	FTSE Italia All-Share Index	Consumer Staples	0.00047964
+652	PFEIFFER VACUUM TECH.	DE0006916604	Deutschland	EUR	XETRA	Equity	-	DAX Index	Industrials	0.0004774112
+653	PARADOX INTERACTIVE	SE0008294953	Schweden	SEK	-	Equity	-	-	Communication Services	0.0004762176
+654	CATTOLICA ASSICURAZIONI	IT0000784154	Italien	EUR	Milan Stock Exchange	Equity	-	FTSE Italia All-Share Index	Financials	0.0004746064
+655	NEW WORK	DE000NWRK013	Deutschland	EUR	-	Equity	-	DAX Index	Communication Services	0.0004742199
+656	CUSTODIAN REIT	GB00BJFLFT45	Vereinigtes Königreich	GBP	London Stock Exchange	Equity	-	FTSE 100 Index	Real Estate	0.0004731797
+657	CGG	FR0013181864	Frankreich	EUR	-	Equity	-	-	Energy	0.0004720691
+658	LIBERBANK	ES0168675090	Spanien	EUR	Mercado Continuo Espana	Equity	-	IBEX 35 Index	Financials	0.0004719708
+659	CORTICEIRA AMORIM	PTCOR0AE0006	Portugal	EUR	Euronext Lisbon	Equity	-	-	Materials	0.0004689282
+660	ZEALAND PHARMA	DK0060257814	Dänemark	DKK	Copenhagen Stock Exchange	Equity	-	OMX COPENHAGEN 20 Index	Health Care	0.0004686541
+661	COLTENE HLDG.	CH0025343259	Schweiz	CHF	-	Equity	-	-	Health Care	0.0004675642
+662	SDIPTECH RG-B	SE0003756758	Schweden	SEK	-	Equity	-	-	Industrials	0.0004672195
+663	UNIPHAR RG	IE00BJ5FQX74	Irland	EUR	-	Equity	-	-	Health Care	0.000467153
+664	SONAE SGPS	PTSON0AM0001	Portugal	EUR	Euronext Lisbon	Equity	-	-	Consumer Staples	0.0004671201
+665	DERICHEBOURG	FR0000053381	Frankreich	EUR	Euronext Paris	Equity	-	CAC 40 Index	Industrials	0.0004630293
+666	PROSEGUR COMP. SEGURIDAD	ES0175438003	Spanien	EUR	Mercado Continuo Espana	Equity	-	IBEX 35 Index	Industrials	0.0004626122
+667	PREMIER FOODS	GB00B7N0K053	Vereinigtes Königreich	GBP	London Stock Exchange	Equity	-	FTSE 100 Index	Consumer Staples	0.00046228
+668	CAIRN HOMES	IE00BWY4ZF18	Irland	EUR	London Stock Exchange	Equity	-	FTSE 100 Index	Consumer Discretionary	0.0004622292
+669	TI FLUID SYSTEMS	GB00BYQB9V88	Vereinigtes Königreich	GBP	-	Equity	-	-	Consumer Discretionary	0.0004605074
+670	STORYTEL	SE0007439443	Schweden	SEK	-	Equity	-	-	Communication Services	0.0004602158
+671	INWIDO	SE0006220018	Schweden	SEK	Stockholm Stock Exchange	Equity	-	OMX Stockholm 30 Index	Industrials	0.0004571059
+672	INTERSHOP HLDG. BR	CH0273774791	Schweiz	CHF	Scoach Switzerland	Equity	-	Swiss Market Index	Real Estate	0.0004565692
+673	CIBUS NORDIC RE RG	SE0010832204	Schweden	SEK	-	Equity	-	-	Real Estate	0.0004537146
+674	GESTAMP AUTOMOCION	ES0105223004	Spanien	EUR	Mercado Continuo Espana	Equity	-	IBEX 35 Index	Consumer Discretionary	0.0004530171
+675	COMPAGNIE D' ENTREPRISES CFE	BE0003883031	Belgien	EUR	Euronext Brussels	Equity	-	BEL 20 Index	Industrials	0.0004512964
+676	AIRTEL AFRICA RG	GB00BKDRYJ47	Vereinigtes Königreich	GBP	-	Equity	-	-	Communication Services	0.0004496204
+677	SPIRE HEALTHCARE	GB00BNLPYF73	Vereinigtes Königreich	GBP	London Stock Exchange	Equity	-	FTSE 100 Index	Health Care	0.0004493896
+678	MARSTON'S	GB00B1JQDM80	Vereinigtes Königreich	GBP	London Stock Exchange	Equity	-	FTSE 100 Index	Consumer Discretionary	0.0004492464
+679	AT&S	AT0000969985	Österreich	EUR	Vienna Stock Exchange	Equity	-	Austrian Traded Index	Information Technology	0.0004486874
+680	BAM GROEP	NL0000337319	Niederlande	EUR	Euronext Amsterdam	Equity	-	Amsterdam Exchanges Index	Industrials	0.0004459248
+681	FRONTLINE	BMG3682E1921	Bermuda	NOK	Oslo Stock Exchange	Equity	-	Oslo SE All-share Index	Energy	0.0004416603
+682	ACADEMEDIA	SE0007897079	Schweden	SEK	-	Equity	-	-	Consumer Discretionary	0.0004415378
+683	ATTENDO AB	SE0007666110	Schweden	SEK	Stockholm Stock Exchange	Equity	-	OMX Stockholm 30 Index	Health Care	0.0004390716
+684	GO-AHEAD GROUP	GB0003753778	Vereinigtes Königreich	GBP	London Stock Exchange	Equity	Baa3	FTSE 100 Index	Industrials	0.0004380346
+685	RIETER N	CH0003671440	Schweiz	CHF	Scoach Switzerland	Equity	-	Swiss Market Index	Industrials	0.0004376563
+686	INDUS HLDG	DE0006200108	Deutschland	EUR	XETRA	Equity	-	DAX Index	Industrials	0.0004375947
+687	RECTICEL	BE0003656676	Belgien	EUR	-	Equity	-	-	Materials	0.0004368573
+688	NEOPOST	FR0000120560	Frankreich	EUR	Euronext Paris	Equity	-	CAC 40 Index	Information Technology	0.0004361805
+689	ON THE BEACH GR.	GB00BYM1K758	Vereinigtes Königreich	GBP	London Stock Exchange	Equity	-	FTSE 100 Index	Consumer Discretionary	0.0004352913
+690	FRONTIER DEVELOP.	GB00BBT32N39	Vereinigtes Königreich	GBP	-	Equity	-	-	Communication Services	0.0004345056
+691	FALCK RENEWABLES	IT0003198790	Italien	EUR	Milan Stock Exchange	Equity	-	FTSE Italia All-Share Index	Utilities	0.0004322014
+692	KELLER GROUP	GB0004866223	Vereinigtes Königreich	GBP	London Stock Exchange	Equity	-	FTSE 100 Index	Industrials	0.0004293767
+693	SLIGRO FOOD	NL0000817179	Niederlande	EUR	Euronext Amsterdam	Equity	-	Amsterdam Exchanges Index	Consumer Staples	0.0004292308
+694	IRISH RES.PROPERTIES REIT	IE00BJ34P519	Irland	EUR	Irish Stock Exchange	Equity	-	ISEQ Irish Overall Index	Real Estate	0.0004279891
+695	COOR SRVS. MNGT. HLDG.	SE0007158829	Schweden	SEK	-	Equity	-	-	Industrials	0.0004243026
+696	CAVERION	FI4000062781	Finnland	EUR	Helsinki Stock Exchange	Equity	-	OMX Helsinki Index	Industrials	0.0004227431
+697	RAI WAY	IT0005054967	Italien	EUR	Milan Stock Exchange	Equity	-	FTSE Italia All-Share Index	Communication Services	0.0004217416
+698	DUSTIN GROUP	SE0006625471	Schweden	SEK	Stockholm Stock Exchange	Equity	-	OMX Stockholm 30 Index	Consumer Discretionary	0.0004152558
+699	ADV.MED.SOLUTIONS	GB0004536594	Vereinigtes Königreich	GBP	London Stock Exchange	Equity	-	FTSE 100 Index	Health Care	0.0004150364
+700	DRAEGERWERK VZ.	DE0005550636	Deutschland	EUR	XETRA	Equity	-	DAX Index	Health Care	0.0004147914
+701	DIC ASSET	DE000A1X3XX4	Deutschland	EUR	XETRA	Equity	B1	DAX Index	Real Estate	0.0004135375
+702	EFG INTL.	CH0022268228	Schweiz	CHF	Scoach Switzerland	Equity	-	Swiss Market Index	Financials	0.0004130569
+703	TESSENDERLO CHEMIE	BE0003555639	Belgien	EUR	Euronext Brussels	Equity	-	BEL 20 Index	Materials	0.0004121774
+704	CENTRAL ASIA METALS	GB00B67KBV28	Vereinigtes Königreich	GBP	-	Equity	-	-	Materials	0.0004110858
+705	DIOS FASTIGHETER AB	SE0001634262	Schweden	SEK	Stockholm Stock Exchange	Equity	-	OMX Stockholm 30 Index	Real Estate	0.0004095931
+706	CMC MARKETS	GB00B14SKR37	Vereinigtes Königreich	GBP	London Stock Exchange	Equity	-	FTSE 100 Index	Financials	0.0004055073
+707	BK GEORGIA GRP RG	GB00BF4HYT85	Vereinigtes Königreich	GBP	-	Equity	-	-	Financials	0.0004015193
+708	WERELDHAVE	NL0000289213	Niederlande	EUR	Euronext Amsterdam	Equity	-	Amsterdam Exchanges Index	Real Estate	0.000400279
+709	XVIVO PERFUSION	SE0004840718	Schweden	SEK	-	Equity	-	-	Health Care	0.0003993826
+710	BW LPG	BMG173841013	Norwegen	NOK	Oslo Stock Exchange	Equity	-	Oslo SE All-share Index	Energy	0.0003993826
+711	NAGARRO N	DE000A3H2200	Deutschland	EUR	-	Equity	-	-	Information Technology	0.0003979551
+712	ELIOR PARTICIPATIONS	FR0011950732	Frankreich	EUR	Euronext Paris	Equity	-	CAC 40 Index	Consumer Discretionary	0.0003976056
+713	UK COMMERCIAL PROPERTY TR.	GB00B19Z2J52	Guernsey	GBP	London Stock Exchange	Equity	-	FTSE 100 Index	Real Estate	0.0003953281
+714	IDEAGEN RG	GB00B0CM0C50	Vereinigtes Königreich	GBP	-	Equity	-	-	Information Technology	0.0003942928
+715	PROTECTOR FORSIKRING	NO0010209331	Norwegen	NOK	Oslo Stock Exchange	Equity	-	Oslo SE All-share Index	Financials	0.0003932187
+716	MERCIALYS	FR0010241638	Frankreich	EUR	Euronext Paris	Equity	Baa2	CAC 40 Index	Real Estate	0.0003887723
+717	AGFA GEVAERT NV	BE0003755692	Belgien	EUR	Euronext Brussels	Equity	-	BEL 20 Index	Health Care	0.000386589
+718	CAMURUS AB	SE0007692850	Schweden	SEK	-	Equity	-	-	Health Care	0.0003865836
+719	EURASIA MINING RG	GB0003230421	Vereinigtes Königreich	GBP	-	Equity	-	-	Materials	0.0003862114
+720	PZ CUSSONS	GB00B19Z1432	Vereinigtes Königreich	GBP	London Stock Exchange	Equity	-	FTSE 100 Index	Consumer Staples	0.0003857449
+721	STO AG VZ.	DE0007274136	Deutschland	EUR	XETRA	Equity	-	DAX Index	Materials	0.0003844347
+722	FJORDKRAFT HOLDING	NO0010815673	Norwegen	NOK	Oslo Stock Exchange	Equity	-	Oslo SE All-share Index	Utilities	0.0003824384
+723	LISI - LINK SOLUTIONS FOR INDUSTRY	FR0000050353	Frankreich	EUR	Euronext Paris	Equity	-	CAC 40 Index	Industrials	0.0003807482
+724	MCPHY ENERGY	FR0011742329	Frankreich	EUR	-	Equity	-	-	Industrials	0.0003780264
+725	EMPIRIC STUDENT PROPERTY	GB00BLWDVR75	Vereinigtes Königreich	GBP	London Stock Exchange	Equity	-	FTSE 100 Index	Real Estate	0.000377335
+726	GLOBAL DOMINION ACCESS S.A.	ES0105130001	Spanien	EUR	Mercado Continuo Espana	Equity	-	IBEX 35 Index	Information Technology	0.0003756481
+727	WESTWING GR.	DE000A2N4H07	Deutschland	EUR	-	Equity	-	-	Consumer Discretionary	0.0003731474
+728	SKISTAR-B RG	SE0012141687	Schweden	SEK	-	Equity	-	OMX Stockholm 30 Index	Consumer Discretionary	0.0003696631
+729	CELLAVISION AB	SE0000683484	Schweden	SEK	-	Equity	-	-	Health Care	0.0003679872
+730	NIFLISK HLDG.	DK0060907293	Dänemark	DKK	-	Equity	-	-	Industrials	0.0003671754
+731	TOMTOM	NL0013332471	Niederlande	EUR	Euronext Amsterdam	Equity	-	Amsterdam Exchanges Index	Consumer Discretionary	0.000367049
+732	KNOW IT AB	SE0000421273	Schweden	SEK	-	Equity	-	-	Information Technology	0.0003661921
+733	BUFAB HLDG.	SE0005677135	Schweden	SEK	Stockholm Stock Exchange	Equity	-	OMX Stockholm 30 Index	Industrials	0.000366064
+734	PLATZER FASTIGHETER HLDG. (B)	SE0004977692	Schweden	SEK	-	Equity	-	OMX Stockholm 30 Index	Real Estate	0.0003659713
+735	PORTUCEL-EMPR.PROD.DE PAS.	PTPTI0AM0006	Portugal	EUR	Euronext Lisbon	Equity	-	-	Materials	0.000363052
+736	ID LOGISTICS GROUP	FR0010929125	Frankreich	EUR	Euronext Paris	Equity	-	CAC 40 Index	Industrials	0.0003616551
+737	AURELIUS	DE000A0JK2A8	Deutschland	EUR	XETRA	Equity	-	DAX Index	Financials	0.0003549184
+738	GLENVEAGH PROPERTIES	IE00BD6JX574	Irland	EUR	-	Equity	-	-	Consumer Discretionary	0.0003543504
+739	TOBII	SE0002591420	Schweden	SEK	Stockholm Stock Exchange	Equity	-	OMX Stockholm 30 Index	Information Technology	0.0003542778
+740	CRANEWARE	GB00B2425G68	Vereinigtes Königreich	GBP	-	Equity	-	-	Health Care	0.0003535288
+741	ERAMET	FR0000131757	Frankreich	EUR	Euronext Paris	Equity	-	CAC 40 Index	Materials	0.0003516827
+742	MEKONOMEN	SE0002110064	Schweden	SEK	Stockholm Stock Exchange	Equity	-	OMX Stockholm 30 Index	Consumer Discretionary	0.000348613
+743	RESURS HLDG.	SE0007665823	Schweden	SEK	Stockholm Stock Exchange	Equity	-	OMX Stockholm 30 Index	Financials	0.0003479983
+744	ORESUND INVESTMENT	SE0008321608	Schweden	SEK	Stockholm Stock Exchange	Equity	-	OMX Stockholm 30 Index	Financials	0.000347754
+745	PIAGGIO & C	IT0003073266	Italien	EUR	Milan Stock Exchange	Equity	-	FTSE Italia All-Share Index	Consumer Discretionary	0.0003461787
+746	LPKF LASER&ELEKTRO.	DE0006450000	Deutschland	EUR	XETRA	Equity	-	DAX Index	Information Technology	0.0003375472
+747	WATKIN JONES	GB00BD6RF223	Vereinigtes Königreich	GBP	London Stock Exchange	Equity	-	FTSE 100 Index	Real Estate	0.0003365371
+748	ADAPTEO RG	FI4000383898	Finnland	SEK	-	Equity	-	-	Industrials	0.0003356262
+749	BELL	CH0315966322	Schweiz	CHF	Scoach Switzerland	Equity	-	Swiss Market Index	Consumer Staples	0.0003348077
+750	MOBILEZONE HLDG.	CH0276837694	Schweiz	CHF	Scoach Switzerland	Equity	-	Swiss Market Index	Consumer Discretionary	0.0003338771
+751	RESTORE	GB00B5NR1S72	Vereinigtes Königreich	GBP	London Stock Exchange	Equity	-	FTSE 100 Index	Industrials	0.0003311587
+752	BAYWA	DE0005194062	Deutschland	EUR	NASDAQ National Market System	Equity	B1	NASDAQ Composite Index	Industrials	0.0003303283
+753	ZEAL NETWORK	DE000ZEAL241	Vereinigtes Königreich	EUR	-	Equity	-	DAX Index	Consumer Discretionary	0.0003299436
+754	BETTER COLLECTIVE	DK0060952240	Dänemark	SEK	-	Equity	-	-	Consumer Discretionary	0.0003290014
+755	CREADES RG-A	SE0015661236	Schweden	SEK	-	Equity	-	-	Financials	0.0003286541
+756	ING UK REAL ESTATE INCOME TR.	GB00B0LCW208	Guernsey	GBP	London Stock Exchange	Equity	-	FTSE 100 Index	Real Estate	0.0003263107
+757	NEINOR HOMES	ES0105251005	Spanien	EUR	Mercado Continuo Espana	Equity	-	IBEX 35 Index	Consumer Discretionary	0.0003242101
+758	FONCIERE FINANCIERE PARTICIPATIONS	FR0000064784	Frankreich	EUR	Euronext Paris	Equity	-	CAC 40 Index	Financials	0.0003220721
+759	AMBEA AB	SE0009663826	Schweden	SEK	-	Equity	-	-	Health Care	0.0003194371
+760	GRUPO EMPRESARIAL ENCE SA	ES0130625512	Spanien	EUR	Mercado Continuo Espana	Equity	-	IBEX 35 Index	Materials	0.000318903
+761	ORIGIN ENTERPRISES	IE00B1WV4493	Irland	EUR	Irish Stock Exchange	Equity	-	ISEQ Irish Overall Index	Consumer Staples	0.0003179808
+762	HELICAL BAR	GB00B0FYMT95	Vereinigtes Königreich	GBP	London Stock Exchange	Equity	-	FTSE 100 Index	Real Estate	0.0003178606
+763	CLOETTA AB	SE0002626861	Schweden	SEK	Stockholm Stock Exchange	Equity	-	OMX Stockholm 30 Index	Consumer Staples	0.0003161387
+764	TECNOINVESTIMENTI	IT0005037210	Italien	EUR	-	Equity	-	-	Industrials	0.0003161149
+765	F-SECURE	FI0009801310	Finnland	EUR	Helsinki Stock Exchange	Equity	-	OMX Helsinki Index	Information Technology	0.000315956
+766	HANSA MEDICAL	SE0002148817	Schweden	SEK	Stockholm Stock Exchange	Equity	-	OMX Stockholm 30 Index	Health Care	0.0003147313
+767	SENIOR	GB0007958233	Vereinigtes Königreich	GBP	London Stock Exchange	Equity	-	FTSE 100 Index	Industrials	0.0003128698
+768	ERGOMED	GB00BN7ZCY67	Vereinigtes Königreich	GBP	-	Equity	-	-	Health Care	0.000312368
+769	ALM. BRAND	DK0015250344	Dänemark	DKK	Copenhagen Stock Exchange	Equity	-	OMX COPENHAGEN 20 Index	Financials	0.000311957
+770	DANIELI & C. -OFF. MECCAN. APRNC	IT0000076486	Italien	EUR	-	Equity	-	-	Industrials	0.0003118891
+771	DO & CO REST.& CATER.	AT0000818802	Österreich	EUR	Vienna Stock Exchange	Equity	-	Austrian Traded Index	Industrials	0.0003114872
+772	IQE	GB0009619924	Vereinigtes Königreich	GBP	London Stock Exchange	Equity	-	FTSE 100 Index	Information Technology	0.0003113609
+773	IG DESIGN GRP RG	GB0004526900	Vereinigtes Königreich	GBP	-	Equity	-	-	Consumer Discretionary	0.0003094056
+774	WAREHOUSE REIT RG	GB00BD2NCM38	Vereinigtes Königreich	GBP	-	Equity	-	-	Real Estate	0.0003053848
+775	FINNAIR	FI0009003230	Finnland	EUR	Helsinki Stock Exchange	Equity	-	OMX Helsinki Index	Industrials	0.0003039727
+776	PEXIP HOLDING	NO0010840507	Norwegen	NOK	Oslo Stock Exchange	Equity	-	Oslo SE All-share Index	Information Technology	0.0003028664
+777	SEMAPA SOC INVE E GESTAO	PTSEM0AM0004	Portugal	EUR	Euronext Lisbon	Equity	-	-	Materials	0.0003024826
+778	AUTONEUM	CH0127480363	Schweiz	CHF	Scoach Switzerland	Equity	-	Swiss Market Index	Consumer Discretionary	0.0002998136
+779	TALGO SA	ES0105065009	Spanien	EUR	Mercado Continuo Espana	Equity	-	IBEX 35 Index	Industrials	0.0002994587
+780	HAMBG.HAFEN U. LOGISTIK (HHLA)	DE000A0S8488	Deutschland	EUR	XETRA	Equity	-	DAX Index	Industrials	0.0002980603
+781	MIQUEL Y COSTAS	ES0164180012	Spanien	EUR	Mercado Continuo Espana	Equity	-	IBEX 35 Index	Materials	0.0002979267
+782	CIE DES ALPES	FR0000053324	Frankreich	EUR	Euronext Paris	Equity	-	CAC 40 Index	Consumer Discretionary	0.0002969661
+783	TBC BANK	GB00BYT18307	Vereinigtes Königreich	GBP	London Stock Exchange	Equity	-	FTSE 100 Index	Financials	0.0002966705
+784	TECNICAS REUNIDAS	ES0178165017	Spanien	EUR	Mercado Continuo Espana	Equity	-	IBEX 35 Index	Energy	0.0002950537
+785	SARAS	IT0000433307	Italien	EUR	Milan Stock Exchange	Equity	-	FTSE Italia All-Share Index	Energy	0.0002901192
+786	LIECHTENSTEIN LANDESBANK	LI0355147575	Liechtenstein	CHF	Scoach Switzerland	Equity	-	Swiss Market Index	Financials	0.0002892708
+787	U-BLOX HLDG.	CH0033361673	Schweiz	CHF	Scoach Switzerland	Equity	-	Swiss Market Index	Information Technology	0.0002883109
+788	HAMBORNER REIT AG	DE000A3H2333	Deutschland	EUR	-	Equity	-	-	Real Estate	0.000285527
+789	ILLIMITY BANK	IT0005359192	Italien	EUR	-	Equity	-	-	Financials	0.0002854571
+790	BURKHALTER HLDGS.	CH0212255803	Schweiz	CHF	Scoach Switzerland	Equity	-	Swiss Market Index	Industrials	0.0002852893
+791	AB DYNAMICS RG	GB00B9GQVG73	Vereinigtes Königreich	GBP	-	Equity	-	-	Consumer Discretionary	0.000282929
+792	ALPHA FX GRP RG	GB00BF1TM596	Vereinigtes Königreich	GBP	-	Equity	-	-	Financials	0.0002828107
+793	SMA SOLAR	DE000A0DJ6J9	Deutschland	EUR	XETRA	Equity	-	DAX Index	Information Technology	0.0002821274
+794	X-FAB SILICON F	BE0974310428	Belgien	EUR	-	Equity	-	-	Information Technology	0.0002818682
+795	YPSOMED	CH0019396990	Schweiz	CHF	Scoach Switzerland	Equity	-	Swiss Market Index	Health Care	0.0002807279
+796	MOLECULAR PARTNERS	CH0256379097	Schweiz	CHF	Scoach Switzerland	Equity	-	Swiss Market Index	Health Care	0.0002806391
+797	TOD'S	IT0003007728	Italien	EUR	Milan Stock Exchange	Equity	-	FTSE Italia All-Share Index	Consumer Discretionary	0.0002791647
+798	FLEX LNG RG	BMG359472021	Vereinigtes Königreich	NOK	-	Equity	-	-	Energy	0.0002765646
+799	SCANDIC HOTELS GR.	SE0007640156	Schweden	SEK	Stockholm Stock Exchange	Equity	-	OMX Stockholm 30 Index	Consumer Discretionary	0.0002764023
+800	BORUSSIA DORTMUND	DE0005493092	Deutschland	EUR	XETRA	Equity	-	DAX Index	Communication Services	0.0002754656
+801	CTT CORREIOS DE PORTUGAL	PTCTT0AM0001	Portugal	EUR	Euronext Lisbon	Equity	-	-	Industrials	0.0002748798
+802	AB SCIENCE	FR0010557264	Frankreich	EUR	Euronext Paris	Equity	-	CAC 40 Index	Health Care	0.0002747273
+803	PETROFAC	GB00B0H2K534	Vereinigtes Königreich	GBP	London Stock Exchange	Equity	Baa1	FTSE 100 Index	Energy	0.0002736069
+804	METROVACESA	ES0105122024	Spanien	EUR	Mercado Continuo Espana	Equity	-	IBEX 35 Index	Real Estate	0.0002722033
+805	MATAS A/S	DK0060497295	Dänemark	DKK	Copenhagen Stock Exchange	Equity	-	OMX COPENHAGEN 20 Index	Consumer Discretionary	0.0002666316
+806	CONTOURGLOBAL	GB00BF448H58	Vereinigtes Königreich	GBP	-	Equity	-	-	Utilities	0.0002660093
+807	CELLECTIS	FR0010425595	Frankreich	EUR	Euronext Paris	Equity	-	CAC 40 Index	Health Care	0.0002647292
+808	CRAYON GR. HLDG.	NO0010808892	Norwegen	NOK	Oslo Stock Exchange	Equity	-	Oslo SE All-share Index	Information Technology	0.000264277
+809	DOBANK	IT0001044996	Italien	EUR	-	Equity	-	-	Financials	0.0002639218
+810	SEDANA MED RG	SE0009947534	Schweden	SEK	-	Equity	-	-	Health Care	0.0002631113
+811	STAGECOACH	GB00B6YTLS95	Vereinigtes Königreich	GBP	London Stock Exchange	Equity	Baa2	FTSE 100 Index	Industrials	0.0002627355
+812	DNO INTERNATIONAL	NO0003921009	Norwegen	NOK	Oslo Stock Exchange	Equity	-	Oslo SE All-share Index	Energy	0.0002626895
+813	KARO BIO AB	SE0007464888	Schweden	SEK	-	Equity	-	-	Health Care	0.0002618532
+814	MLP	DE0006569908	Deutschland	EUR	XETRA	Equity	-	DAX Index	Financials	0.0002575685
+815	BENETEAU SA	FR0000035164	Frankreich	EUR	Euronext Paris	Equity	-	CAC 40 Index	Consumer Discretionary	0.0002568138
+816	NUMIS CORPORATION	GB00B05M6465	Vereinigtes Königreich	GBP	-	Equity	-	-	Financials	0.0002564239
+817	SCANDI STANDARD	SE0005999760	Schweden	SEK	Stockholm Stock Exchange	Equity	-	OMX Stockholm 30 Index	Consumer Staples	0.0002558198
+818	HOME24	DE000A14KEB5	Deutschland	EUR	-	Equity	-	-	Consumer Discretionary	0.0002539495
+819	PHARMAGEST INTERACT	FR0012882389	Frankreich	EUR	-	Equity	-	-	Health Care	0.0002523163
+820	BASILEA PHARMACEUTICA	CH0011432447	Schweiz	CHF	Scoach Switzerland	Equity	-	Swiss Market Index	Health Care	0.0002510448
+821	TAKKT	DE0007446007	Deutschland	EUR	XETRA	Equity	B1	DAX Index	Consumer Discretionary	0.0002487108
+822	ELRINGKLINGER	DE0007856023	Deutschland	EUR	XETRA	Equity	-	DAX Index	Consumer Discretionary	0.0002479493
+823	ECONOCOM GR.	BE0974313455	Belgien	EUR	Euronext Brussels	Equity	-	BEL 20 Index	Information Technology	0.0002460585
+824	ADVA OPTICAL NETWORKING	DE0005103006	Deutschland	EUR	XETRA	Equity	B1	DAX Index	Information Technology	0.0002450562
+825	BONESUPPORT HLDG.	SE0009858152	Schweden	SEK	-	Equity	-	-	Health Care	0.0002432125
+826	IMPREGLIO	IT0003865570	Italien	EUR	Milan Stock Exchange	Equity	-	FTSE Italia All-Share Index	Industrials	0.0002420207
+827	REGIONAL REIT	GG00BYV2ZQ34	Vereinigtes Königreich	GBP	London Stock Exchange	Equity	-	FTSE 100 Index	Real Estate	0.0002416953
+828	HEXAGON COMPOSITES	NO0003067902	Norwegen	NOK	Oslo Stock Exchange	Equity	-	Oslo SE All-share Index	Industrials	0.0002383733
+829	NOVACYT	FR0010397232	Frankreich	EUR	-	Equity	-	-	Health Care	0.0002377681
+830	BOBST GR.	CH0012684657	Schweiz	CHF	Scoach Switzerland	Equity	-	Swiss Market Index	Industrials	0.0002360782
+831	SEMPERIT	AT0000785555	Österreich	EUR	Vienna Stock Exchange	Equity	-	Austrian Traded Index	Industrials	0.0002357965
+832	LE NOBLE-AGE	FR0004170017	Frankreich	EUR	Euronext Paris	Equity	-	CAC 40 Index	Health Care	0.0002354098
+833	METALL ZUG	CH0039821084	Schweiz	CHF	-	Equity	-	Swiss Market Index	Health Care	0.0002341946
+834	IOMART GROUP	GB0004281639	Vereinigtes Königreich	GBP	London Stock Exchange	Equity	-	FTSE 100 Index	Information Technology	0.0002316541
+835	BASLER	DE0005102008	Deutschland	EUR	-	Equity	-	-	Information Technology	0.00023149
+836	HUNTING	GB0004478896	Vereinigtes Königreich	GBP	London Stock Exchange	Equity	-	FTSE 100 Index	Energy	0.0002306007
+837	MAIRE TECNIMONT	IT0004931058	Italien	EUR	Milan Stock Exchange	Equity	-	FTSE Italia All-Share Index	Industrials	0.0002302299
+838	BIESSE	IT0003097257	Italien	EUR	Milan Stock Exchange	Equity	-	FTSE Italia All-Share Index	Industrials	0.0002294878
+839	SGL CARBON	DE0007235301	Deutschland	EUR	XETRA	Equity	-	DAX Index	Industrials	0.0002279211
+840	LEONTEQ	CH0190891181	Schweiz	CHF	Scoach Switzerland	Equity	-	Swiss Market Index	Financials	0.0002273937
+841	EL.EN.	IT0005188336	Italien	EUR	Milan Stock Exchange	Equity	-	FTSE Italia All-Share Index	Health Care	0.0002263641
+842	DUNI	SE0000616716	Schweden	SEK	Stockholm Stock Exchange	Equity	-	OMX Stockholm 30 Index	Consumer Discretionary	0.0002261729
+843	JUVENTUS FC	IT0000336518	Italien	EUR	Milan Stock Exchange	Equity	-	FTSE Italia All-Share Index	Communication Services	0.0002239902
+844	BONHEUR	NO0003110603	Norwegen	NOK	-	Equity	-	-	Industrials	0.0002221635
+845	SCHOELLER-BLECKMANN	AT0000946652	Österreich	EUR	Vienna Stock Exchange	Equity	-	Austrian Traded Index	Energy	0.000221194
+846	ASCOM N	CH0011339204	Schweiz	CHF	Scoach Switzerland	Equity	-	Swiss Market Index	Health Care	0.00022088
+847	GRIEG SEAFOOD	NO0010365521	Norwegen	NOK	Oslo Stock Exchange	Equity	-	Oslo SE All-share Index	Consumer Staples	0.0002204445
+848	CHARGEURS	FR0000130692	Frankreich	EUR	Euronext Paris	Equity	-	CAC 40 Index	Consumer Discretionary	0.0002180817
+849	SERICA ENERGY RG	GB00B0CY5V57	Vereinigtes Königreich	GBP	-	Equity	-	-	Energy	0.000217607
+850	MITHRA PHARMACEUTICALS	BE0974283153	Belgien	EUR	-	Equity	-	-	Health Care	0.0002159357
+851	ION BEAM APPLICATIONS	BE0003766806	Belgien	EUR	Euronext Brussels	Equity	-	BEL 20 Index	Health Care	0.0002145639
+852	ASCOPIAVE	IT0004093263	Italien	EUR	Milan Stock Exchange	Equity	-	FTSE Italia All-Share Index	Utilities	0.0002132896
+853	FUNDING CIRCLE	GB00BG0TPX62	Vereinigtes Königreich	GBP	-	Equity	-	-	Financials	0.0002099495
+854	ATRESMEDIA CORP.MC	ES0109427734	Spanien	EUR	Mercado Continuo Espana	Equity	-	IBEX 35 Index	Communication Services	0.0002082697
+855	VILMORIN ET CIE	FR0000052516	Frankreich	EUR	Euronext Paris	Equity	-	CAC 40 Index	Consumer Staples	0.0002070385
+856	BACTIGUARD HLDG.	SE0005878741	Schweden	SEK	-	Equity	-	-	Health Care	0.0002061601
+857	JUDGES SCIENTIFI RG	GB0032398678	Vereinigtes Königreich	GBP	-	Equity	-	-	Industrials	0.0002059616
+858	MOBISTAR	BE0003735496	Belgien	EUR	Euronext Brussels	Equity	-	BEL 20 Index	Communication Services	0.0002053017
+859	SOLARPACK CORP TECNOLOGICA	ES0105385001	Spanien	EUR	-	Equity	-	-	Utilities	0.0002032265
+860	LIME TECHNOL	SE0011870195	Schweden	SEK	-	Equity	-	-	Information Technology	0.0001998652
+861	FINCANTIERI S.P.A.	IT0001415246	Italien	EUR	Milan Stock Exchange	Equity	-	FTSE Italia All-Share Index	Industrials	0.0001992908
+862	MEDIOS	DE000A1MMCC8	Deutschland	EUR	-	Equity	-	-	Health Care	0.000198878
+863	ZIGNAGO VETRO	IT0004171440	Italien	EUR	Milan Stock Exchange	Equity	-	FTSE Italia All-Share Index	Materials	0.0001962842
+864	RELIEF THERAP.	CH0100191136	Schweiz	CHF	-	Equity	-	-	Health Care	0.0001958881
+865	WILH. WILHELMSEN	NO0010571680	Norwegen	NOK	Oslo Stock Exchange	Equity	-	Oslo SE All-share Index	Industrials	0.0001935194
+866	CANTARGIA AB	SE0006371126	Schweden	SEK	-	Equity	-	-	Health Care	0.000193075
+867	LAR ESPANA REAL ESTATE SOCIMI	ES0105015012	Spanien	EUR	Mercado Continuo Espana	Equity	-	IBEX 35 Index	Real Estate	0.0001929596
+868	EDREAMS ODIGEO	LU1048328220	Spanien	EUR	Mercado Continuo Espana	Equity	-	IBEX 35 Index	Consumer Discretionary	0.0001922162
+869	PROSEGUR	ES0105229001	Spanien	EUR	-	Equity	-	-	Industrials	0.0001903566
+870	XXL	NO0010716863	Norwegen	NOK	Oslo Stock Exchange	Equity	-	Oslo SE All-share Index	Consumer Discretionary	0.0001902956
+871	LEOVEGAS	SE0008091904	Schweden	SEK	Stockholm Stock Exchange	Equity	-	OMX Stockholm 30 Index	Consumer Discretionary	0.000189595
+872	K-FAST HLDG-B RG	SE0013382355	Schweden	SEK	-	Equity	-	-	Real Estate	0.0001891095
+873	KOENIG & BAUER	DE0007193500	Deutschland	EUR	XETRA	Equity	-	DAX Index	Industrials	0.0001868754
+874	GAM HLDG.	CH0102659627	Schweiz	CHF	Scoach Switzerland	Equity	-	Swiss Market Index	Financials	0.0001829318
+875	CALLIDITAS THERAPEUTICS-B	SE0010441584	Schweden	SEK	-	Equity	-	-	Health Care	0.0001806624
+876	JOHN MATTSON FASTIGHETSFORETAG	SE0012481364	Schweden	SEK	-	Equity	-	-	Real Estate	0.0001806415
+877	BANCA MONTE DEI PASCHI DI SIENA	IT0005218752	Italien	EUR	Milan Stock Exchange	Equity	-	FTSE Italia All-Share Index	Financials	0.0001797925
+878	ELMOS SEMICONDUCTOR	DE0005677108	Deutschland	EUR	XETRA	Equity	-	DAX Index	Information Technology	0.0001797209
+879	GUERBET	FR0000032526	Frankreich	EUR	Euronext Paris	Equity	-	CAC 40 Index	Health Care	0.0001792176
+880	SOLGOLD	GB00B0WD0R35	Vereinigtes Königreich	GBP	London Stock Exchange	Equity	-	FTSE 100 Index	Materials	0.0001791598
+881	DRAEGERWERK ST.	DE0005550602	Deutschland	EUR	XETRA	Equity	-	DAX Index	Health Care	0.0001763126
+882	SAGAX (D)	SE0009161052	Schweden	SEK	-	Equity	-	OMX Stockholm 30 Index	Real Estate	0.0001758841
+883	IMPLENIA	CH0023868554	Schweiz	CHF	Scoach Switzerland	Equity	-	Swiss Market Index	Industrials	0.0001748271
+884	ADESSO	DE000A0Z23Q5	Deutschland	EUR	-	Equity	-	-	Information Technology	0.0001747839
+885	OHLSON	SE0000584948	Schweden	SEK	Stockholm Stock Exchange	Equity	-	OMX Stockholm 30 Index	Consumer Discretionary	0.0001741184
+886	GARO	SE0008008262	Schweden	SEK	-	Equity	-	-	Industrials	0.0001737947
+887	TF1	FR0000054900	Frankreich	EUR	Euronext Paris	Equity	Baa1	CAC 40 Index	Communication Services	0.000170322
+888	BASWARE RG	FI0009008403	Finnland	EUR	-	Equity	-	OMX Helsinki Index	Information Technology	0.0001666906
+889	APG SGA	CH0019107025	Schweiz	CHF	Scoach Switzerland	Equity	-	Swiss Market Index	Communication Services	0.0001646379
+890	STOLT-NIELSEN	BMG850801025	Vereinigtes Königreich	NOK	Oslo Stock Exchange	Equity	-	Oslo SE All-share Index	Industrials	0.0001646244
+891	SANLORENZO SPA/AMEGLIA	IT0003549422	Italien	EUR	-	Equity	-	-	Consumer Discretionary	0.0001645312
+892	VASTNED RETAIL	NL0000288918	Niederlande	EUR	Euronext Amsterdam	Equity	-	Amsterdam Exchanges Index	Real Estate	0.0001640107
+893	GROUPE CRIT	FR0000036675	Frankreich	EUR	Euronext Paris	Equity	-	CAC 40 Index	Industrials	0.000163489
+894	BANCA IFIS	IT0003188064	Italien	EUR	Milan Stock Exchange	Equity	-	FTSE Italia All-Share Index	Financials	0.0001629009
+895	BW OFFSHORE	BMG1738J1247	Bermuda	NOK	Oslo Stock Exchange	Equity	-	Oslo SE All-share Index	Energy	0.0001626543
+896	ROVIO ENTERTAINMENT	FI4000266804	Finnland	EUR	Helsinki Stock Exchange	Equity	-	OMX Helsinki Index	Communication Services	0.0001610625
+897	BONDUELLE	FR0000063935	Frankreich	EUR	Euronext Paris	Equity	-	CAC 40 Index	Consumer Staples	0.0001610534
+898	CROPENENERGIE	DE000A0LAUP1	Deutschland	EUR	XETRA	Equity	-	DAX Index	Energy	0.0001593196
+899	AEDAS HOMES	ES0105287009	Spanien	EUR	Mercado Continuo Espana	Equity	-	IBEX 35 Index	Consumer Discretionary	0.0001587682
+900	PNE WIND	DE000A0JBPG2	Deutschland	EUR	-	Equity	-	DAX Index	Industrials	0.0001582933
+901	AKKA TECHNOLOGIES	FR0004180537	Frankreich	EUR	Euronext Paris	Equity	-	CAC 40 Index	Industrials	0.0001576074
+902	CORESTATE CAPITAL HLDG.	LU1296758029	Luxemburg	EUR	-	Equity	-	-	Real Estate	0.0001549334
+903	CM.COM RG	NL0012747059	Niederlande	EUR	-	Equity	-	-	Information Technology	0.0001545706
+904	DANIELI & C. -OFF. MECCAN.	IT0000076502	Italien	EUR	Milan Stock Exchange	Equity	B1	FTSE Italia All-Share Index	Industrials	0.0001514691
+905	ADMICOM RG	FI4000251830	Finnland	EUR	-	Equity	-	-	Information Technology	0.0001507786
+906	MEDARTIS	CH0386200239	Schweiz	CHF	-	Equity	-	-	Health Care	0.0001463641
+907	B&S GROUP RG	LU1789205884	Luxemburg	EUR	-	Equity	-	-	Consumer Discretionary	0.0001446563
+908	DATALOGIC	IT0004053440	Italien	EUR	Milan Stock Exchange	Equity	-	FTSE Italia All-Share Index	Information Technology	0.0001440487
+909	ABC ARBITRAGE	FR0004040608	Frankreich	EUR	Euronext Paris	Equity	-	CAC 40 Index	Financials	0.0001395407
+910	BIOARCTIC AB	SE0010323311	Schweden	SEK	-	Equity	-	-	Health Care	0.0001360063
+911	AUBAY	FR0000063737	Frankreich	EUR	-	Equity	-	-	Information Technology	0.0001356601
+912	BERTRANDT	DE0005232805	Deutschland	EUR	XETRA	Equity	-	DAX Index	Industrials	0.0001354575
+913	MANITOU BF	FR0000038606	Frankreich	EUR	Euronext Paris	Equity	-	CAC 40 Index	Industrials	0.0001354257
+914	HORNBACH BAUMARKT	DE0006084403	Deutschland	EUR	XETRA	Equity	-	DAX Index	Consumer Discretionary	0.0001348867
+915	HOTEL CHOCOLAT GR.	GB00BYZC3B04	Vereinigtes Königreich	GBP	-	Equity	-	-	Consumer Staples	0.0001338931
+916	SMCP	FR0013214145	Frankreich	EUR	-	Equity	-	-	Consumer Discretionary	0.0001336975
+917	SAMHALLSBYGGNADSBOLAGET I NORD	SE0011844091	Schweden	SEK	-	Equity	-	-	Real Estate	0.0001311263
+918	V ZUG HLDG.	CH0542483745	Schweiz	CHF	-	Equity	-	-	Consumer Discretionary	0.0001307587
+919	SYNERGIE	FR0000032658	Frankreich	EUR	Euronext Paris	Equity	-	CAC 40 Index	Industrials	0.0001300717
+920	MBB	DE000A0ETBQ4	Deutschland	EUR	-	Equity	-	-	Industrials	0.0001298745
+921	EXASOL	DE000A0LR9G9	Deutschland	EUR	-	Equity	-	-	Information Technology	0.0001292092
+922	BAKKAVOR GROUP	GB00BF8J3Z99	Vereinigtes Königreich	GBP	-	Equity	-	-	Consumer Staples	0.0001287156
+923	MGI COUTIER	FR0000053027	Frankreich	EUR	Euronext Paris	Equity	-	CAC 40 Index	Consumer Discretionary	0.0001278249
+924	DATAGROUP	DE000A0JC8S7	Deutschland	EUR	-	Equity	-	-	Information Technology	0.0001254952
+925	SELVAAG BOLIG	NO0010612450	Norwegen	NOK	Oslo Stock Exchange	Equity	-	Oslo SE All-share Index	Real Estate	0.000125136
+926	BRUNEL INTL.	NL0010776944	Niederlande	EUR	Euronext Amsterdam	Equity	-	Amsterdam Exchanges Index	Industrials	0.0001225894
+927	NORWAY ROYAL SALMON ASA	NO0010331838	Norwegen	NOK	-	Equity	-	-	Consumer Staples	0.0001209804
+928	TORM	GB00BZ3CNK81	Vereinigtes Königreich	DKK	Copenhagen Stock Exchange	Equity	-	OMX COPENHAGEN 20 Index	Energy	0.0001172357
+929	ORIOLA-KD B	FI0009014351	Finnland	EUR	Helsinki Stock Exchange	Equity	-	OMX Helsinki Index	Health Care	0.0001165976
+930	SILENCE THERA RG	GB00B9GTXM62	Vereinigtes Königreich	GBP	-	Equity	-	-	Health Care	0.0001130781
+931	AGRANA	AT000AGRANA3	Österreich	EUR	Vienna Stock Exchange	Equity	-	Austrian Traded Index	Consumer Staples	0.0001126133
+932	ZUMTOBEL GR.	AT0000837307	Österreich	EUR	Vienna Stock Exchange	Equity	-	Austrian Traded Index	Industrials	0.0001115914
+933	COLLECTOR	SE0007048020	Schweden	SEK	Stockholm Stock Exchange	Equity	-	OMX Stockholm 30 Index	Financials	0.0001067488
+934	MONDADORI	IT0001469383	Italien	EUR	-	Equity	-	-	Communication Services	0.0001061804
+935	LA DORIA SPA	IT0001055521	Italien	EUR	Milan Stock Exchange	Equity	-	FTSE Italia All-Share Index	Consumer Staples	0.0001053184
+936	FABBRICA ITALIANA LAPIS E AFFINI	IT0004967292	Italien	EUR	Milan Stock Exchange	Equity	-	FTSE Italia All-Share Index	Industrials	0.000105311
+937	IGD - IMMOB. GRANDE DISTR.	IT0005322612	Italien	EUR	-	Equity	-	-	Real Estate	0.0001044826
+938	PROMOTORA DE INFORMACIONES	ES0171743901	Spanien	EUR	Mercado Continuo Espana	Equity	-	IBEX 35 Index	Communication Services	0.00010421
+939	SIF HLDG.	NL0011660485	Niederlande	EUR	-	Equity	-	-	Industrials	0.0001032082
+940	ALLGEIER	DE000A2GS633	Deutschland	EUR	-	Equity	-	-	Information Technology	0.0001021451
+941	INNATE PHARMA	FR0010331421	Frankreich	EUR	Euronext Paris	Equity	-	CAC 40 Index	Health Care	0.0001018866
+942	FORFARMERS N.V.	NL0011832811	Niederlande	EUR	Euronext Amsterdam	Equity	-	Amsterdam Exchanges Index	Consumer Staples	0.000100755
+943	IMMUNOVIA	SE0006091997	Schweden	SEK	-	Equity	-	-	Health Care	0.0001005674
+944	HAFNIA	BMG4233B1090	Singapur	NOK	-	Equity	-	-	Energy	0.0000981414
+945	NNIT AS	DK0060580512	Dänemark	DKK	Copenhagen Stock Exchange	Equity	-	OMX COPENHAGEN 20 Index	Health Care	0.0000951845
+946	GROUPE GUILLIN	FR0012819381	Frankreich	EUR	-	Equity	-	-	Materials	0.0000938535
+947	PORR ST.	AT0000609607	Österreich	EUR	Vienna Stock Exchange	Equity	-	Austrian Traded Index	Industrials	0.0000925263
+948	BIOCARTIS	BE0974281132	Belgien	EUR	Euronext Brussels	Equity	-	BEL 20 Index	Health Care	0.0000906213
+949	FACC	AT00000FACC2	Österreich	EUR	Vienna Stock Exchange	Equity	-	Austrian Traded Index	Industrials	0.0000894078
+951	VAN DE VELDE	BE0003839561	Belgien	EUR	Euronext Brussels	Equity	-	BEL 20 Index	Consumer Discretionary	0.0000869137
+952	TAMEDIA	CH0011178255	Schweiz	CHF	-	Equity	-	-	Communication Services	0.0000858556
+953	DISTRIB.INTL.DE ALIMENTACION	ES0126775032	Spanien	EUR	Mercado Continuo Espana	Equity	-	IBEX 35 Index	Consumer Staples	0.0000816635
+954	OHB TELEDATA	DE0005936124	Deutschland	EUR	-	Equity	-	-	Industrials	0.0000793944
+955	BET-AT-HOME.COM	DE000A0DNAY5	Deutschland	EUR	XETRA	Equity	-	DAX Index	Consumer Discretionary	0.0000779833
+956	BOIRON	FR0000061129	Frankreich	EUR	Euronext Paris	Equity	-	CAC 40 Index	Health Care	0.0000770484
+957	OCEAN YIELD ASA	NO0010657448	Norwegen	NOK	Oslo Stock Exchange	Equity	-	Oslo SE All-share Index	Energy	0.0000738751
+958	BRDR.HARTMANN-B BR	DK0010256197	Dänemark	DKK	-	Equity	-	-	Materials	0.0000710934
+959	SALCEF GROUP N	IT0005388266	Italien	EUR	-	Equity	-	-	Industrials	0.000066884
+960	ALFA FINL. SOFTWARE HLDG.	GB00BDHXPG30	Vereinigte Staaten	GBP	-	Equity	-	-	Information Technology	0.0000662816
+961	GRP EMPR S JOSE BR	ES0180918015	Spanien	EUR	-	Equity	-	-	Industrials	0.0000650453
+962	SAES GETTERS	IT0001029492	Italien	EUR	-	Equity	-	-	Information Technology	0.000064505
+963	DEVOTEAM	FR0000073793	Frankreich	EUR	Euronext Paris	Equity	-	CAC 40 Index	Information Technology	0.000062158
+964	NACON	FR0013482791	Frankreich	EUR	-	Equity	-	-	Consumer Discretionary	0.0000542927
+965	MOTA-ENGIL	PTMEN0AE0005	Portugal	EUR	Euronext Lisbon	Equity	-	-	Industrials	0.0000525835
+967	AMCO   ASSET MANAGEMENT	IT0005424962	Italien	EUR	-	Equity	-	-	unknown	0.0000276107
+968	BETSSON AB RED	SE0015672266	Schweden	SEK	-	Equity	-	-	unknown	0.0000261665
+969	ALMIRALL SA	ES0657097954	Spanien	EUR	-	Right	-	-	unknown	0.0000133509
+970	FINABLR PLC	GB00BJ7HMW26	Vereinigtes Königreich	GBP	-	Equity	-	-	Information Technology	0.0000008589
+972	AFRICAN MINERALS LTD	BMG0114P1005	Vereinigtes Königreich	USD	-	Equity	-	S&P 500 Index	Materials	0.0000000097
+973	PATISSERIE HOLDINGS PLC	GB00BM4NV504	Vereinigtes Königreich	GBP	-	Equity	-	-	Consumer Discretionary	0.0000000035
+974	BANCA CARIGE SPA	IT0005428195	Italien	EUR	-	Equity	-	-	unknown	0.0000000025
+975	LET S GOWEX S.A	ES0158252033	Spanien	EUR	Mercado Continuo Espana	Equity	-	IBEX 35 Index	Communication Services	0.000000001
+976	BIO ON SPA	IT0005056236	Italien	EUR	-	Equity	-	-	Materials	0.0000000004

@@ -1,0 +1,1597 @@
+	Name	ISIN	Country	Currency	Exchange	Type of Security	Rating	Primary Listing	Industry Classification	Weighting
+1	APPLE	US0378331005	Vereinigte Staaten	USD	NASDAQ National Market System	Equity	Aa1	NASDAQ Composite Index	Information Technology	0.0378528917
+2	MICROSOFT	US5949181045	Vereinigte Staaten	USD	NASDAQ National Market System	Equity	Aaa	NASDAQ Composite Index	Information Technology	0.0311609905
+3	AMAZON	US0231351067	Vereinigte Staaten	USD	NASDAQ National Market System	Equity	Baa1	NASDAQ Composite Index	Consumer Discretionary	0.0246477449
+4	FACEBOOK	US30303M1027	Vereinigte Staaten	USD	NASDAQ National Market System	Equity	-	NASDAQ Composite Index	Communication Services	0.013486327
+5	ALPHABET C	US02079K1079	Vereinigte Staaten	USD	NASDAQ National Market System	Equity	-	NASDAQ Composite Index	Communication Services	0.0122934238
+6	ALPHABET A	US02079K3059	Vereinigte Staaten	USD	NASDAQ National Market System	Equity	-	NASDAQ Composite Index	Communication Services	0.0121944083
+7	JPMORGAN	US46625H1005	Vereinigte Staaten	USD	New York Stock Exchange	Equity	A3	S&P 500 Index	Financials	0.0087659086
+8	JOHNSON&JOHNSON	US4781601046	Vereinigte Staaten	USD	New York Stock Exchange	Equity	Aaa	S&P 500 Index	Health Care	0.0079906318
+9	TESLA MOTORS	US88160R1014	Vereinigte Staaten	USD	NASDAQ National Market System	Equity	-	NASDAQ Composite Index	Consumer Discretionary	0.0076412668
+10	BERKSH.HATHAWAY B	US0846707026	Vereinigte Staaten	USD	New York Stock Exchange	Equity	Aa2	S&P 500 Index	Financials	0.0070049182
+11	UNITED HEALTH GROUP	US91324P1021	Vereinigte Staaten	USD	New York Stock Exchange	Equity	A3	S&P 500 Index	Health Care	0.006944251
+12	VISA	US92826C8394	Vereinigte Staaten	USD	New York Stock Exchange	Equity	A1	S&P 500 Index	Information Technology	0.0067773021
+13	NESTLE	CH0038863350	Schweiz	CHF	Scoach Switzerland	Equity	Aa2	Swiss Market Index	Consumer Staples	0.0062347785
+14	NVIDIA	US67066G1040	Vereinigte Staaten	USD	NASDAQ National Market System	Equity	B1	NASDAQ Composite Index	Information Technology	0.0062084657
+15	HOME DEPOT	US4370761029	Vereinigte Staaten	USD	New York Stock Exchange	Equity	A2	S&P 500 Index	Consumer Discretionary	0.0060383847
+16	PROCTER & GAMBLE	US7427181091	Vereinigte Staaten	USD	New York Stock Exchange	Equity	Aa3	S&P 500 Index	Consumer Staples	0.0060202058
+17	BANK OF AMERICA	US0605051046	Vereinigte Staaten	USD	New York Stock Exchange	Equity	Baa2	S&P 500 Index	Financials	0.0058573224
+18	MASTERCARD	US57636Q1040	Vereinigte Staaten	USD	New York Stock Exchange	Equity	A2	S&P 500 Index	Information Technology	0.0057706996
+19	WALT DISNEY	US2546871060	Vereinigte Staaten	USD	New York Stock Exchange	Equity	-	S&P 500 Index	Communication Services	0.0054858328
+20	PAYPAL	US70450Y1038	Vereinigte Staaten	USD	NASDAQ National Market System	Equity	-	NASDAQ Composite Index	Information Technology	0.0048709725
+21	ASML HLDG	NL0010273215	Niederlande	EUR	Euronext Amsterdam	Equity	Baa2	Amsterdam Exchanges Index	Information Technology	0.0047169213
+22	EXXON MOBIL	US30231G1022	Vereinigte Staaten	USD	New York Stock Exchange	Equity	Aaa	S&P 500 Index	Energy	0.0044486807
+23	COMCAST CORP A	US20030N1019	Vereinigte Staaten	USD	NASDAQ National Market System	Equity	A3	NASDAQ Composite Index	Communication Services	0.0044203483
+24	ROCHE GS	CH0012032048	Schweiz	CHF	Scoach Switzerland	Equity	A1	Swiss Market Index	Health Care	0.004267133
+25	VERIZON	US92343V1044	Vereinigte Staaten	USD	New York Stock Exchange	Equity	Baa1	S&P 500 Index	Communication Services	0.0042006788
+26	ADOBE	US00724F1012	Vereinigte Staaten	USD	NASDAQ National Market System	Equity	Baa1	NASDAQ Composite Index	Information Technology	0.0041200133
+27	INTEL	US4581401001	Vereinigte Staaten	USD	NASDAQ National Market System	Equity	A1	NASDAQ Composite Index	Information Technology	0.0040477635
+28	CISCO	US17275R1023	Vereinigte Staaten	USD	NASDAQ National Market System	Equity	A1	NASDAQ Composite Index	Information Technology	0.0039523466
+29	PFIZER	US7170811035	Vereinigte Staaten	USD	New York Stock Exchange	Equity	A1	S&P 500 Index	Health Care	0.0039398734
+30	COCA-COLA	US1912161007	Vereinigte Staaten	USD	New York Stock Exchange	Equity	Aa3	S&P 500 Index	Consumer Staples	0.0039255378
+31	NETFLIX	US64110L1061	Vereinigte Staaten	USD	NASDAQ National Market System	Equity	Ba3	NASDAQ Composite Index	Communication Services	0.0038461453
+32	LVMH	FR0000121014	Frankreich	EUR	Euronext Paris	Equity	A1	CAC 40 Index	Consumer Discretionary	0.003726676
+33	AT&T	US00206R1023	Vereinigte Staaten	USD	New York Stock Exchange	Equity	A3	S&P 500 Index	Communication Services	0.0037111813
+34	ABBOTT LABS	US0028241000	Vereinigte Staaten	USD	New York Stock Exchange	Equity	A1	S&P 500 Index	Health Care	0.0036650712
+35	ABBVIE	US00287Y1091	Vereinigte Staaten	USD	New York Stock Exchange	Equity	Baa1	S&P 500 Index	Health Care	0.003657668
+36	SALESFORCE.COM	US79466L3024	Vereinigte Staaten	USD	New York Stock Exchange	Equity	-	S&P 500 Index	Information Technology	0.0035861172
+37	WAL-MART STORES	US9311421039	Vereinigte Staaten	USD	New York Stock Exchange	Equity	Aa2	S&P 500 Index	Consumer Staples	0.0035790645
+38	MERCK & CO	US58933Y1055	Vereinigte Staaten	USD	New York Stock Exchange	Equity	A2	S&P 500 Index	Health Care	0.0035756858
+39	PEPSICO	US7134481081	Vereinigte Staaten	USD	NASDAQ National Market System	Equity	A1	NASDAQ Composite Index	Consumer Staples	0.0035667099
+40	CHEVRON	US1667641005	Vereinigte Staaten	USD	New York Stock Exchange	Equity	Aa1	S&P 500 Index	Energy	0.0035649848
+41	NOVARTIS N	CH0012005267	Schweiz	CHF	Scoach Switzerland	Equity	Aa3	Swiss Market Index	Health Care	0.0034592532
+42	WELLS FARGO	US9497461015	Vereinigte Staaten	USD	New York Stock Exchange	Equity	A2	S&P 500 Index	Financials	0.0032510347
+43	THERMO FISHER SCIENTIFIC	US8835561023	Vereinigte Staaten	USD	New York Stock Exchange	Equity	Baa3	S&P 500 Index	Health Care	0.0032349308
+44	ACCENTURE	IE00B4BNMY34	Irland	USD	New York Stock Exchange	Equity	-	S&P 500 Index	Information Technology	0.0031933424
+45	BROADCOM RG	US11135F1012	Vereinigte Staaten	USD	NASDAQ National Market System	Equity	-	NASDAQ Composite Index	Information Technology	0.003181519
+46	MCDONALDS	US5801351017	Vereinigte Staaten	USD	New York Stock Exchange	Equity	A2	S&P 500 Index	Consumer Discretionary	0.003056036
+47	MEDTRONIC	IE00BTN1Y115	Irland	USD	New York Stock Exchange	Equity	-	S&P 500 Index	Health Care	0.0030202861
+48	ELI LILLY	US5324571083	Vereinigte Staaten	USD	New York Stock Exchange	Equity	A2	S&P 500 Index	Health Care	0.0030166124
+49	TOYOTA	JP3633400001	Japan	JPY	Tokyo Stock Exchange	Equity	Aa3	TOPIX Index	Consumer Discretionary	0.0030068258
+50	TEXAS INSTRUMENTS	US8825081040	Vereinigte Staaten	USD	NASDAQ National Market System	Equity	-	NASDAQ Composite Index	Information Technology	0.0029848624
+51	COSTCO WHOLESALE	US22160K1051	Vereinigte Staaten	USD	NASDAQ National Market System	Equity	A1	NASDAQ Composite Index	Consumer Staples	0.002970897
+52	NIKE	US6541061031	Vereinigte Staaten	USD	New York Stock Exchange	Equity	A1	S&P 500 Index	Consumer Discretionary	0.0029681697
+53	CITIGROUP	US1729674242	Vereinigte Staaten	USD	New York Stock Exchange	Equity	Baa2	S&P 500 Index	Financials	0.0028806281
+54	AIA GROUP	HK0000069689	Hongkong	HKD	-	Equity	-	Hang Seng Index	Financials	0.0028737956
+56	DANAHER	US2358511028	Vereinigte Staaten	USD	New York Stock Exchange	Equity	A2	S&P 500 Index	Health Care	0.002836239
+57	UNILEVER PLC	GB00B10RZP78	Vereinigtes Königreich	GBP	London Stock Exchange	Equity	A1	FTSE 100 Index	Consumer Staples	0.002815536
+58	LINDE	IE00BZ12WP82	Vereinigtes Königreich	USD	New York Stock Exchange	Equity	-	S&P 500 Index	Materials	0.0027919589
+59	HONEYWELL	US4385161066	Vereinigte Staaten	USD	New York Stock Exchange	Equity	A2	S&P 500 Index	Industrials	0.0027767971
+60	ORACLE	US68389X1054	Vereinigte Staaten	USD	New York Stock Exchange	Equity	A1	S&P 500 Index	Information Technology	0.0027489839
+61	UPS-B	US9113121068	Vereinigte Staaten	USD	New York Stock Exchange	Equity	Aa3	S&P 500 Index	Industrials	0.0027358978
+62	UNION PACIFIC	US9078181081	Vereinigte Staaten	USD	New York Stock Exchange	Equity	A3	S&P 500 Index	Industrials	0.0026989127
+63	PHILIP MORRIS	US7181721090	Vereinigte Staaten	USD	New York Stock Exchange	Equity	A2	S&P 500 Index	Consumer Staples	0.0026565065
+64	QUALCOMM	US7475251036	Vereinigte Staaten	USD	NASDAQ National Market System	Equity	-	NASDAQ Composite Index	Information Technology	0.0026365042
+65	BRISTOL MYERS SQUIB	US1101221083	Vereinigte Staaten	USD	New York Stock Exchange	Equity	A2	S&P 500 Index	Health Care	0.0026316794
+66	ASTRAZENECA	GB0009895292	Vereinigtes Königreich	GBP	London Stock Exchange	Equity	A2	FTSE 100 Index	Health Care	0.0026302385
+67	AMGEN	US0311621009	Vereinigte Staaten	USD	NASDAQ National Market System	Equity	Baa1	NASDAQ Composite Index	Health Care	0.0025966235
+68	ROYAL BANK OF CANADA	CA7800871021	Kanada	CAD	Toronto Stock Exchange	Equity	Aa3	S&P/TSX COMPOSITE Index	Financials	0.0025552496
+69	SAP ST.	DE0007164600	Deutschland	EUR	XETRA	Equity	-	DAX Index	Information Technology	0.0025303585
+70	NEXTERA ENERGY	US65339F1012	Vereinigte Staaten	USD	New York Stock Exchange	Equity	Baa1	S&P 500 Index	Utilities	0.0025262475
+71	LOWE'S COMPANIES	US5486611073	Vereinigte Staaten	USD	New York Stock Exchange	Equity	A3	S&P 500 Index	Consumer Discretionary	0.002481613
+72	NOVO-NORDISK	DK0060534915	Dänemark	DKK	Copenhagen Stock Exchange	Equity	A1	OMX COPENHAGEN 20 Index	Health Care	0.0024330025
+73	RAYTHEON TECHOLOGIES	US75513E1010	Vereinigte Staaten	USD	New York Stock Exchange	Equity	-	S&P 500 Index	Industrials	0.0023281999
+74	TORONTO-DOMINION BANK	CA8911605092	Kanada	CAD	Toronto Stock Exchange	Equity	Aa1	S&P/TSX COMPOSITE Index	Financials	0.0023206177
+75	COMMONWEALTH BANK	AU000000CBA7	Australien	AUD	Australian Stock Exchange	Equity	Aa2	ASX All Ordinaries Index	Financials	0.0023194874
+76	STARBUCKS	US8552441094	Vereinigte Staaten	USD	NASDAQ National Market System	Equity	A3	NASDAQ Composite Index	Consumer Discretionary	0.0023118308
+77	CATERPILLAR	US1491231015	Vereinigte Staaten	USD	New York Stock Exchange	Equity	A2	S&P 500 Index	Industrials	0.0023040994
+78	BLACKROCK	US09247X1019	Vereinigte Staaten	USD	New York Stock Exchange	Equity	-	S&P 500 Index	Financials	0.0022828411
+79	SHOPIFY	CA82509L1076	Kanada	CAD	New York Stock Exchange	Equity	-	S&P 500 Index	Information Technology	0.0022812402
+80	HSBC	GB0005405286	Vereinigtes Königreich	GBP	London Stock Exchange	Equity	Aa3	FTSE 100 Index	Financials	0.0022759963
+81	IBM	US4592001014	Vereinigte Staaten	USD	New York Stock Exchange	Equity	Aa3	S&P 500 Index	Information Technology	0.0022548258
+82	SIEMENS	DE0007236101	Deutschland	EUR	XETRA	Equity	Aa3	DAX Index	Industrials	0.0022235327
+83	SOFTBANK GR.CORP.	JP3436100006	Japan	JPY	Tokyo Stock Exchange	Equity	Ba1	TOPIX Index	Communication Services	0.0021855828
+84	BOEING	US0970231058	Vereinigte Staaten	USD	New York Stock Exchange	Equity	-	S&P 500 Index	Industrials	0.0021628112
+85	SONY	JP3435000009	Japan	JPY	Tokyo Stock Exchange	Equity	Ba1	TOPIX Index	Consumer Discretionary	0.0021545671
+86	MORGAN STANLEY	US6174464486	Vereinigte Staaten	USD	New York Stock Exchange	Equity	Baa1	S&P 500 Index	Financials	0.0021397075
+87	SANOFI	FR0000120578	Frankreich	EUR	Euronext Paris	Equity	A1	CAC 40 Index	Health Care	0.0021215261
+88	TOTAL	FR0000120271	Frankreich	EUR	Euronext Paris	Equity	Aa1	CAC 40 Index	Energy	0.0021124503
+89	GOLDMAN SACHS	US38141G1040	Vereinigte Staaten	USD	New York Stock Exchange	Equity	A3	S&P 500 Index	Financials	0.0021093751
+90	CVS HEALTH	US1266501006	Vereinigte Staaten	USD	New York Stock Exchange	Equity	Baa1	S&P 500 Index	Health Care	0.0020763202
+91	APPLIED MATERIALS	US0382221051	Vereinigte Staaten	USD	NASDAQ National Market System	Equity	-	NASDAQ Composite Index	Information Technology	0.0020724914
+92	3M COMPANY	US88579Y1010	Vereinigte Staaten	USD	New York Stock Exchange	Equity	Aa2	S&P 500 Index	Industrials	0.0020689451
+93	GENERAL ELECTRIC	US3696041033	Vereinigte Staaten	USD	New York Stock Exchange	Equity	Aa3	S&P 500 Index	Industrials	0.0020553894
+94	DIAGEO	GB0002374006	Vereinigtes Königreich	GBP	London Stock Exchange	Equity	A3	FTSE 100 Index	Consumer Staples	0.0019926293
+95	BHP BILLITON LTD.	AU000000BHP4	Australien	AUD	Australian Stock Exchange	Equity	A1	ASX All Ordinaries Index	Materials	0.0019915115
+96	INTUIT	US4612021034	Vereinigte Staaten	USD	NASDAQ National Market System	Equity	Baa1	NASDAQ Composite Index	Information Technology	0.0019744841
+97	ALLIANZ	DE0008404005	Deutschland	EUR	XETRA	Equity	Aa3	DAX Index	Financials	0.0019545305
+98	TARGET CORP	US87612E1064	Vereinigte Staaten	USD	New York Stock Exchange	Equity	A2	S&P 500 Index	Consumer Discretionary	0.001952902
+99	AMERICAN TOWER A	US03027X1000	Vereinigte Staaten	USD	New York Stock Exchange	Equity	Baa3	S&P 500 Index	Real Estate	0.0019508927
+100	CHARLES SCHWAB	US8085131055	Vereinigte Staaten	USD	New York Stock Exchange	Equity	-	S&P 500 Index	Financials	0.001935361
+101	L'OREAL	FR0000120321	Frankreich	EUR	Euronext Paris	Equity	-	CAC 40 Index	Consumer Staples	0.0019113731
+102	AMERICAN EXPRESS	US0258161092	Vereinigte Staaten	USD	New York Stock Exchange	Equity	A3	S&P 500 Index	Financials	0.0019019706
+103	DEERE & CO	US2441991054	Vereinigte Staaten	USD	New York Stock Exchange	Equity	A2	S&P 500 Index	Industrials	0.0018931026
+104	ANTHEM	US0367521038	Vereinigte Staaten	USD	New York Stock Exchange	Equity	-	S&P 500 Index	Health Care	0.0017826202
+105	LOCKHEED MARTIN	US5398301094	Vereinigte Staaten	USD	New York Stock Exchange	Equity	-	S&P 500 Index	Industrials	0.001732737
+106	RIO TINTO	GB0007188757	Vereinigtes Königreich	GBP	London Stock Exchange	Equity	A3	FTSE 100 Index	Materials	0.0017196434
+107	CSL	AU000000CSL8	Australien	AUD	Australian Stock Exchange	Equity	-	ASX All Ordinaries Index	Health Care	0.001717607
+108	GLAXOSMITHKLINE	GB0009252882	Vereinigtes Königreich	GBP	London Stock Exchange	Equity	A1	FTSE 100 Index	Health Care	0.0017135538
+109	INTUITIVE SURGICAL	US46120E6023	Vereinigte Staaten	USD	NASDAQ National Market System	Equity	-	NASDAQ Composite Index	Health Care	0.0017046387
+110	CHARTER COMMS	US16119P1084	Vereinigte Staaten	USD	NASDAQ National Market System	Equity	-	NASDAQ Composite Index	Communication Services	0.0016989315
+111	CIGNA	US1255231003	Vereinigte Staaten	USD	New York Stock Exchange	Equity	-	S&P 500 Index	Health Care	0.0016941645
+112	BOOKING HDGS	US09857L1089	Vereinigte Staaten	USD	NASDAQ National Market System	Equity	-	NASDAQ Composite Index	Consumer Discretionary	0.0016891254
+113	FIDELITY NATL.INFO.	US31620M1062	Vereinigte Staaten	USD	New York Stock Exchange	Equity	-	S&P 500 Index	Information Technology	0.0016389703
+114	AMD	US0079031078	Vereinigte Staaten	USD	NASDAQ National Market System	Equity	-	NASDAQ Composite Index	Information Technology	0.0016277096
+115	ALTRIA	US02209S1033	Vereinigte Staaten	USD	New York Stock Exchange	Equity	Baa1	S&P 500 Index	Consumer Staples	0.0016269052
+116	BP	GB0007980591	Vereinigtes Königreich	GBP	London Stock Exchange	Equity	A2	FTSE 100 Index	Energy	0.0016108089
+117	S&P GLOBAL	US78409V1044	Vereinigte Staaten	USD	New York Stock Exchange	Equity	-	S&P 500 Index	Financials	0.001602195
+118	BRIT.AMER.TOBACCO	GB0002875804	Vereinigtes Königreich	GBP	London Stock Exchange	Equity	A3	FTSE 100 Index	Consumer Staples	0.00160095
+119	MICRON TECHNOLOGY	US5951121038	Vereinigte Staaten	USD	NASDAQ National Market System	Equity	Ba3	NASDAQ Composite Index	Information Technology	0.0015856831
+120	SERVICENOW	US81762P1021	Vereinigte Staaten	USD	New York Stock Exchange	Equity	-	S&P 500 Index	Information Technology	0.0015797347
+121	MONDELEZ	US6092071058	Vereinigte Staaten	USD	NASDAQ National Market System	Equity	Baa1	NASDAQ Composite Index	Consumer Staples	0.0015597301
+122	KEYENCE CORP	JP3236200006	Japan	JPY	Tokyo Stock Exchange	Equity	-	TOPIX Index	Information Technology	0.0015564212
+123	LAM RESEARCH	US5128071082	Vereinigte Staaten	USD	NASDAQ National Market System	Equity	Baa1	NASDAQ Composite Index	Information Technology	0.0015470371
+124	STRYKER	US8636671013	Vereinigte Staaten	USD	New York Stock Exchange	Equity	A3	S&P 500 Index	Health Care	0.0015332496
+125	PROLOGIS	US74340W1036	Vereinigte Staaten	USD	New York Stock Exchange	Equity	-	S&P 500 Index	Real Estate	0.0015279822
+126	GILEAD SCIENCES	US3755581036	Vereinigte Staaten	USD	NASDAQ National Market System	Equity	Baa1	NASDAQ Composite Index	Health Care	0.001525147
+127	SCHNEIDER ELECTRIC	FR0000121972	Frankreich	EUR	Euronext Paris	Equity	A3	CAC 40 Index	Industrials	0.001520894
+128	TRUIST FINL	US89832Q1094	Vereinigte Staaten	USD	New York Stock Exchange	Equity	-	S&P 500 Index	Financials	0.0014921867
+129	US BANCORP	US9029733048	Vereinigte Staaten	USD	New York Stock Exchange	Equity	A1	S&P 500 Index	Financials	0.0014822015
+130	IBERDROLA	ES0144580Y14	Spanien	EUR	Mercado Continuo Espana	Equity	Baa1	IBEX 35 Index	Utilities	0.001476017
+131	AUTOMATIC DATA PROCESSING	US0530151036	Vereinigte Staaten	USD	NASDAQ National Market System	Equity	Aaa	NASDAQ Composite Index	Information Technology	0.001466965
+132	ZOETIS	US98978V1035	Vereinigte Staaten	USD	New York Stock Exchange	Equity	Baa2	S&P 500 Index	Health Care	0.0014619411
+133	TJX COMPANIES	US8725401090	Vereinigte Staaten	USD	New York Stock Exchange	Equity	A3	S&P 500 Index	Consumer Discretionary	0.0014593206
+134	PNC FIN.SVS.GRP.	US6934751057	Vereinigte Staaten	USD	New York Stock Exchange	Equity	-	S&P 500 Index	Financials	0.0014567624
+135	ROYAL DUTCH SHELL A	GB00B03MLX29	Niederlande	GBP	Euronext Amsterdam	Equity	Aa1	Amsterdam Exchanges Index	Energy	0.00144277
+136	THE BANK OF NOVA SCOTIA	CA0641491075	Kanada	CAD	Toronto Stock Exchange	Equity	Aa2	S&P/TSX COMPOSITE Index	Financials	0.0014078772
+137	AIR LIQUIDE	FR0000120073	Frankreich	EUR	Euronext Paris	Equity	A1	CAC 40 Index	Materials	0.0014003833
+138	BNP PARIBAS	FR0000131104	Frankreich	EUR	Euronext Paris	Equity	Baa2	CAC 40 Index	Financials	0.0013996355
+139	ENEL	IT0003128367	Italien	EUR	Milan Stock Exchange	Equity	Baa2	FTSE Italia All-Share Index	Utilities	0.0013899791
+140	CROWN CASTLE	US22822V1017	Vereinigte Staaten	USD	New York Stock Exchange	Equity	-	S&P 500 Index	Real Estate	0.0013850804
+141	ENBRIDGE	CA29250N1050	Kanada	CAD	Toronto Stock Exchange	Equity	Baa1	S&P/TSX COMPOSITE Index	Energy	0.001380129
+142	CONOCOPHILLIPS	US20825C1045	Vereinigte Staaten	USD	New York Stock Exchange	Equity	A1	S&P 500 Index	Energy	0.0013762633
+143	FEDEX	US31428X1063	Vereinigte Staaten	USD	New York Stock Exchange	Equity	Baa1	S&P 500 Index	Industrials	0.0013739338
+144	DAIMLER	DE0007100000	Deutschland	EUR	XETRA	Equity	A3	DAX Index	Consumer Discretionary	0.0013686797
+145	SQUARE	US8522341036	Vereinigte Staaten	USD	New York Stock Exchange	Equity	-	S&P 500 Index	Information Technology	0.0013625648
+146	BASF	DE000BASF111	Deutschland	EUR	XETRA	Equity	A1	DAX Index	Materials	0.0013599765
+147	CME GROUP	US12572Q1058	Vereinigte Staaten	USD	NASDAQ National Market System	Equity	-	NASDAQ Composite Index	Financials	0.0013554174
+148	CSX	US1264081035	Vereinigte Staaten	USD	NASDAQ National Market System	Equity	-	NASDAQ Composite Index	Industrials	0.0013518343
+149	CHUBB	CH0044328745	Schweiz	USD	New York Stock Exchange	Equity	-	S&P 500 Index	Financials	0.0013356818
+150	T-MOBILE US	US8725901040	Vereinigte Staaten	USD	NASDAQ National Market System	Equity	Ba2	NASDAQ Composite Index	Communication Services	0.0013335306
+151	ILLINOIS TOOL WORKS	US4523081093	Vereinigte Staaten	USD	New York Stock Exchange	Equity	A2	S&P 500 Index	Industrials	0.0013284892
+152	CANADIAN NAT.RAILWAY	CA1363751027	Kanada	CAD	Toronto Stock Exchange	Equity	A3	S&P/TSX COMPOSITE Index	Industrials	0.001323726
+153	DUKE ENERGY	US26441C2044	Vereinigte Staaten	USD	New York Stock Exchange	Equity	A3	S&P 500 Index	Utilities	0.0013038919
+154	ACTIVISION BLIZZARD	US00507V1098	Vereinigte Staaten	USD	NASDAQ National Market System	Equity	Ba2	NASDAQ Composite Index	Communication Services	0.001294086
+155	NORFOLK SOUTHERN	US6558441084	Vereinigte Staaten	USD	New York Stock Exchange	Equity	Baa1	S&P 500 Index	Industrials	0.0012891506
+156	CAPITAL ONE	US14040H1059	Vereinigte Staaten	USD	New York Stock Exchange	Equity	B1	S&P 500 Index	Financials	0.0012826488
+157	GENERAL MOTORS	US37045V1008	Vereinigte Staaten	USD	New York Stock Exchange	Equity	Aaa	S&P 500 Index	Consumer Discretionary	0.0012815724
+158	WESTPAC BANKING CORP.	AU000000WBC1	Australien	AUD	Australian Stock Exchange	Equity	Aa2	ASX All Ordinaries Index	Financials	0.0012664757
+159	BANCO SANTANDER	ES0113900J37	Spanien	EUR	Mercado Continuo Espana	Equity	Baa1	IBEX 35 Index	Financials	0.0012541598
+160	COLGATE PALMOLIVE	US1941621039	Vereinigte Staaten	USD	New York Stock Exchange	Equity	Aa3	S&P 500 Index	Consumer Staples	0.0012522721
+161	MITSUBISHI TOKYO FINL.	JP3902900004	Japan	JPY	Tokyo Stock Exchange	Equity	A2	TOPIX Index	Financials	0.0012518341
+162	HONGKONG EXCHANGE+CLEAR	HK0388045442	Hongkong	HKD	-	Equity	-	Hang Seng Index	Financials	0.0012470461
+163	AIRBUS GROUP	NL0000235190	Niederlande	EUR	Euronext Paris	Equity	A2	CAC 40 Index	Industrials	0.0012436199
+164	ROYAL DUTCH SHELL B	GB00B03MM408	Niederlande	GBP	London Stock Exchange	Equity	Aa1	FTSE 100 Index	Energy	0.0012408595
+165	SHERWIN WILLIAMS	US8243481061	Vereinigte Staaten	USD	New York Stock Exchange	Equity	A3	S&P 500 Index	Materials	0.001235429
+166	ADIDAS	DE000A1EWWW0	Deutschland	EUR	XETRA	Equity	-	DAX Index	Consumer Discretionary	0.0012335142
+167	BECTON DICKINSON&CO	US0758871091	Vereinigte Staaten	USD	New York Stock Exchange	Equity	A3	S&P 500 Index	Health Care	0.0012287283
+168	MARSH & MCLENNAN COS	US5717481023	Vereinigte Staaten	USD	New York Stock Exchange	Equity	-	S&P 500 Index	Financials	0.0012036869
+169	BAYER	DE000BAY0017	Deutschland	EUR	XETRA	Equity	A3	DAX Index	Health Care	0.0011983397
+170	ESTEE LAUDER	US5184391044	Vereinigte Staaten	USD	New York Stock Exchange	Equity	A2	S&P 500 Index	Consumer Staples	0.0011934856
+171	SOUTHERN CO	US8425871071	Vereinigte Staaten	USD	New York Stock Exchange	Equity	-	S&P 500 Index	Utilities	0.0011891081
+172	BANK OF MONTREAL	CA0636711016	Kanada	CAD	Toronto Stock Exchange	Equity	Aa3	S&P/TSX COMPOSITE Index	Financials	0.0011855616
+173	KERING	FR0000121485	Frankreich	EUR	Euronext Paris	Equity	Baa2	CAC 40 Index	Consumer Discretionary	0.0011829813
+174	DT.TELEKOM	DE0005557508	Deutschland	EUR	XETRA	Equity	Baa1	DAX Index	Communication Services	0.0011789398
+175	NATL.AUSTRALIA BANK	AU000000NAB4	Australien	AUD	Australian Stock Exchange	Equity	Aa2	ASX All Ordinaries Index	Financials	0.001176865
+176	BHP GR.	GB00BH0P3Z91	Vereinigtes Königreich	GBP	-	Equity	-	-	Materials	0.0011666368
+177	AIR PRODUCTS&CHEMICALS	US0091581068	Vereinigte Staaten	USD	New York Stock Exchange	Equity	A2	S&P 500 Index	Materials	0.0011659445
+178	FISERV	US3377381088	Vereinigte Staaten	USD	NASDAQ National Market System	Equity	Baa2	NASDAQ Composite Index	Information Technology	0.0011596014
+179	RECRUIT HLDGS	JP3970300004	Japan	JPY	Tokyo Stock Exchange	Equity	-	TOPIX Index	Industrials	0.0011538996
+180	NINTENDO	JP3756600007	Japan	JPY	Tokyo Stock Exchange	Equity	-	TOPIX Index	Communication Services	0.0011456611
+181	BROOKFIELD ASSET MANAGEMENT I	CA1125851040	Kanada	CAD	Toronto Stock Exchange	Equity	Baa2	S&P/TSX COMPOSITE Index	Financials	0.0011405722
+182	DOMINION RES.	US25746U1097	Vereinigte Staaten	USD	New York Stock Exchange	Equity	Baa2	S&P 500 Index	Utilities	0.0011266016
+183	EQUINIX	US29444U7000	Vereinigte Staaten	USD	NASDAQ National Market System	Equity	-	NASDAQ Composite Index	Real Estate	0.0011184167
+184	ZURICH INS.	CH0011075394	Schweiz	CHF	Scoach Switzerland	Equity	-	Swiss Market Index	Financials	0.0011160401
+185	RECKITT BENCKISER	GB00B24CGK77	Vereinigtes Königreich	GBP	London Stock Exchange	Equity	A1	FTSE 100 Index	Consumer Staples	0.0011105906
+186	TOKYO ELECTRON	JP3571400005	Japan	JPY	Tokyo Stock Exchange	Equity	-	TOPIX Index	Information Technology	0.0011085668
+187	ANZ BANKING GROUP	AU000000ANZ3	Australien	AUD	Australian Stock Exchange	Equity	Aa2	ASX All Ordinaries Index	Financials	0.0011040448
+188	DT.POST	DE0005552004	Deutschland	EUR	XETRA	Equity	Baa1	DAX Index	Industrials	0.0010912004
+189	VINCI	FR0000125486	Frankreich	EUR	Euronext Paris	Equity	Baa1	CAC 40 Index	Industrials	0.0010802424
+190	INTERCONTINENTALEXCHANGE	US45866F1049	Vereinigte Staaten	USD	New York Stock Exchange	Equity	A3	S&P 500 Index	Financials	0.0010793195
+191	AUTODESK	US0527691069	Vereinigte Staaten	USD	NASDAQ National Market System	Equity	-	NASDAQ Composite Index	Information Technology	0.0010745696
+192	FREEPORT-MCMORAN	US35671D8570	Vereinigte Staaten	USD	New York Stock Exchange	Equity	Baa3	S&P 500 Index	Materials	0.0010717896
+193	THE BLACKSTONE RG-A	US09260D1072	Vereinigte Staaten	USD	New York Stock Exchange	Equity	-	S&P 500 Index	Financials	0.0010659969
+194	ABB	CH0012221716	Schweiz	CHF	Scoach Switzerland	Equity	A2	Swiss Market Index	Industrials	0.0010633323
+195	GLOBAL PAYMENTS	US37940X1028	Vereinigte Staaten	USD	New York Stock Exchange	Equity	-	S&P 500 Index	Information Technology	0.001062016
+196	ZOOM VIDEO COMMUNICATIONS	US98980L1017	Vereinigte Staaten	USD	NASDAQ National Market System	Equity	-	NASDAQ Composite Index	Information Technology	0.0010615417
+197	SHIN-ETSU CHEM.	JP3371200001	Japan	JPY	Tokyo Stock Exchange	Equity	Aa3	TOPIX Index	Materials	0.0010598245
+198	HUMANA	US4448591028	Vereinigte Staaten	USD	New York Stock Exchange	Equity	Aa2	S&P 500 Index	Health Care	0.0010591491
+199	NEWMONT MINING	US6516391066	Vereinigte Staaten	USD	New York Stock Exchange	Equity	Baa2	S&P 500 Index	Materials	0.0010549903
+200	MERCADOLIBRE	US58733R1023	Argentinien	USD	NASDAQ National Market System	Equity	-	NASDAQ Composite Index	Consumer Discretionary	0.0010545539
+201	BOSTON SCIENTIFIC	US1011371077	Vereinigte Staaten	USD	New York Stock Exchange	Equity	Baa3	S&P 500 Index	Health Care	0.0010523022
+202	NORTHROP GRUMMAN	US6668071029	Vereinigte Staaten	USD	New York Stock Exchange	Equity	Baa2	S&P 500 Index	Industrials	0.0010490009
+203	AON	IE00BLP1HW54	Irland	USD	-	Equity	-	-	Financials	0.0010443009
+204	PROGRESSIVE	US7433151039	Vereinigte Staaten	USD	New York Stock Exchange	Equity	-	S&P 500 Index	Financials	0.0010404157
+205	WASTE MANAGEMENT	US94106L1098	Vereinigte Staaten	USD	New York Stock Exchange	Equity	Baa3	S&P 500 Index	Industrials	0.0010394463
+206	UBS GR.	CH0244767585	Schweiz	CHF	Scoach Switzerland	Equity	-	Swiss Market Index	Financials	0.0010346633
+207	ANHEUSER-BUSCH INBEV	BE0974293251	Belgien	EUR	Euronext Brussels	Equity	-	BEL 20 Index	Consumer Staples	0.0010318868
+208	EDWARDS LIFESCIENCES	US28176E1082	Vereinigte Staaten	USD	New York Stock Exchange	Equity	Baa3	S&P 500 Index	Health Care	0.0010165139
+209	ILLUMINA	US4523271090	Vereinigte Staaten	USD	NASDAQ National Market System	Equity	-	NASDAQ Composite Index	Health Care	0.0010141266
+210	EMERSON ELECTRIC	US2910111044	Vereinigte Staaten	USD	New York Stock Exchange	Equity	A2	S&P 500 Index	Industrials	0.0010129981
+211	PRUDENTIAL PLC	GB0007099541	Vereinigtes Königreich	GBP	London Stock Exchange	Equity	A2	FTSE 100 Index	Financials	0.0010076905
+212	ANALOG DEVICES	US0326541051	Vereinigte Staaten	USD	NASDAQ National Market System	Equity	A3	NASDAQ Composite Index	Information Technology	0.0010059932
+213	EATON CORP	IE00B8KQN827	Irland	USD	New York Stock Exchange	Equity	-	S&P 500 Index	Industrials	0.0010016726
+214	HCA HLDGS.	US40412C1018	Vereinigte Staaten	USD	New York Stock Exchange	Equity	B3	S&P 500 Index	Health Care	0.0009983664
+215	ECOLAB	US2788651006	Vereinigte Staaten	USD	New York Stock Exchange	Equity	-	S&P 500 Index	Materials	0.0009950333
+216	ANGLO AMERICAN	GB00B1XZS820	Vereinigtes Königreich	GBP	London Stock Exchange	Equity	Baa2	FTSE 100 Index	Materials	0.0009941164
+217	MOODY'S	US6153691059	Vereinigte Staaten	USD	New York Stock Exchange	Equity	-	S&P 500 Index	Financials	0.0009927408
+218	VERTEX PHARMA.	US92532F1003	Vereinigte Staaten	USD	NASDAQ National Market System	Equity	-	NASDAQ Composite Index	Health Care	0.0009892684
+219	RICHEMONT	CH0210483332	Schweiz	CHF	Scoach Switzerland	Equity	-	Swiss Market Index	Consumer Discretionary	0.0009817905
+220	AXA	FR0000120628	Frankreich	EUR	Euronext Paris	Equity	A2	CAC 40 Index	Financials	0.0009766309
+221	KDDI	JP3496400007	Japan	JPY	Tokyo Stock Exchange	Equity	-	TOPIX Index	Communication Services	0.0009757247
+222	NXP SEMICONDUCTORS	NL0009538784	Niederlande	USD	NASDAQ National Market System	Equity	-	NASDAQ Composite Index	Information Technology	0.0009686295
+223	TAKEDA CHEM.	JP3463000004	Japan	JPY	Tokyo Stock Exchange	Equity	Aa3	TOPIX Index	Health Care	0.0009596731
+224	CANADIAN PACIFIC RAILWAY	CA13645T1003	Kanada	CAD	Toronto Stock Exchange	Equity	Baa2	S&P/TSX COMPOSITE Index	Industrials	0.0009471297
+225	REGENERON PHARMA	US75886F1075	Vereinigte Staaten	USD	NASDAQ National Market System	Equity	-	NASDAQ Composite Index	Health Care	0.0009361608
+226	ING	NL0011821202	Niederlande	EUR	Euronext Amsterdam	Equity	-	Amsterdam Exchanges Index	Financials	0.0009355816
+227	DOW	US2605571031	Vereinigte Staaten	USD	New York Stock Exchange	Equity	-	S&P 500 Index	Materials	0.0009252726
+228	METLIFE	US59156R1086	Vereinigte Staaten	USD	New York Stock Exchange	Equity	A3	S&P 500 Index	Financials	0.0009139837
+229	KONINKLIJKE PHILIPS	NL0000009538	Niederlande	EUR	Euronext Amsterdam	Equity	A3	Amsterdam Exchanges Index	Health Care	0.0009108475
+230	REED ELSEVIER	GB00B2B0DG97	Vereinigtes Königreich	GBP	London Stock Exchange	Equity	Baa1	FTSE 100 Index	Industrials	0.0009081468
+231	DOLLAR GENERAL	US2566771059	Vereinigte Staaten	USD	New York Stock Exchange	Equity	Baa3	S&P 500 Index	Consumer Discretionary	0.0008986471
+232	NIDEC	JP3734800000	Japan	JPY	Tokyo Stock Exchange	Equity	-	TOPIX Index	Industrials	0.00088871
+233	HONDA	JP3854600008	Japan	JPY	Tokyo Stock Exchange	Equity	A1	TOPIX Index	Consumer Discretionary	0.0008883803
+234	CANADIAN IMP.BANK OF COMM.	CA1360691010	Kanada	CAD	Toronto Stock Exchange	Equity	Aa3	S&P/TSX COMPOSITE Index	Financials	0.0008877157
+235	VOLKSWAGEN VZ.	DE0007664039	Deutschland	EUR	XETRA	Equity	A3	DAX Index	Consumer Discretionary	0.0008846693
+236	SNAP	US83304A1060	Vereinigte Staaten	USD	New York Stock Exchange	Equity	-	S&P 500 Index	Communication Services	0.0008804169
+237	HOYA CORP	JP3837800006	Japan	JPY	Tokyo Stock Exchange	Equity	-	TOPIX Index	Health Care	0.0008802346
+238	PROSUS	NL0013654783	Niederlande	EUR	Euronext Amsterdam	Equity	-	Amsterdam Exchanges Index	Consumer Discretionary	0.0008783152
+239	HITACHI	JP3788600009	Japan	JPY	Tokyo Stock Exchange	Equity	A3	TOPIX Index	Industrials	0.0008761063
+240	INTESA SANPAOLO	IT0000072618	Italien	EUR	Milan Stock Exchange	Equity	Baa2	FTSE Italia All-Share Index	Financials	0.0008753058
+241	FORD MOTOR	US3453708600	Vereinigte Staaten	USD	New York Stock Exchange	Equity	Baa3	S&P 500 Index	Consumer Discretionary	0.0008748887
+242	INFINEON	DE0006231004	Deutschland	EUR	XETRA	Equity	-	DAX Index	Information Technology	0.0008712023
+243	LLOYDS BANKING	GB0008706128	Vereinigtes Königreich	GBP	London Stock Exchange	Equity	A2	FTSE 100 Index	Financials	0.0008706411
+244	ESSILORLUXOTTICA	FR0000121667	Frankreich	EUR	Euronext Paris	Equity	A2	CAC 40 Index	Consumer Discretionary	0.000869044
+245	VODAFONE	GB00BH4HKS39	Vereinigtes Königreich	GBP	London Stock Exchange	Equity	A3	FTSE 100 Index	Communication Services	0.0008639009
+246	KLA-TENCOR	US4824801009	Vereinigte Staaten	USD	NASDAQ National Market System	Equity	Baa1	NASDAQ Composite Index	Information Technology	0.0008618954
+247	DSV GROUP	DK0060079531	Dänemark	DKK	Copenhagen Stock Exchange	Equity	-	OMX COPENHAGEN 20 Index	Industrials	0.0008574291
+248	UBER	US90353T1007	Vereinigte Staaten	USD	New York Stock Exchange	Equity	-	S&P 500 Index	Industrials	0.0008557365
+249	SUMITOMO MITSUI FIN.	JP3890350006	Japan	JPY	Tokyo Stock Exchange	Equity	A2	TOPIX Index	Financials	0.0008463009
+250	L3HARRIS TECH RG	US5024311095	Vereinigte Staaten	USD	New York Stock Exchange	Equity	-	S&P 500 Index	Industrials	0.0008443584
+251	EOG RESOURCES	US26875P1012	Vereinigte Staaten	USD	New York Stock Exchange	Equity	A3	S&P 500 Index	Energy	0.0008442843
+252	TC ENERGY RG	CA87807B1076	Kanada	CAD	Toronto Stock Exchange	Equity	-	S&P/TSX COMPOSITE Index	Energy	0.0008389324
+253	SAFRAN	FR0000073272	Frankreich	EUR	Euronext Paris	Equity	-	CAC 40 Index	Industrials	0.0008378952
+254	DUPONT DE NEM RG	US26614N1028	Vereinigte Staaten	USD	New York Stock Exchange	Equity	-	S&P 500 Index	Materials	0.0008368863
+255	DAIKIN INDUSTRIES	JP3481800005	Japan	JPY	Tokyo Stock Exchange	Equity	A3	TOPIX Index	Industrials	0.0008341133
+256	GLENCORE	JE00B4T3BW64	Schweiz	GBP	London Stock Exchange	Equity	Aa3	FTSE 100 Index	Materials	0.0008324214
+257	GENERAL DYNAMICS	US3695501086	Vereinigte Staaten	USD	New York Stock Exchange	Equity	A2	S&P 500 Index	Industrials	0.000832178
+258	FAST RETAILING	JP3802300008	Japan	JPY	Tokyo Stock Exchange	Equity	A2	TOPIX Index	Consumer Discretionary	0.000829311
+259	IQVIA HLDGS.	US46266C1053	Vereinigte Staaten	USD	New York Stock Exchange	Equity	-	S&P 500 Index	Health Care	0.0008242635
+260	JOHNSON CONTROLS INTERNAT.	IE00BY7QL619	Irland	USD	New York Stock Exchange	Equity	-	S&P 500 Index	Industrials	0.0008212561
+261	WESFARMERS LTD	AU000000WES1	Australien	AUD	Australian Stock Exchange	Equity	A3	ASX All Ordinaries Index	Consumer Discretionary	0.0008199524
+262	LONZA	CH0013841017	Schweiz	CHF	Scoach Switzerland	Equity	-	Swiss Market Index	Health Care	0.0008168042
+263	ROSS STORES	US7782961038	Vereinigte Staaten	USD	NASDAQ National Market System	Equity	A3	NASDAQ Composite Index	Consumer Discretionary	0.0008116251
+264	SCHLUMBERGER	AN8068571086	Vereinigte Staaten	USD	New York Stock Exchange	Equity	A1	S&P 500 Index	Energy	0.0008096834
+265	ROPER INDUSTRIES	US7766961061	Vereinigte Staaten	USD	New York Stock Exchange	Equity	Baa2	S&P 500 Index	Industrials	0.0008086946
+266	NATIONAL GRID	GB00BDR05C01	Vereinigtes Königreich	GBP	London Stock Exchange	Equity	-	FTSE 100 Index	Utilities	0.0008079022
+267	IDEXX LABS.	US45168D1046	Vereinigte Staaten	USD	NASDAQ National Market System	Equity	-	NASDAQ Composite Index	Health Care	0.0008078903
+268	BARCLAYS	GB0031348658	Vereinigtes Königreich	GBP	London Stock Exchange	Equity	A3	FTSE 100 Index	Financials	0.0007962717
+269	PERNOD RICARD	FR0000120693	Frankreich	EUR	Euronext Paris	Equity	Baa3	CAC 40 Index	Consumer Staples	0.000794148
+270	TYCO ELECTRONICS	CH0102993182	Schweiz	USD	New York Stock Exchange	Equity	-	S&P 500 Index	Information Technology	0.0007913725
+271	AIG	US0268747849	Vereinigte Staaten	USD	New York Stock Exchange	Equity	Baa1	S&P 500 Index	Financials	0.000790809
+272	EXELON	US30161N1019	Vereinigte Staaten	USD	NASDAQ National Market System	Equity	Baa2	NASDAQ Composite Index	Utilities	0.0007907647
+273	FANUC	JP3802400006	Japan	JPY	Tokyo Stock Exchange	Equity	-	TOPIX Index	Industrials	0.0007866834
+274	HEWLETT-PACKARD	US40434L1052	Vereinigte Staaten	USD	New York Stock Exchange	Equity	-	S&P 500 Index	Information Technology	0.0007852645
+275	BARRICK GOLD	CA0679011084	Kanada	CAD	Toronto Stock Exchange	Equity	-	S&P/TSX COMPOSITE Index	Materials	0.0007844032
+276	MODERNA	US60770K1079	Vereinigte Staaten	USD	NASDAQ National Market System	Equity	-	NASDAQ Composite Index	Health Care	0.0007842685
+277	INDITEX	ES0148396007	Spanien	EUR	Mercado Continuo Espana	Equity	-	IBEX 35 Index	Consumer Discretionary	0.0007805206
+278	PRUDENTIAL FINANCIAL	US7443201022	Vereinigte Staaten	USD	New York Stock Exchange	Equity	Baa1	S&P 500 Index	Financials	0.0007802437
+279	TRANE TECHNOLOGIES	IE00BK9ZQ967	Irland	USD	New York Stock Exchange	Equity	-	S&P 500 Index	Industrials	0.0007786394
+280	KIMBERLY-CLARK	US4943681035	Vereinigte Staaten	USD	New York Stock Exchange	Equity	A2	S&P 500 Index	Consumer Staples	0.0007752012
+281	ALIGN TECHNOLOGY	US0162551016	Vereinigte Staaten	USD	NASDAQ National Market System	Equity	-	NASDAQ Composite Index	Health Care	0.0007748134
+282	DANONE	FR0000120644	Frankreich	EUR	Euronext Paris	Equity	A3	CAC 40 Index	Consumer Staples	0.0007715064
+283	T. ROWE PRICE GRP.	US74144T1088	Vereinigte Staaten	USD	NASDAQ National Market System	Equity	-	NASDAQ Composite Index	Financials	0.0007704718
+284	PPG INDUSTRIES	US6935061076	Vereinigte Staaten	USD	New York Stock Exchange	Equity	Baa1	S&P 500 Index	Materials	0.0007645422
+285	PUBLIC STORAGE	US74460D1090	Vereinigte Staaten	USD	New York Stock Exchange	Equity	-	S&P 500 Index	Real Estate	0.0007631836
+286	BIOGEN	US09062X1037	Vereinigte Staaten	USD	NASDAQ National Market System	Equity	Aaa	NASDAQ Composite Index	Health Care	0.0007607284
+287	MURATA MANU.	JP3914400001	Japan	JPY	Tokyo Stock Exchange	Equity	-	TOPIX Index	Information Technology	0.0007585417
+288	SIKA	CH0418792922	Schweiz	CHF	-	Equity	-	Swiss Market Index	Materials	0.0007569299
+289	BANCO BILBAO VIZCAYA	ES0113211835	Spanien	EUR	Mercado Continuo Espana	Equity	Baa2	IBEX 35 Index	Financials	0.0007564697
+290	ALLSTATE	US0200021014	Vereinigte Staaten	USD	New York Stock Exchange	Equity	-	S&P 500 Index	Financials	0.0007527816
+291	MUENCH.RUECK	DE0008430026	Deutschland	EUR	XETRA	Equity	Aa3	DAX Index	Financials	0.0007474011
+292	BANK OF NY MELLON	US0640581007	Vereinigte Staaten	USD	New York Stock Exchange	Equity	Aa3	S&P 500 Index	Financials	0.0007445486
+293	TWITTER	US90184L1026	Vereinigte Staaten	USD	New York Stock Exchange	Equity	-	S&P 500 Index	Communication Services	0.0007441413
+294	EBAY	US2786421030	Vereinigte Staaten	USD	NASDAQ National Market System	Equity	A2	NASDAQ Composite Index	Consumer Discretionary	0.0007430426
+295	CENTENE CORPORATION	US15135B1017	Vereinigte Staaten	USD	New York Stock Exchange	Equity	-	S&P 500 Index	Health Care	0.0007409436
+296	MACQUARIE GR.	AU000000MQG1	Australien	AUD	Australian Stock Exchange	Equity	A3	ASX All Ordinaries Index	Financials	0.0007401614
+297	DIGITAL REALTY	US2538681030	Vereinigte Staaten	USD	New York Stock Exchange	Equity	-	S&P 500 Index	Real Estate	0.0007360354
+298	TRAVELERS COS.	US89417E1091	Vereinigte Staaten	USD	New York Stock Exchange	Equity	A2	S&P 500 Index	Financials	0.0007358985
+299	DAIICHI SANKYO	JP3475350009	Japan	JPY	Tokyo Stock Exchange	Equity	A1	TOPIX Index	Health Care	0.000733626
+300	MANULIFE FINANCIAL	CA56501R1064	Kanada	CAD	Toronto Stock Exchange	Equity	A2	S&P/TSX COMPOSITE Index	Financials	0.0007326142
+301	TWILIO	US90138F1021	Vereinigte Staaten	USD	New York Stock Exchange	Equity	-	S&P 500 Index	Information Technology	0.0007322146
+302	SIMON PROPERTY GROUP	US8288061091	Vereinigte Staaten	USD	New York Stock Exchange	Equity	-	S&P 500 Index	Real Estate	0.0007317466
+303	BAXTER INTL.	US0718131099	Vereinigte Staaten	USD	New York Stock Exchange	Equity	A3	S&P 500 Index	Health Care	0.0007317351
+304	WALGREEN BOOTS	US9314271084	Vereinigte Staaten	USD	NASDAQ National Market System	Equity	-	NASDAQ Composite Index	Consumer Staples	0.0007309346
+305	AMERICAN ELECTRIC POWER	US0255371017	Vereinigte Staaten	USD	New York Stock Exchange	Equity	Baa2	S&P 500 Index	Utilities	0.0007301888
+306	INVESTOR B	SE0015811963	Schweden	SEK	-	Equity	-	-	Financials	0.0007271312
+307	O'REILLY AUTOMOTIVE	US67103H1077	Vereinigte Staaten	USD	NASDAQ National Market System	Equity	Baa3	NASDAQ Composite Index	Consumer Discretionary	0.0007244587
+308	HERMES INTL.	FR0000052292	Frankreich	EUR	Euronext Paris	Equity	-	CAC 40 Index	Consumer Discretionary	0.0007229394
+309	AMPHENOL CORP	US0320951017	Vereinigte Staaten	USD	New York Stock Exchange	Equity	-	S&P 500 Index	Information Technology	0.0007225857
+310	MARATHON PETROLEUM	US56585A1025	Vereinigte Staaten	USD	New York Stock Exchange	Equity	Baa2	S&P 500 Index	Energy	0.0007219078
+311	SYSCO CORP	US8718291078	Vereinigte Staaten	USD	New York Stock Exchange	Equity	-	S&P 500 Index	Consumer Staples	0.0007163373
+312	ATLAS COPCO-A	SE0011166610	Schweden	SEK	-	Equity	-	OMX Stockholm 30 Index	Industrials	0.0007125139
+313	WORKDAY	US98138H1014	Vereinigte Staaten	USD	NASDAQ National Market System	Equity	B1	NASDAQ Composite Index	Information Technology	0.0007095667
+314	ALEXION PHARMA	US0153511094	Vereinigte Staaten	USD	NASDAQ National Market System	Equity	-	NASDAQ Composite Index	Health Care	0.0007094436
+315	PARKER HANNIFIN	US7010941042	Vereinigte Staaten	USD	New York Stock Exchange	Equity	A2	S&P 500 Index	Industrials	0.0007090681
+316	AGILENT TECHN.	US00846U1016	Vereinigte Staaten	USD	New York Stock Exchange	Equity	Baa2	S&P 500 Index	Health Care	0.0007076463
+317	CONSTELLATION BRANDS	US21036P1084	Vereinigte Staaten	USD	New York Stock Exchange	Equity	Ba1	S&P 500 Index	Consumer Staples	0.0007061632
+318	ELECTRONIC ARTS	US2855121099	Vereinigte Staaten	USD	NASDAQ National Market System	Equity	-	NASDAQ Composite Index	Communication Services	0.0007047501
+319	SEMPRA ENERGY	US8168511090	Vereinigte Staaten	USD	New York Stock Exchange	Equity	Baa1	S&P 500 Index	Utilities	0.00070473
+320	CANADIAN NATURAL RESOURCES	CA1363851017	Kanada	CAD	Toronto Stock Exchange	Equity	-	S&P/TSX COMPOSITE Index	Energy	0.0007036813
+321	IHS MARKIT	BMG475671050	Vereinigtes Königreich	USD	New York Stock Exchange	Equity	-	S&P 500 Index	Industrials	0.000698808
+322	ERICSSON	SE0000108656	Schweden	SEK	Stockholm Stock Exchange	Equity	Baa1	OMX Stockholm 30 Index	Information Technology	0.000696685
+323	ITOCHU CORP	JP3143600009	Japan	JPY	Tokyo Stock Exchange	Equity	Baa1	TOPIX Index	Industrials	0.00069479
+324	COMPASS GR.	GB00BD6K4575	Vereinigtes Königreich	GBP	London Stock Exchange	Equity	-	FTSE 100 Index	Consumer Discretionary	0.0006937951
+325	LULULEMON ATHLETICA	US5500211090	Kanada	USD	NASDAQ National Market System	Equity	-	NASDAQ Composite Index	Consumer Discretionary	0.0006932212
+326	AFLAC	US0010551028	Vereinigte Staaten	USD	New York Stock Exchange	Equity	-	S&P 500 Index	Financials	0.0006920896
+327	COGNIZANT TECH.SOL.	US1924461023	Vereinigte Staaten	USD	NASDAQ National Market System	Equity	-	NASDAQ Composite Index	Information Technology	0.0006886547
+328	CUMMINS	US2310211063	Vereinigte Staaten	USD	New York Stock Exchange	Equity	-	S&P 500 Index	Industrials	0.0006882442
+329	WOOLWORTHS	AU000000WOW2	Australien	AUD	Australian Stock Exchange	Equity	A3	ASX All Ordinaries Index	Consumer Staples	0.0006871471
+330	CRH	IE0001827041	Irland	EUR	Irish Stock Exchange	Equity	Baa2	ISEQ Irish Overall Index	Materials	0.0006860734
+331	MARRIOTT INTERNATIONAL	US5719032022	Vereinigte Staaten	USD	NASDAQ National Market System	Equity	-	NASDAQ Composite Index	Consumer Discretionary	0.0006847075
+332	ADYEN	NL0012969182	Niederlande	EUR	Euronext Amsterdam	Equity	-	Amsterdam Exchanges Index	Information Technology	0.0006835719
+333	KINDER MORGAN	US49456B1017	Vereinigte Staaten	USD	New York Stock Exchange	Equity	-	S&P 500 Index	Energy	0.0006817264
+334	DBS GROUP	SG1L01001701	Singapur	SGD	-	Equity	-	-	Financials	0.0006811827
+335	STELLANTIS BR RG	NL00150001Q9	Vereinigtes Königreich	EUR	Milan Stock Exchange	Equity	-	FTSE Italia All-Share Index	Consumer Discretionary	0.0006789428
+336	GIVAUDAN	CH0010645932	Schweiz	CHF	Scoach Switzerland	Equity	-	Swiss Market Index	Materials	0.0006786224
+337	MSCI	US55354G1004	Vereinigte Staaten	USD	New York Stock Exchange	Equity	Ba1	S&P 500 Index	Financials	0.0006764979
+338	MICROCHIP TECHNOLOGY	US5950171042	Vereinigte Staaten	USD	NASDAQ National Market System	Equity	-	NASDAQ Composite Index	Information Technology	0.0006714148
+339	PHILLIPS 66	US7185461040	Vereinigte Staaten	USD	New York Stock Exchange	Equity	Baa1	S&P 500 Index	Energy	0.0006686317
+340	VESTAS WIND	DK0061539921	Dänemark	DKK	-	Equity	-	-	Industrials	0.0006676746
+341	RIO TINTO (AUS.)	AU000000RIO1	Australien	AUD	Australian Stock Exchange	Equity	A3	ASX All Ordinaries Index	Materials	0.0006636368
+342	YUM! BRANDS	US9884981013	Vereinigte Staaten	USD	New York Stock Exchange	Equity	Baa3	S&P 500 Index	Consumer Discretionary	0.0006624198
+343	APTIV	JE00B783TY65	Irland	USD	New York Stock Exchange	Equity	Baa3	S&P 500 Index	Consumer Discretionary	0.0006619779
+344	ARCHER-DANIELS	US0394831020	Vereinigte Staaten	USD	New York Stock Exchange	Equity	A2	S&P 500 Index	Consumer Staples	0.0006615025
+345	VOLVO B	SE0000115446	Schweden	SEK	Stockholm Stock Exchange	Equity	Baa2	OMX Stockholm 30 Index	Industrials	0.0006551938
+346	DISCOVER FIN.SVCS.	US2547091080	Vereinigte Staaten	USD	New York Stock Exchange	Equity	Ba1	S&P 500 Index	Financials	0.000653171
+347	MIZUHO FINL.	JP3885780001	Japan	JPY	Tokyo Stock Exchange	Equity	A2	TOPIX Index	Financials	0.0006526961
+348	SUNCOR ENERGY	CA8672241079	Kanada	CAD	Toronto Stock Exchange	Equity	Baa1	S&P/TSX COMPOSITE Index	Energy	0.0006520451
+349	GENERAL MILLS	US3703341046	Vereinigte Staaten	USD	New York Stock Exchange	Equity	A3	S&P 500 Index	Consumer Staples	0.0006470037
+350	MONSTER BEVERAGE	US61174X1090	Vereinigte Staaten	USD	NASDAQ National Market System	Equity	-	NASDAQ Composite Index	Consumer Staples	0.0006450414
+351	SOFTBANK RG	JP3732000009	Japan	JPY	Tokyo Stock Exchange	Equity	-	TOPIX Index	Communication Services	0.0006441081
+352	MITSUI & CO	JP3893600001	Japan	JPY	Tokyo Stock Exchange	Equity	A2	TOPIX Index	Industrials	0.0006404105
+353	XCEL ENERGY INC	US98389B1008	Vereinigte Staaten	USD	NASDAQ National Market System	Equity	Baa1	NASDAQ Composite Index	Utilities	0.0006363413
+354	MARVELL TECH RG	US5738741041	Vereinigte Staaten	USD	-	Equity	-	-	Information Technology	0.0006362267
+355	SYNOPSYS	US8716071076	Vereinigte Staaten	USD	NASDAQ National Market System	Equity	-	NASDAQ Composite Index	Information Technology	0.0006327152
+356	CHIPOTLE MEXICAN	US1696561059	Vereinigte Staaten	USD	New York Stock Exchange	Equity	-	S&P 500 Index	Consumer Discretionary	0.0006322627
+357	CARRIER GLBL.	US14448C1045	Vereinigte Staaten	USD	New York Stock Exchange	Equity	-	S&P 500 Index	Industrials	0.0006280405
+358	ZIMMER HLDGS. INC	US98956P1021	Vereinigte Staaten	USD	New York Stock Exchange	Equity	Baa1	S&P 500 Index	Health Care	0.0006225384
+359	ROKU	US77543R1023	Vereinigte Staaten	USD	NASDAQ National Market System	Equity	-	NASDAQ Composite Index	Communication Services	0.0006202482
+360	BMW ST.	DE0005190003	Deutschland	EUR	XETRA	Equity	A2	DAX Index	Consumer Discretionary	0.0006197295
+361	CO.DE ST.GOBAIN	FR0000125007	Frankreich	EUR	Euronext Paris	Equity	Baa2	CAC 40 Index	Industrials	0.0006190014
+362	AUTOZONE	US0533321024	Vereinigte Staaten	USD	New York Stock Exchange	Equity	-	S&P 500 Index	Consumer Discretionary	0.000618486
+363	CROWDSTRIKE HLDGS.	US22788C1053	Vereinigte Staaten	USD	NASDAQ National Market System	Equity	-	NASDAQ Composite Index	Information Technology	0.0006163734
+364	MATCH GR.	US57667L1070	Vereinigte Staaten	USD	NASDAQ National Market System	Equity	-	NASDAQ Composite Index	Communication Services	0.0006157302
+365	MITSUBISHI	JP3898400001	Japan	JPY	Tokyo Stock Exchange	Equity	A1	TOPIX Index	Industrials	0.0006154892
+366	WILLIS TOWERS WATSON	IE00BDB6Q211	Vereinigtes Königreich	USD	NASDAQ National Market System	Equity	-	NASDAQ Composite Index	Financials	0.0006136852
+367	STANLEY BLACK & DECKER	US8545021011	Vereinigte Staaten	USD	New York Stock Exchange	Equity	Baa1	S&P 500 Index	Industrials	0.0006119608
+368	EXPERIAN	GB00B19NLV48	Irland	GBP	London Stock Exchange	Equity	-	FTSE 100 Index	Industrials	0.0006118842
+369	VEEVA SYSTEMS	US9224751084	Vereinigte Staaten	USD	New York Stock Exchange	Equity	-	S&P 500 Index	Health Care	0.0006107261
+370	CORTEVA RG	US22052L1044	Vereinigte Staaten	USD	New York Stock Exchange	Equity	-	S&P 500 Index	Materials	0.0006101043
+371	SEVEN & I HLDGS.	JP3422950000	Japan	JPY	Tokyo Stock Exchange	Equity	Aa3	TOPIX Index	Consumer Staples	0.0006076815
+372	NUTRIEN	CA67077M1086	Kanada	CAD	-	Equity	-	-	Materials	0.0006053165
+373	ALCON	CH0432492467	Schweiz	CHF	Scoach Switzerland	Equity	-	Swiss Market Index	Health Care	0.0006002868
+374	MOTOROLA SOLUTIONS	US6200763075	Vereinigte Staaten	USD	New York Stock Exchange	Equity	Baa2	S&P 500 Index	Information Technology	0.0005963187
+375	HILTON WORLDW. HLDGS	US43300A2033	Vereinigte Staaten	USD	New York Stock Exchange	Equity	-	S&P 500 Index	Consumer Discretionary	0.0005939412
+376	NORDEA BANK	FI4000297767	Finnland	SEK	Helsinki Stock Exchange	Equity	-	OMX Stockholm 30 Index	Financials	0.0005935029
+377	CADENCE DESIGN SYSTEMS	US1273871087	Vereinigte Staaten	USD	NASDAQ National Market System	Equity	-	NASDAQ Composite Index	Information Technology	0.000592709
+378	LONDON STOCK EXCHANGE GROUP	GB00B0SWJX34	Vereinigtes Königreich	GBP	London Stock Exchange	Equity	Baa2	FTSE 100 Index	Financials	0.0005925424
+379	DOCUSIGN	US2561631068	Vereinigte Staaten	USD	NASDAQ National Market System	Equity	-	NASDAQ Composite Index	Information Technology	0.0005895769
+380	SMC CORP	JP3162600005	Japan	JPY	Tokyo Stock Exchange	Equity	-	TOPIX Index	Industrials	0.0005881169
+381	DR HORTON	US23331A1097	Vereinigte Staaten	USD	New York Stock Exchange	Equity	-	S&P 500 Index	Consumer Discretionary	0.0005842901
+382	AMADEUS IT HLDG	ES0109067019	Spanien	EUR	Mercado Continuo Espana	Equity	Baa2	IBEX 35 Index	Information Technology	0.000582131
+383	ASHTEAD GROUP	GB0000536739	Vereinigtes Königreich	GBP	London Stock Exchange	Equity	Ba2	FTSE 100 Index	Industrials	0.0005816156
+384	NIPPON T&T	JP3735400008	Japan	JPY	Tokyo Stock Exchange	Equity	Aa2	TOPIX Index	Communication Services	0.0005803468
+385	CORNING	US2193501051	Vereinigte Staaten	USD	New York Stock Exchange	Equity	-	S&P 500 Index	Information Technology	0.0005790627
+386	MILLEA HLDGS. ADR	JP3910660004	Japan	JPY	Tokyo Stock Exchange	Equity	-	TOPIX Index	Financials	0.0005777869
+387	DT. BOERSE	DE0005810055	Deutschland	EUR	XETRA	Equity	Aa2	DAX Index	Financials	0.0005765151
+388	MCKESSON CORP	US58155Q1031	Vereinigte Staaten	USD	New York Stock Exchange	Equity	Baa2	S&P 500 Index	Health Care	0.0005754242
+389	SBA COMMUNICATIONS	US78410G1040	Vereinigte Staaten	USD	NASDAQ National Market System	Equity	-	NASDAQ Composite Index	Real Estate	0.0005750388
+390	COSTAR GRP.	US22160N1090	Vereinigte Staaten	USD	NASDAQ National Market System	Equity	-	NASDAQ Composite Index	Industrials	0.0005731582
+391	FIRST REPUBLIC	US33616C1009	Vereinigte Staaten	USD	New York Stock Exchange	Equity	-	S&P 500 Index	Financials	0.0005712322
+392	OTS WORLDWIDE RG	US68902V1070	Vereinigte Staaten	USD	New York Stock Exchange	Equity	-	S&P 500 Index	Industrials	0.0005698836
+393	PAYCHEX	US7043261079	Vereinigte Staaten	USD	NASDAQ National Market System	Equity	-	NASDAQ Composite Index	Information Technology	0.0005687183
+394	PACCAR	US6937181088	Vereinigte Staaten	USD	NASDAQ National Market System	Equity	A1	NASDAQ Composite Index	Industrials	0.0005670034
+395	WELLTOWER	US95040Q1040	Vereinigte Staaten	USD	New York Stock Exchange	Equity	-	S&P 500 Index	Real Estate	0.0005653659
+396	VONOVIA	DE000A1ML7J1	Deutschland	EUR	XETRA	Equity	Baa2	DAX Index	Real Estate	0.0005651263
+397	HEINEKEN	NL0000009165	Niederlande	EUR	Euronext Amsterdam	Equity	Baa1	Amsterdam Exchanges Index	Consumer Staples	0.0005639621
+398	DEXCOM	US2521311074	Vereinigte Staaten	USD	NASDAQ National Market System	Equity	-	NASDAQ Composite Index	Health Care	0.0005638136
+399	SUN LIFE FINANCIAL	CA8667961053	Kanada	CAD	Toronto Stock Exchange	Equity	A2	S&P/TSX COMPOSITE Index	Financials	0.0005628335
+400	FUJITSU	JP3818000006	Japan	JPY	Tokyo Stock Exchange	Equity	Baa1	TOPIX Index	Information Technology	0.0005625106
+401	NUCOR CORP	US6703461052	Vereinigte Staaten	USD	New York Stock Exchange	Equity	Baa1	S&P 500 Index	Materials	0.0005615686
+402	ALIMENTATION COUCHE	CA01626P4033	Kanada	CAD	Toronto Stock Exchange	Equity	Baa3	S&P/TSX COMPOSITE Index	Consumer Staples	0.0005604615
+403	VALERO ENERGY	US91913Y1001	Vereinigte Staaten	USD	New York Stock Exchange	Equity	Baa2	S&P 500 Index	Energy	0.0005593496
+404	PALO ALTO NETWORKS	US6974351057	Vereinigte Staaten	USD	New York Stock Exchange	Equity	-	S&P 500 Index	Information Technology	0.0005583707
+405	LAFARGEHOLCIM	CH0012214059	Schweiz	CHF	Scoach Switzerland	Equity	Baa2	Swiss Market Index	Materials	0.0005575888
+406	ENI	IT0003132476	Italien	EUR	Milan Stock Exchange	Equity	A3	FTSE Italia All-Share Index	Energy	0.0005562305
+407	TRANSDIGM GROUP	US8936411003	Vereinigte Staaten	USD	New York Stock Exchange	Equity	-	S&P 500 Index	Industrials	0.0005559278
+408	FORTESCUE METALS	AU000000FMG4	Australien	AUD	Australian Stock Exchange	Equity	Ba2	ASX All Ordinaries Index	Materials	0.0005559127
+409	KONINKLIJKE DSM	NL0000009827	Niederlande	EUR	Euronext Amsterdam	Equity	A3	Amsterdam Exchanges Index	Materials	0.000554584
+410	EQUIFAX	US2944291051	Vereinigte Staaten	USD	New York Stock Exchange	Equity	Baa1	S&P 500 Index	Industrials	0.0005522396
+411	INTERNATIONAL FLAVORS & FRAGRANCES	US4595061015	Vereinigte Staaten	USD	New York Stock Exchange	Equity	-	S&P 500 Index	Materials	0.0005507361
+412	AMETEK	US0311001004	Vereinigte Staaten	USD	New York Stock Exchange	Equity	-	S&P 500 Index	Industrials	0.0005507266
+413	STATE STREET	US8574771031	Vereinigte Staaten	USD	New York Stock Exchange	Equity	-	S&P 500 Index	Financials	0.0005506444
+414	ASSA ABLOY AB	SE0007100581	Schweden	SEK	Stockholm Stock Exchange	Equity	-	OMX Stockholm 30 Index	Industrials	0.0005498142
+415	WILLIAMS COS	US9694571004	Vereinigte Staaten	USD	New York Stock Exchange	Equity	Baa3	S&P 500 Index	Energy	0.000547065
+416	KONINKLIJKE AHOLD DELHAIZE	NL0011794037	Niederlande	EUR	Euronext Amsterdam	Equity	-	Amsterdam Exchanges Index	Consumer Staples	0.0005468563
+417	LYONDELLBASELL	NL0009434992	Vereinigtes Königreich	USD	New York Stock Exchange	Equity	Baa1	S&P 500 Index	Materials	0.0005442268
+418	CINTAS	US1729081059	Vereinigte Staaten	USD	NASDAQ National Market System	Equity	A2	NASDAQ Composite Index	Industrials	0.0005438012
+419	ROCKWELL AUTOMATION	US7739031091	Vereinigte Staaten	USD	New York Stock Exchange	Equity	A3	S&P 500 Index	Industrials	0.0005399964
+420	FASTENAL COMPANY	US3119001044	Vereinigte Staaten	USD	NASDAQ National Market System	Equity	-	NASDAQ Composite Index	Industrials	0.0005396682
+421	FERGUSON	JE00BJVNSS43	Vereinigtes Königreich	GBP	-	Equity	-	-	Industrials	0.0005370799
+422	XILINX	US9839191015	Vereinigte Staaten	USD	NASDAQ National Market System	Equity	A3	NASDAQ Composite Index	Information Technology	0.0005364372
+423	WASTE CONNECTIONS	CA94106B1013	Kanada	USD	Toronto Stock Exchange	Equity	-	S&P/TSX COMPOSITE Index	Industrials	0.0005341658
+424	PIONEER NAT.RESOURCES	US7237871071	Vereinigte Staaten	USD	New York Stock Exchange	Equity	Baa3	S&P 500 Index	Energy	0.0005329109
+425	KANSAS CITY STHN	US4851703029	Vereinigte Staaten	USD	New York Stock Exchange	Equity	-	S&P 500 Index	Industrials	0.0005314495
+426	DENSO CORP	JP3551500006	Japan	JPY	Tokyo Stock Exchange	Equity	Aa3	TOPIX Index	Consumer Discretionary	0.0005305026
+427	PINTEREST	US72352L1061	Vereinigte Staaten	USD	New York Stock Exchange	Equity	-	S&P 500 Index	Communication Services	0.0005291523
+428	SANDVIK	SE0000667891	Schweden	SEK	Stockholm Stock Exchange	Equity	Baa2	OMX Stockholm 30 Index	Industrials	0.0005289898
+429	PUBLIC SERVICE ENTERPRISE	US7445731067	Vereinigte Staaten	USD	New York Stock Exchange	Equity	Baa1	S&P 500 Index	Utilities	0.000528984
+430	KRAFT HEINZ	US5007541064	Vereinigte Staaten	USD	NASDAQ National Market System	Equity	-	NASDAQ Composite Index	Consumer Staples	0.00052885
+431	FIFTH THIRD BANCORP	US3167731005	Vereinigte Staaten	USD	NASDAQ National Market System	Equity	-	NASDAQ Composite Index	Financials	0.0005278136
+432	FORTINET	US34959E1091	Vereinigte Staaten	USD	NASDAQ National Market System	Equity	B1	NASDAQ Composite Index	Information Technology	0.0005257351
+433	VIVENDI	FR0000127771	Frankreich	EUR	Euronext Paris	Equity	Baa2	CAC 40 Index	Communication Services	0.0005254259
+434	CAP GEMINI	FR0000125338	Frankreich	EUR	Euronext Paris	Equity	Baa2	CAC 40 Index	Information Technology	0.0005243413
+435	WEC ENERGY GR.	US92939U1060	Vereinigte Staaten	USD	New York Stock Exchange	Equity	-	S&P 500 Index	Utilities	0.0005236606
+436	ENGIE	FR0010208488	Frankreich	EUR	Euronext Paris	Equity	A1	CAC 40 Index	Utilities	0.0005218914
+437	WEYERHAEUSER	US9621661043	Vereinigte Staaten	USD	New York Stock Exchange	Equity	Baa3	S&P 500 Index	Real Estate	0.0005209875
+438	ASTELLAS PHARMA	JP3942400007	Japan	JPY	Tokyo Stock Exchange	Equity	-	TOPIX Index	Health Care	0.0005175619
+439	AMERIPRISE FINANCIAL	US03076C1062	Vereinigte Staaten	USD	New York Stock Exchange	Equity	-	S&P 500 Index	Financials	0.0005162766
+440	KAO CORP.	JP3205800000	Japan	JPY	Tokyo Stock Exchange	Equity	-	TOPIX Index	Consumer Staples	0.000514407
+441	METTLER TOLEDO INTL	US5926881054	Vereinigte Staaten	USD	New York Stock Exchange	Equity	-	S&P 500 Index	Health Care	0.0005127569
+442	DASSAULT SYSTEMES	FR0000130650	Frankreich	EUR	Euronext Paris	Equity	-	CAC 40 Index	Information Technology	0.0005127564
+443	SO-NET M3	JP3435750009	Japan	JPY	Tokyo Stock Exchange	Equity	-	TOPIX Index	Health Care	0.0005126693
+444	NOKIA	FI0009000681	Finnland	EUR	Helsinki Stock Exchange	Equity	B1	OMX Helsinki Index	Information Technology	0.000512463
+445	VF CORP	US9182041080	Vereinigte Staaten	USD	New York Stock Exchange	Equity	A3	S&P 500 Index	Consumer Discretionary	0.0005121239
+446	DT.BANK	DE0005140008	Deutschland	EUR	XETRA	Equity	-	DAX Index	Financials	0.0005103367
+447	SHISEIDO	JP3351600006	Japan	JPY	Tokyo Stock Exchange	Equity	A2	TOPIX Index	Consumer Staples	0.000509526
+448	CBRE GROUP	US12504L1098	Vereinigte Staaten	USD	New York Stock Exchange	Equity	-	S&P 500 Index	Real Estate	0.0005094176
+449	LEGRAND SA	FR0010307819	Frankreich	EUR	Euronext Paris	Equity	A3	CAC 40 Index	Industrials	0.0005086499
+450	TRANSURBAN	AU000000TCL6	Australien	AUD	Australian Stock Exchange	Equity	-	ASX All Ordinaries Index	Industrials	0.0005082169
+451	OKTA	US6792951054	Vereinigte Staaten	USD	NASDAQ National Market System	Equity	-	NASDAQ Composite Index	Information Technology	0.0005076741
+452	OVERSEA-CHINESE BANKING	SG1S04926220	Singapur	SGD	-	Equity	-	-	Financials	0.00050727
+453	FRANCO-NEVADA CORP	CA3518581051	Kanada	CAD	Toronto Stock Exchange	Equity	-	S&P/TSX COMPOSITE Index	Materials	0.0005020589
+454	RESMED	US7611521078	Vereinigte Staaten	USD	New York Stock Exchange	Equity	-	S&P 500 Index	Health Care	0.0005000872
+455	SVB FINANCIAL GROUP	US78486Q1013	Vereinigte Staaten	USD	NASDAQ National Market System	Equity	A3	NASDAQ Composite Index	Financials	0.0004978649
+456	AMERICAN WATER WORKS	US0304201033	Vereinigte Staaten	USD	New York Stock Exchange	Equity	Baa1	S&P 500 Index	Utilities	0.0004976473
+457	ORIENTAL LAND	JP3198900007	Japan	JPY	Tokyo Stock Exchange	Equity	-	TOPIX Index	Consumer Discretionary	0.0004975113
+458	SWISS RE	CH0126881561	Schweiz	CHF	Scoach Switzerland	Equity	-	Swiss Market Index	Financials	0.0004971442
+459	E.ON	DE000ENAG999	Deutschland	EUR	XETRA	Equity	A3	DAX Index	Utilities	0.0004966933
+460	KROGER CO	US5010441013	Vereinigte Staaten	USD	New York Stock Exchange	Equity	Baa2	S&P 500 Index	Consumer Staples	0.0004961765
+461	ORSTED A/S	DK0060094928	Dänemark	DKK	Copenhagen Stock Exchange	Equity	-	OMX COPENHAGEN 20 Index	Utilities	0.0004955663
+462	BALL	US0584981064	Vereinigte Staaten	USD	New York Stock Exchange	Equity	-	S&P 500 Index	Materials	0.0004939553
+463	CONSTELLATION SOFTWARE	CA21037X1006	Kanada	CAD	Toronto Stock Exchange	Equity	-	S&P/TSX COMPOSITE Index	Information Technology	0.0004924438
+464	ARTHUR J. GALLAGHER & CO	US3635761097	Vereinigte Staaten	USD	New York Stock Exchange	Equity	-	S&P 500 Index	Financials	0.0004921089
+465	EQUITY RESIDENTIAL: REIT	US29476L1070	Vereinigte Staaten	USD	New York Stock Exchange	Equity	-	S&P 500 Index	Real Estate	0.0004896054
+466	AVALONBAY COMMUNITIES	US0534841012	Vereinigte Staaten	USD	New York Stock Exchange	Equity	-	S&P 500 Index	Real Estate	0.00048875
+467	PADDY POWER	IE00BWT6H894	Irland	EUR	London Stock Exchange	Equity	-	FTSE 100 Index	Consumer Discretionary	0.000487456
+468	LENNAR CORP	US5260571048	Vereinigte Staaten	USD	New York Stock Exchange	Equity	-	S&P 500 Index	Consumer Discretionary	0.0004866127
+469	ANSYS	US03662Q1058	Vereinigte Staaten	USD	NASDAQ National Market System	Equity	-	NASDAQ Composite Index	Information Technology	0.0004858027
+470	MITSUBISHI ELECTRIC	JP3902400005	Japan	JPY	Tokyo Stock Exchange	Equity	A1	TOPIX Index	Industrials	0.0004858016
+471	DTE ENERGY CO	US2333311072	Vereinigte Staaten	USD	New York Stock Exchange	Equity	Baa1	S&P 500 Index	Utilities	0.0004845931
+472	EVERSOURCE EN.	US30040W1080	Vereinigte Staaten	USD	New York Stock Exchange	Equity	-	S&P 500 Index	Utilities	0.0004837568
+473	SKYWORKS SOLUTIONS	US83088M1027	Vereinigte Staaten	USD	NASDAQ National Market System	Equity	-	NASDAQ Composite Index	Information Technology	0.0004836429
+474	KONE B	FI0009013403	Finnland	EUR	Helsinki Stock Exchange	Equity	-	OMX Helsinki Index	Industrials	0.0004811993
+475	KKR & CO	US48251W1045	Vereinigte Staaten	USD	New York Stock Exchange	Equity	-	S&P 500 Index	Financials	0.000478347
+476	NESTE OIL	FI0009013296	Finnland	EUR	Helsinki Stock Exchange	Equity	-	OMX Helsinki Index	Energy	0.000475947
+477	UNICREDIT	IT0005239360	Italien	EUR	Milan Stock Exchange	Equity	-	FTSE Italia All-Share Index	Financials	0.0004724079
+478	BEST BUY	US0865161014	Vereinigte Staaten	USD	New York Stock Exchange	Equity	-	S&P 500 Index	Consumer Discretionary	0.0004708517
+479	SOC.GENERALE	FR0000130809	Frankreich	EUR	Euronext Paris	Equity	A2	CAC 40 Index	Financials	0.0004705248
+480	WEST PHARMACEUTICAL SERVICES	US9553061055	Vereinigte Staaten	USD	New York Stock Exchange	Equity	-	S&P 500 Index	Health Care	0.0004687175
+481	NATIONAL BANK OF CANADA	CA6330671034	Kanada	CAD	Toronto Stock Exchange	Equity	-	S&P/TSX COMPOSITE Index	Financials	0.0004684261
+482	EVOLUTION GAMING GROUP	SE0012673267	Schweden	SEK	-	Equity	-	OMX Stockholm 30 Index	Consumer Discretionary	0.0004675622
+483	HEXAGON RG-B	SE0015961909	Schweden	SEK	-	Equity	-	-	Information Technology	0.0004672856
+484	CELLNEX TELECOM	ES0105066007	Spanien	EUR	Mercado Continuo Espana	Equity	-	IBEX 35 Index	Communication Services	0.0004663209
+485	VERISK ANLYTCS A	US92345Y1064	Vereinigte Staaten	USD	NASDAQ National Market System	Equity	Baa3	NASDAQ Composite Index	Industrials	0.0004661055
+486	CHUGAI PHARMA.	JP3519400000	Japan	JPY	Tokyo Stock Exchange	Equity	-	TOPIX Index	Health Care	0.0004621915
+487	REPUBLIC SERVICES	US7607591002	Vereinigte Staaten	USD	New York Stock Exchange	Equity	Baa3	S&P 500 Index	Industrials	0.0004619482
+488	DOLLAR TREE	US2567461080	Vereinigte Staaten	USD	NASDAQ National Market System	Equity	-	NASDAQ Composite Index	Consumer Discretionary	0.0004619294
+489	EPAM SYSTEMS	US29414B1044	Vereinigte Staaten	USD	New York Stock Exchange	Equity	-	S&P 500 Index	Information Technology	0.0004612399
+490	CREDIT SUISSE	CH0012138530	Schweiz	CHF	Scoach Switzerland	Equity	B1	Swiss Market Index	Financials	0.0004612091
+491	FERRARI	NL0011585146	Italien	EUR	Milan Stock Exchange	Equity	-	FTSE Italia All-Share Index	Consumer Discretionary	0.0004586817
+492	CONSOLIDATED EDISON	US2091151041	Vereinigte Staaten	USD	New York Stock Exchange	Equity	-	S&P 500 Index	Utilities	0.0004583859
+493	LEGAL & GENERAL GROUP	GB0005603997	Vereinigtes Königreich	GBP	London Stock Exchange	Equity	A3	FTSE 100 Index	Financials	0.0004566647
+494	MICHELIN	FR0000121261	Frankreich	EUR	Euronext Paris	Equity	Baa1	CAC 40 Index	Consumer Discretionary	0.0004539194
+495	TYSON FOODS	US9024941034	Vereinigte Staaten	USD	New York Stock Exchange	Equity	Baa3	S&P 500 Index	Consumer Staples	0.0004538894
+496	MAGNA INTL.	CA5592224011	Kanada	CAD	Toronto Stock Exchange	Equity	Baa1	S&P/TSX COMPOSITE Index	Consumer Discretionary	0.0004538187
+497	KEYSIGHT TECHN.	US49338L1035	Vereinigte Staaten	USD	New York Stock Exchange	Equity	-	S&P 500 Index	Information Technology	0.0004517963
+498	HERSHEY CORP.	US4278661081	Vereinigte Staaten	USD	New York Stock Exchange	Equity	A3	S&P 500 Index	Consumer Staples	0.0004513683
+499	RWE ST.	DE0007037129	Deutschland	EUR	XETRA	Equity	Baa1	DAX Index	Utilities	0.0004497692
+500	ORANGE	FR0000133308	Frankreich	EUR	Euronext Paris	Equity	Baa1	CAC 40 Index	Communication Services	0.0004494471
+501	ASS.GENERALI	IT0000062072	Italien	EUR	Milan Stock Exchange	Equity	Baa2	FTSE Italia All-Share Index	Financials	0.0004474433
+502	BAE SYSTEMS	GB0002634946	Vereinigtes Königreich	GBP	London Stock Exchange	Equity	Baa2	FTSE 100 Index	Industrials	0.0004471661
+503	KOMATSU	JP3304200003	Japan	JPY	Tokyo Stock Exchange	Equity	A2	TOPIX Index	Industrials	0.0004458621
+504	AKZO NOBEL	NL0013267909	Niederlande	EUR	Euronext Amsterdam	Equity	-	Amsterdam Exchanges Index	Materials	0.0004454051
+505	TELEFONICA	ES0178430E18	Spanien	EUR	Mercado Continuo Espana	Equity	Baa2	IBEX 35 Index	Communication Services	0.0004445906
+506	PARTNERS GR. HLDG.	CH0024608827	Schweiz	CHF	Scoach Switzerland	Equity	-	Swiss Market Index	Financials	0.000444158
+507	WOLTERS KLUWER	NL0000395903	Niederlande	EUR	Euronext Amsterdam	Equity	Baa1	Amsterdam Exchanges Index	Industrials	0.0004440981
+508	ZEBRA TECHNOLOGIES CORP.	US9892071054	Vereinigte Staaten	USD	NASDAQ National Market System	Equity	-	NASDAQ Composite Index	Information Technology	0.0004439973
+509	OLD DOMINION FREIGHT LINE	US6795801009	Vereinigte Staaten	USD	NASDAQ National Market System	Equity	-	NASDAQ Composite Index	Industrials	0.0004433049
+510	LIBERTY BROADBAND C	US5303073051	Vereinigte Staaten	USD	NASDAQ National Market System	Equity	-	NASDAQ Composite Index	Communication Services	0.0004415096
+511	MAXIM INTEGRATED PRODUCTS	US57772K1016	Vereinigte Staaten	USD	NASDAQ National Market System	Equity	Baa1	NASDAQ Composite Index	Information Technology	0.0004412161
+512	GEBERIT	CH0030170408	Schweiz	CHF	Scoach Switzerland	Equity	A2	Swiss Market Index	Industrials	0.0004409023
+513	COPART	US2172041061	Vereinigte Staaten	USD	NASDAQ National Market System	Equity	-	NASDAQ Composite Index	Industrials	0.0004401549
+514	DELL TECH RG-C	US24703L2025	Vereinigte Staaten	USD	New York Stock Exchange	Equity	-	S&P 500 Index	Information Technology	0.000440047
+515	TECHTRONIC INDUSTRIES	HK0669013440	Hongkong	HKD	-	Equity	-	Hang Seng Index	Industrials	0.0004368714
+516	INTL PAPER	US4601461035	Vereinigte Staaten	USD	New York Stock Exchange	Equity	Baa3	S&P 500 Index	Materials	0.0004366904
+517	LABORATORY CORP. OF AMERICA HLDGS.	US50540R4092	Vereinigte Staaten	USD	New York Stock Exchange	Equity	Baa2	S&P 500 Index	Health Care	0.0004353505
+518	BROWN-FORMAN (B)	US1156372096	Vereinigte Staaten	USD	New York Stock Exchange	Equity	-	S&P 500 Index	Consumer Staples	0.0004346063
+519	SEAGATE HLDGS RG	IE00BKVD2N49	Irland	USD	-	Equity	-	-	Information Technology	0.0004294317
+520	BT GROUP	GB0030913577	Vereinigtes Königreich	GBP	London Stock Exchange	Equity	Baa2	FTSE 100 Index	Communication Services	0.00042624
+521	AVIVA	GB0002162385	Vereinigtes Königreich	GBP	London Stock Exchange	Equity	A2	FTSE 100 Index	Financials	0.0004245069
+522	TERUMO CORP	JP3546800008	Japan	JPY	Tokyo Stock Exchange	Equity	-	TOPIX Index	Health Care	0.000424477
+523	CHURCH & DWIGHT	US1713401024	Vereinigte Staaten	USD	New York Stock Exchange	Equity	-	S&P 500 Index	Consumer Staples	0.0004242882
+524	TESCO	GB00BLGZ9862	Vereinigtes Königreich	GBP	-	Equity	-	-	Consumer Staples	0.0004239823
+525	ARCELORMITTAL	LU1598757687	Luxemburg	EUR	Euronext Amsterdam	Equity	-	Amsterdam Exchanges Index	Materials	0.0004223437
+526	NORTHERN TRUST	US6658591044	Vereinigte Staaten	USD	NASDAQ National Market System	Equity	-	NASDAQ Composite Index	Financials	0.0004216221
+527	VULCAN MATERIALS	US9291601097	Vereinigte Staaten	USD	New York Stock Exchange	Equity	Ba3	S&P 500 Index	Materials	0.0004215236
+528	CK HUTCHISON	KYG217651051	Hongkong	HKD	-	Equity	-	Hang Seng Index	Industrials	0.0004214986
+529	PANASONIC	JP3866800000	Japan	JPY	Tokyo Stock Exchange	Equity	Baa3	TOPIX Index	Consumer Discretionary	0.0004212437
+530	MARTIN MARIETTA MATERIALS	US5732841060	Vereinigte Staaten	USD	New York Stock Exchange	Equity	Ba1	S&P 500 Index	Materials	0.00042011
+531	IMPERIAL BRANDS	GB0004544929	Vereinigtes Königreich	GBP	London Stock Exchange	Equity	Baa3	FTSE 100 Index	Consumer Staples	0.0004196494
+532	UNITED OVERSEAS BANK	SG1M31001969	Singapur	SGD	-	Equity	-	-	Financials	0.0004188336
+533	OLYMPUS OPTICAL	JP3201200007	Japan	JPY	Tokyo Stock Exchange	Equity	-	TOPIX Index	Health Care	0.0004183974
+534	ALEXANDRIA REAL EST. EQUIT.	US0152711091	Vereinigte Staaten	USD	New York Stock Exchange	Equity	Baa2	S&P 500 Index	Real Estate	0.0004171063
+535	EXPEDIA	US30212P3038	Vereinigte Staaten	USD	NASDAQ National Market System	Equity	Ba1	NASDAQ Composite Index	Consumer Discretionary	0.0004170976
+536	EDISON INTL.	US2810201077	Vereinigte Staaten	USD	New York Stock Exchange	Equity	-	S&P 500 Index	Utilities	0.0004148051
+537	SSE	GB0007908733	Vereinigtes Königreich	GBP	London Stock Exchange	Equity	A3	FTSE 100 Index	Utilities	0.0004146866
+538	GOODMAN GROUP PTY	AU000000GMG2	Australien	AUD	Australian Stock Exchange	Equity	Baa2	ASX All Ordinaries Index	Real Estate	0.0004143647
+539	KUBOTA CORP	JP3266400005	Japan	JPY	Tokyo Stock Exchange	Equity	-	TOPIX Index	Industrials	0.0004142355
+540	ENTERGY	US29364G1031	Vereinigte Staaten	USD	New York Stock Exchange	Equity	-	S&P 500 Index	Utilities	0.0004125512
+541	REALTY INCOME	US7561091049	Vereinigte Staaten	USD	New York Stock Exchange	Equity	-	S&P 500 Index	Real Estate	0.0004113027
+542	OCCIDENTAL PETROLEUM	US6745991058	Vereinigte Staaten	USD	New York Stock Exchange	Equity	A1	S&P 500 Index	Energy	0.0004110237
+543	ESSITY (B)	SE0009922164	Schweden	SEK	Stockholm Stock Exchange	Equity	-	OMX Stockholm 30 Index	Consumer Staples	0.0004109941
+544	ONEOK	US6826801036	Vereinigte Staaten	USD	New York Stock Exchange	Equity	Baa2	S&P 500 Index	Energy	0.000409507
+545	PELOTON INTERACTIVE	US70614W1009	Vereinigte Staaten	USD	NASDAQ National Market System	Equity	-	NASDAQ Composite Index	Consumer Discretionary	0.0004091983
+546	ORIX	JP3200450009	Japan	JPY	Tokyo Stock Exchange	Equity	Baa2	TOPIX Index	Financials	0.000408674
+547	GENMAB A/S	DK0010272202	Dänemark	DKK	Copenhagen Stock Exchange	Equity	-	OMX COPENHAGEN 20 Index	Health Care	0.0004075633
+548	CDW	US12514G1085	Vereinigte Staaten	USD	NASDAQ National Market System	Equity	-	NASDAQ Composite Index	Information Technology	0.0004073236
+549	SYNCHRONY FINANCIAL	US87165B1035	Vereinigte Staaten	USD	New York Stock Exchange	Equity	-	S&P 500 Index	Financials	0.0004069725
+550	CLOROX CO.	US1890541097	Vereinigte Staaten	USD	New York Stock Exchange	Equity	Baa1	S&P 500 Index	Consumer Staples	0.0004063378
+551	CERNER	US1567821046	Vereinigte Staaten	USD	NASDAQ National Market System	Equity	-	NASDAQ Composite Index	Health Care	0.0004062128
+552	STMICROELECTRONICS	NL0000226223	Schweiz	EUR	Euronext Paris	Equity	Baa2	CAC 40 Index	Information Technology	0.0004046843
+553	EQUINOR ASA	NO0010096985	Norwegen	NOK	Oslo Stock Exchange	Equity	B1	Oslo SE All-share Index	Energy	0.0004037792
+554	FORTIVE CORP	US34959J1088	Vereinigte Staaten	USD	New York Stock Exchange	Equity	-	S&P 500 Index	Industrials	0.0004021399
+555	AMEREN	US0236081024	Vereinigte Staaten	USD	New York Stock Exchange	Equity	Baa3	S&P 500 Index	Utilities	0.00040202
+556	MCCORMICK & CO	US5797802064	Vereinigte Staaten	USD	New York Stock Exchange	Equity	-	S&P 500 Index	Consumer Staples	0.0004003645
+557	UPM-KYMMENE	FI0009005987	Finnland	EUR	Helsinki Stock Exchange	Equity	Ba1	OMX Helsinki Index	Materials	0.0003988276
+558	SAMPO	FI0009003305	Finnland	EUR	Helsinki Stock Exchange	Equity	Baa2	OMX Helsinki Index	Financials	0.0003988198
+559	VIACOMCBS RG-B	US92556H2067	Vereinigte Staaten	USD	NASDAQ National Market System	Equity	-	NASDAQ Composite Index	Communication Services	0.0003981738
+560	SEB	SE0000148884	Schweden	SEK	Stockholm Stock Exchange	Equity	A1	OMX Stockholm 30 Index	Financials	0.0003976099
+561	PPL CORPORATION	US69351T1060	Vereinigte Staaten	USD	New York Stock Exchange	Equity	Baa3	S&P 500 Index	Utilities	0.0003971785
+562	HARTFORD FIN.SVCS.GRP.	US4165151048	Vereinigte Staaten	USD	New York Stock Exchange	Equity	-	S&P 500 Index	Financials	0.0003969115
+563	JAPAN TOBACCO	JP3726800000	Japan	JPY	Tokyo Stock Exchange	Equity	Aa3	TOPIX Index	Consumer Staples	0.0003956363
+564	FLEETCOR TECH	US3390411052	Vereinigte Staaten	USD	New York Stock Exchange	Equity	-	S&P 500 Index	Information Technology	0.0003954899
+565	FUJIFILM	JP3814000000	Japan	JPY	Tokyo Stock Exchange	Equity	Aa3	TOPIX Index	Information Technology	0.0003946512
+566	BURLINGTON STORES	US1220171060	Vereinigte Staaten	USD	New York Stock Exchange	Equity	-	S&P 500 Index	Consumer Discretionary	0.0003933482
+567	WHEATON PREC METALS	CA9628791027	Kanada	CAD	Toronto Stock Exchange	Equity	-	S&P/TSX COMPOSITE Index	Materials	0.0003892568
+568	SR TELEPERFORMANCE	FR0000051807	Frankreich	EUR	Euronext Paris	Equity	-	CAC 40 Index	Industrials	0.0003887623
+569	HESS CORP	US42809H1077	Vereinigte Staaten	USD	New York Stock Exchange	Equity	Baa2	S&P 500 Index	Energy	0.0003879652
+570	BRIDGESTONE	JP3830800003	Japan	JPY	Tokyo Stock Exchange	Equity	A2	TOPIX Index	Consumer Discretionary	0.0003866565
+571	KERRY GROUP A	IE0004906560	Irland	EUR	Irish Stock Exchange	Equity	Baa2	ISEQ Irish Overall Index	Consumer Staples	0.0003863986
+572	REGIONS FINANCIAL	US7591EP1005	Vereinigte Staaten	USD	New York Stock Exchange	Equity	Ba1	S&P 500 Index	Financials	0.000386333
+573	UNITED RENTALS	US9113631090	Vereinigte Staaten	USD	New York Stock Exchange	Equity	Ba3	S&P 500 Index	Industrials	0.0003858135
+574	FIRSTENERGY	US3379321074	Vereinigte Staaten	USD	New York Stock Exchange	Equity	-	S&P 500 Index	Utilities	0.0003837162
+575	TRACTOR SUPPLY COMPANY	US8923561067	Vereinigte Staaten	USD	NASDAQ National Market System	Equity	-	NASDAQ Composite Index	Consumer Discretionary	0.000383235
+576	CANON	JP3242800005	Japan	JPY	Tokyo Stock Exchange	Equity	Aa1	TOPIX Index	Information Technology	0.0003832042
+577	THE DAI-ICHI MUTUAL LIFE INSURANCE	JP3476480003	Japan	JPY	Tokyo Stock Exchange	Equity	-	TOPIX Index	Financials	0.0003831732
+578	VERISIGN	US92343E1029	Vereinigte Staaten	USD	NASDAQ National Market System	Equity	Baa3	NASDAQ Composite Index	Information Technology	0.0003804904
+579	KEURIG DR PEPPER	US49271V1008	Vereinigte Staaten	USD	New York Stock Exchange	Equity	-	S&P 500 Index	Consumer Staples	0.0003803956
+580	HORIZON PHARMA PLC COM USD 0.0001	IE00BQPVQZ61	Irland	USD	NASDAQ National Market System	Equity	-	NASDAQ Composite Index	Health Care	0.0003791737
+581	THE TRADE DESK	US88339J1051	Vereinigte Staaten	USD	NASDAQ National Market System	Equity	-	NASDAQ Composite Index	Information Technology	0.0003765634
+582	MERCK KGAA	DE0006599905	Deutschland	EUR	XETRA	Equity	A3	DAX Index	Health Care	0.0003763217
+583	MITSUBISHI ESTATE	JP3899600005	Japan	JPY	Tokyo Stock Exchange	Equity	-	TOPIX Index	Real Estate	0.0003762202
+584	CARNIVAL CORP	PA1436583006	Vereinigte Staaten	USD	New York Stock Exchange	Equity	Baa1	S&P 500 Index	Consumer Discretionary	0.0003748755
+585	DNB	NO0010031479	Norwegen	NOK	Oslo Stock Exchange	Equity	-	Oslo SE All-share Index	Financials	0.0003733171
+586	EXTRA SPACE STORAGE	US30225T1025	Vereinigte Staaten	USD	New York Stock Exchange	Equity	-	S&P 500 Index	Real Estate	0.0003723951
+588	WESTERN DIGITAL	US9581021055	Vereinigte Staaten	USD	NASDAQ National Market System	Equity	-	NASDAQ Composite Index	Information Technology	0.0003721325
+589	DOVER CORP	US2600031080	Vereinigte Staaten	USD	New York Stock Exchange	Equity	A2	S&P 500 Index	Industrials	0.0003705702
+590	FORTIS	CA3495531079	Kanada	CAD	Toronto Stock Exchange	Equity	A3	S&P/TSX COMPOSITE Index	Utilities	0.0003705389
+591	TERADYNE	US8807701029	Vereinigte Staaten	USD	NASDAQ National Market System	Equity	-	NASDAQ Composite Index	Information Technology	0.00036998
+592	WORLDLINE	FR0011981968	Frankreich	EUR	Euronext Paris	Equity	-	CAC 40 Index	Information Technology	0.0003693558
+593	WW GRAINGER	US3848021040	Vereinigte Staaten	USD	New York Stock Exchange	Equity	Aa1	S&P 500 Index	Industrials	0.0003693292
+594	FRESENIUS	DE0005785604	Deutschland	EUR	XETRA	Equity	Ba1	DAX Index	Health Care	0.0003683063
+595	VIATRIS	US92556V1061	Vereinigte Staaten	USD	NASDAQ National Market System	Equity	-	NASDAQ Composite Index	Health Care	0.0003680889
+596	ALLY FINANCIAL	US02005N1000	Vereinigte Staaten	USD	New York Stock Exchange	Equity	-	S&P 500 Index	Financials	0.0003679758
+597	GARTNER	US3666511072	Vereinigte Staaten	USD	New York Stock Exchange	Equity	-	S&P 500 Index	Information Technology	0.0003679522
+598	XYLEM INC	US98419M1009	Vereinigte Staaten	USD	New York Stock Exchange	Equity	Baa2	S&P 500 Index	Industrials	0.0003675519
+599	KEYCORP	US4932671088	Vereinigte Staaten	USD	New York Stock Exchange	Equity	-	S&P 500 Index	Financials	0.0003667434
+600	HUBSPOT	US4435731009	Vereinigte Staaten	USD	New York Stock Exchange	Equity	-	S&P 500 Index	Information Technology	0.0003665373
+601	REPSOL	ES0173516115	Spanien	EUR	Mercado Continuo Espana	Equity	Baa2	IBEX 35 Index	Energy	0.0003647274
+602	CARLSBERG B	DK0010181759	Dänemark	DKK	Copenhagen Stock Exchange	Equity	-	OMX COPENHAGEN 20 Index	Consumer Staples	0.0003645161
+603	AVERY DENNISON	US0536111091	Vereinigte Staaten	USD	New York Stock Exchange	Equity	-	S&P 500 Index	Materials	0.0003632714
+604	WAYFAIR	US94419L1017	Vereinigte Staaten	USD	New York Stock Exchange	Equity	-	S&P 500 Index	Consumer Discretionary	0.0003626586
+605	SLACK TECHNOLOGIES	US83088V1026	Vereinigte Staaten	USD	New York Stock Exchange	Equity	-	S&P 500 Index	Information Technology	0.0003600763
+606	SEAGEN RG	US81181C1045	Vereinigte Staaten	USD	NASDAQ National Market System	Equity	-	NASDAQ Composite Index	Health Care	0.0003586954
+607	NASDAQ OMX	US6311031081	Vereinigte Staaten	USD	NASDAQ National Market System	Equity	Baa3	NASDAQ Composite Index	Financials	0.0003583704
+608	ASAHI GROUP	JP3116000005	Japan	JPY	Tokyo Stock Exchange	Equity	-	TOPIX Index	Consumer Staples	0.0003578622
+609	TRANSUNION	US89400J1079	Vereinigte Staaten	USD	New York Stock Exchange	Equity	-	S&P 500 Index	Industrials	0.000357345
+610	LINK REIT	HK0823032773	Hongkong	HKD	-	Equity	-	Hang Seng Index	Real Estate	0.0003570555
+611	VENTAS	US92276F1003	Vereinigte Staaten	USD	New York Stock Exchange	Equity	-	S&P 500 Index	Real Estate	0.0003568613
+612	CENTRAL JAPAN RAILWAY	JP3566800003	Japan	JPY	Tokyo Stock Exchange	Equity	Aa3	TOPIX Index	Industrials	0.0003567226
+613	ROYAL CARIBBEAN CRUISES	LR0008862868	Vereinigte Staaten	USD	New York Stock Exchange	Equity	Ba1	S&P 500 Index	Consumer Discretionary	0.0003566377
+614	ETSY	US29786A1060	Vereinigte Staaten	USD	NASDAQ National Market System	Equity	-	NASDAQ Composite Index	Consumer Discretionary	0.0003565534
+615	SUN HUNG KAI	HK0016000132	Hongkong	HKD	-	Equity	-	Hang Seng Index	Real Estate	0.0003563711
+616	AKAMAI TECHNOLOGIES	US00971T1016	Vereinigte Staaten	USD	NASDAQ National Market System	Equity	-	NASDAQ Composite Index	Information Technology	0.0003559416
+617	IAC/INTERACTIVE RG	US44891N1090	Vereinigte Staaten	USD	NASDAQ National Market System	Equity	-	NASDAQ Composite Index	Communication Services	0.0003557419
+618	HENKEL VZ.	DE0006048432	Deutschland	EUR	XETRA	Equity	A2	DAX Index	Consumer Staples	0.0003548129
+619	EXPEDITORS INTL. OF WASHINGTON	US3021301094	Vereinigte Staaten	USD	NASDAQ National Market System	Equity	B1	NASDAQ Composite Index	Industrials	0.0003546322
+620	TAKE-TWO INTERACTIVE SOFTWARE	US8740541094	Vereinigte Staaten	USD	NASDAQ National Market System	Equity	-	NASDAQ Composite Index	Communication Services	0.000354614
+621	NEWCREST MINING	AU000000NCM7	Australien	AUD	Australian Stock Exchange	Equity	Baa3	ASX All Ordinaries Index	Materials	0.0003537527
+622	BROADRIDGE FINANCIAL SOLUTIONS	US11133T1034	Vereinigte Staaten	USD	New York Stock Exchange	Equity	Baa1	S&P 500 Index	Information Technology	0.0003531253
+623	COLOPLAST	DK0060448595	Dänemark	DKK	Copenhagen Stock Exchange	Equity	-	OMX COPENHAGEN 20 Index	Health Care	0.0003518667
+624	ATLAS COPCO SR B ORD	SE0011166628	Schweden	SEK	-	Equity	-	OMX Stockholm 30 Index	Industrials	0.0003515856
+625	MITSUI FUDOSAN	JP3893200000	Japan	JPY	Tokyo Stock Exchange	Equity	A3	TOPIX Index	Real Estate	0.0003508903
+626	EAST JAPAN RAILWAY	JP3783600004	Japan	JPY	Tokyo Stock Exchange	Equity	Aa2	TOPIX Index	Industrials	0.0003500532
+627	COOPER COMPANIES	US2166484020	Vereinigte Staaten	USD	New York Stock Exchange	Equity	Baa3	S&P 500 Index	Health Care	0.0003488621
+628	AMERISOURCEBERGEN	US03073E1055	Vereinigte Staaten	USD	New York Stock Exchange	Equity	-	S&P 500 Index	Health Care	0.0003481181
+629	GARMIN	CH0114405324	Schweiz	USD	NASDAQ National Market System	Equity	-	NASDAQ Composite Index	Consumer Discretionary	0.0003479445
+630	SEGRO	GB00B5ZN1N88	Vereinigtes Königreich	GBP	London Stock Exchange	Equity	-	FTSE 100 Index	Real Estate	0.0003475795
+631	INVITATION HOMES	US46187W1071	Vereinigte Staaten	USD	New York Stock Exchange	Equity	-	S&P 500 Index	Real Estate	0.0003475379
+632	RESTAURANT BRANDS B	CA76131D1033	Kanada	CAD	Toronto Stock Exchange	Equity	-	S&P/TSX COMPOSITE Index	Consumer Discretionary	0.0003471595
+633	HEWLETT PACKARD ENTERPRISE	US42824C1099	Vereinigte Staaten	USD	New York Stock Exchange	Equity	-	S&P 500 Index	Information Technology	0.0003471323
+634	GENUINE PARTS	US3724601055	Vereinigte Staaten	USD	New York Stock Exchange	Equity	-	S&P 500 Index	Consumer Discretionary	0.0003469708
+635	M&T BANK CORP	US55261F1049	Vereinigte Staaten	USD	New York Stock Exchange	Equity	-	S&P 500 Index	Financials	0.0003467529
+636	KUHNE&NAGEL	CH0025238863	Schweiz	CHF	Scoach Switzerland	Equity	-	Swiss Market Index	Industrials	0.0003461741
+637	HONG KONG & Volksrepublik China GAS	HK0003000038	Hongkong	HKD	-	Equity	-	Hang Seng Index	Utilities	0.0003450884
+638	INTACT FINANCIAL CORP	CA45823T1066	Kanada	CAD	Toronto Stock Exchange	Equity	Baa1	S&P/TSX COMPOSITE Index	Financials	0.0003433644
+639	DARDEN RESTAURANTS	US2371941053	Vereinigte Staaten	USD	New York Stock Exchange	Equity	-	S&P 500 Index	Consumer Discretionary	0.0003433621
+640	CINCINNATI FINANCIAL	US1720621010	Vereinigte Staaten	USD	NASDAQ National Market System	Equity	-	NASDAQ Composite Index	Financials	0.0003431398
+641	AMCOR	JE00BJ1F3079	Vereinigtes Königreich	USD	New York Stock Exchange	Equity	-	S&P 500 Index	Materials	0.0003425607
+642	SUN COMMUNITIES	US8666741041	Vereinigte Staaten	USD	New York Stock Exchange	Equity	-	S&P 500 Index	Real Estate	0.0003417805
+643	KELLOGG	US4878361082	Vereinigte Staaten	USD	New York Stock Exchange	Equity	Baa2	S&P 500 Index	Consumer Staples	0.0003416894
+644	QUEST DIAGNOSTICS	US74834L1008	Vereinigte Staaten	USD	New York Stock Exchange	Equity	Baa2	S&P 500 Index	Health Care	0.0003407957
+645	HALLIBURTON	US4062161017	Vereinigte Staaten	USD	New York Stock Exchange	Equity	A2	S&P 500 Index	Energy	0.0003404289
+646	CITIZENS FINL.	US1746101054	Vereinigte Staaten	USD	New York Stock Exchange	Equity	-	S&P 500 Index	Financials	0.0003393461
+647	KBC GROEP	BE0003565737	Belgien	EUR	Euronext Brussels	Equity	A3	BEL 20 Index	Financials	0.0003385755
+648	CHENIERE ENERGY	US16411R2085	Vereinigte Staaten	USD	New York Stock Exchange	Equity	B1	S&P 500 Index	Energy	0.0003381646
+649	HENNES & MAURITZ AB	SE0000106270	Schweden	SEK	Stockholm Stock Exchange	Equity	-	OMX Stockholm 30 Index	Consumer Discretionary	0.0003375658
+650	ARISTA NETWORKS	US0404131064	Vereinigte Staaten	USD	New York Stock Exchange	Equity	-	S&P 500 Index	Information Technology	0.0003374309
+651	TELEDYNE TECHNOLOGIES	US8793601050	Vereinigte Staaten	USD	New York Stock Exchange	Equity	-	S&P 500 Index	Industrials	0.0003352578
+652	MOELLER MAERSK B-SHS	DK0010244508	Dänemark	DKK	Copenhagen Stock Exchange	Equity	Baa1	OMX COPENHAGEN 20 Index	Industrials	0.0003337855
+653	PEMBINA PIPELINE	CA7063271034	Kanada	CAD	Toronto Stock Exchange	Equity	Baa2	S&P/TSX COMPOSITE Index	Energy	0.0003335964
+654	QORVO	US74736K1016	Vereinigte Staaten	USD	NASDAQ National Market System	Equity	-	NASDAQ Composite Index	Information Technology	0.0003331986
+655	CGI GROUP	CA12532H1047	Kanada	CAD	Toronto Stock Exchange	Equity	-	S&P/TSX COMPOSITE Index	Information Technology	0.0003327674
+656	KYOCERA	JP3249600002	Japan	JPY	Tokyo Stock Exchange	Equity	-	TOPIX Index	Information Technology	0.000332502
+657	DAIWA HOUSE INDUSTRY	JP3505000004	Japan	JPY	Tokyo Stock Exchange	Equity	-	TOPIX Index	Real Estate	0.0003315684
+658	LOGITECH	CH0025751329	Schweiz	CHF	Scoach Switzerland	Equity	-	Swiss Market Index	Information Technology	0.0003303203
+659	POWER CORP OF CANADA	CA7392391016	Kanada	CAD	Toronto Stock Exchange	Equity	A2	S&P/TSX COMPOSITE Index	Financials	0.0003299742
+660	TELEFLEX	US8793691069	Vereinigte Staaten	USD	New York Stock Exchange	Equity	-	S&P 500 Index	Health Care	0.0003299038
+661	SONOVA	CH0012549785	Schweiz	CHF	Scoach Switzerland	Equity	-	Swiss Market Index	Health Care	0.0003290977
+662	RINGCENTRAL	US76680R2067	Vereinigte Staaten	USD	New York Stock Exchange	Equity	-	S&P 500 Index	Information Technology	0.0003286757
+663	CELANESE CORP A	US1508701034	Vereinigte Staaten	USD	New York Stock Exchange	Equity	-	S&P 500 Index	Materials	0.0003285173
+664	RAYMOND J FIN.	US7547301090	Vereinigte Staaten	USD	New York Stock Exchange	Equity	-	S&P 500 Index	Financials	0.0003272958
+665	LAS VEGAS SANDS	US5178341070	Vereinigte Staaten	USD	New York Stock Exchange	Equity	Baa3	S&P 500 Index	Consumer Discretionary	0.0003271266
+666	SGS	CH0002497458	Schweiz	CHF	Scoach Switzerland	Equity	-	Swiss Market Index	Industrials	0.0003257478
+667	PRINCIPAL FINANCIAL GROUP	US74251V1026	Vereinigte Staaten	USD	NASDAQ National Market System	Equity	A3	NASDAQ Composite Index	Financials	0.0003242897
+668	CARMAX	US1431301027	Vereinigte Staaten	USD	New York Stock Exchange	Equity	-	S&P 500 Index	Consumer Discretionary	0.0003241475
+669	ARISTOCRAT LEISURE	AU000000ALL7	Australien	AUD	Australian Stock Exchange	Equity	-	ASX All Ordinaries Index	Consumer Discretionary	0.0003239854
+670	ARCH CAPITAL GR.	BMG0450A1053	Bermuda	USD	NASDAQ National Market System	Equity	A3	NASDAQ Composite Index	Financials	0.000323631
+671	CONAGRA FOODS	US2058871029	Vereinigte Staaten	USD	New York Stock Exchange	Equity	Baa2	S&P 500 Index	Consumer Staples	0.0003230864
+672	SVENSKA HANDELSBANKEN	SE0007100599	Schweden	SEK	Stockholm Stock Exchange	Equity	-	OMX Stockholm 30 Index	Financials	0.0003229122
+673	BAKER HUGHES	US05722G1004	Vereinigte Staaten	USD	New York Stock Exchange	Equity	-	S&P 500 Index	Energy	0.0003228697
+674	HEALTHPEAK REIT RG	US42250P1030	Vereinigte Staaten	USD	New York Stock Exchange	Equity	-	S&P 500 Index	Real Estate	0.0003218206
+675	IDEX CORP.	US45167R1041	Vereinigte Staaten	USD	New York Stock Exchange	Equity	-	S&P 500 Index	Industrials	0.0003214429
+676	GENERAC HOLD.	US3687361044	Vereinigte Staaten	USD	New York Stock Exchange	Equity	-	S&P 500 Index	Industrials	0.0003212915
+677	FRESENIUS MED.CARE	DE0005785802	Deutschland	EUR	XETRA	Equity	Ba1	DAX Index	Health Care	0.0003205435
+678	DT. WOHNEN I	DE000A0HN5C6	Deutschland	EUR	XETRA	Equity	-	DAX Index	Real Estate	0.000320404
+679	SECOM	JP3421800008	Japan	JPY	Tokyo Stock Exchange	Equity	-	TOPIX Index	Industrials	0.0003198601
+680	CMS ENERGY	US1258961002	Vereinigte Staaten	USD	New York Stock Exchange	Equity	-	S&P 500 Index	Utilities	0.0003197289
+681	STANDARD CHARTERED	GB0004082847	Vereinigtes Königreich	GBP	London Stock Exchange	Equity	A2	FTSE 100 Index	Financials	0.0003196679
+682	UNI-CHARM	JP3951600000	Japan	JPY	Tokyo Stock Exchange	Equity	-	TOPIX Index	Consumer Staples	0.0003194453
+683	NETAPP	US64110D1046	Vereinigte Staaten	USD	NASDAQ National Market System	Equity	Baa1	NASDAQ Composite Index	Information Technology	0.0003190593
+684	MID AMERICA APARTMENT COMMUNITIES	US59522J1034	Vereinigte Staaten	USD	New York Stock Exchange	Equity	-	S&P 500 Index	Real Estate	0.0003181606
+685	JACOBS ENGINEERING GROUP	US4698141078	Vereinigte Staaten	USD	New York Stock Exchange	Equity	-	S&P 500 Index	Industrials	0.000317702
+686	TRIMBLE NAVIGATION	US8962391004	Vereinigte Staaten	USD	NASDAQ National Market System	Equity	-	NASDAQ Composite Index	Information Technology	0.000317023
+687	DOMINO'S PIZZA	US25754A2015	Vereinigte Staaten	USD	New York Stock Exchange	Equity	-	S&P 500 Index	Consumer Discretionary	0.0003169778
+688	MARKETAXESS HLDGS.	US57060D1081	Vereinigte Staaten	USD	NASDAQ National Market System	Equity	-	NASDAQ Composite Index	Financials	0.0003169261
+689	ROGERS COMM.	CA7751092007	Kanada	CAD	Toronto Stock Exchange	Equity	Baa1	S&P/TSX COMPOSITE Index	Communication Services	0.0003161563
+690	MGM RESORTS	US5529531015	Vereinigte Staaten	USD	New York Stock Exchange	Equity	B3	S&P 500 Index	Consumer Discretionary	0.0003157179
+691	STERIS RG	IE00BFY8C754	Irland	USD	New York Stock Exchange	Equity	-	S&P 500 Index	Health Care	0.0003152623
+692	CREDIT AGRICOLE	FR0000045072	Frankreich	EUR	Euronext Paris	Equity	A2	CAC 40 Index	Financials	0.0003133958
+693	ZILLOW GR. (C)	US98954M2008	Vereinigte Staaten	USD	NASDAQ National Market System	Equity	-	NASDAQ Composite Index	Communication Services	0.0003130415
+694	ADVANTEST	JP3122400009	Japan	JPY	Tokyo Stock Exchange	Equity	-	TOPIX Index	Information Technology	0.0003128531
+695	TYLER TECHNOLOGIES INC	US9022521051	Vereinigte Staaten	USD	New York Stock Exchange	Equity	B1	S&P 500 Index	Information Technology	0.0003122112
+696	VEOLIA ENV.	FR0000124141	Frankreich	EUR	Euronext Paris	Equity	Baa1	CAC 40 Index	Utilities	0.000311147
+697	ESSEX PPTY TR.	US2971781057	Vereinigte Staaten	USD	New York Stock Exchange	Equity	-	S&P 500 Index	Real Estate	0.0003106443
+698	WATERS CORP	US9418481035	Vereinigte Staaten	USD	New York Stock Exchange	Equity	-	S&P 500 Index	Health Care	0.0003097426
+699	OMNICOM GROUP	US6819191064	Vereinigte Staaten	USD	New York Stock Exchange	Equity	Baa1	S&P 500 Index	Communication Services	0.0003093989
+700	NOMURA HLDGS.	JP3762600009	Japan	JPY	Tokyo Stock Exchange	Equity	Baa3	TOPIX Index	Financials	0.0003091606
+701	CATALENT	US1488061029	Vereinigte Staaten	USD	New York Stock Exchange	Equity	-	S&P 500 Index	Health Care	0.0003079357
+702	COLES GRP RG	AU0000030678	Australien	AUD	-	Equity	-	-	Consumer Staples	0.0003073632
+703	ULTA SALON COSM.&FRAGR.	US90384S3031	Vereinigte Staaten	USD	NASDAQ National Market System	Equity	-	NASDAQ Composite Index	Consumer Discretionary	0.0003065986
+704	CONTINENTAL	DE0005439004	Deutschland	EUR	XETRA	Equity	Baa3	DAX Index	Consumer Discretionary	0.0003063481
+705	ALBEMARLE	US0126531013	Vereinigte Staaten	USD	New York Stock Exchange	Equity	-	S&P 500 Index	Materials	0.0003063413
+706	SMITH & NEPHEW	GB0009223206	Vereinigtes Königreich	GBP	London Stock Exchange	Equity	-	FTSE 100 Index	Health Care	0.0003062646
+707	POOL CORP	US73278L1052	Vereinigte Staaten	USD	NASDAQ National Market System	Equity	B1	NASDAQ Composite Index	Consumer Discretionary	0.0003057053
+708	NVR INC	US62944T1051	Vereinigte Staaten	USD	New York Stock Exchange	Equity	Baa2	S&P 500 Index	Consumer Discretionary	0.0003056212
+709	SHIMANO	JP3358000002	Japan	JPY	Tokyo Stock Exchange	Equity	-	TOPIX Index	Consumer Discretionary	0.0003056073
+710	SWEDBANK	SE0000242455	Schweden	SEK	Stockholm Stock Exchange	Equity	A1	OMX Stockholm 30 Index	Financials	0.0003051152
+711	SPLUNK	US8486371045	Vereinigte Staaten	USD	NASDAQ National Market System	Equity	-	NASDAQ Composite Index	Information Technology	0.0003048809
+712	AGNICO EAGLE MINES	CA0084741085	Kanada	CAD	Toronto Stock Exchange	Equity	B1	S&P/TSX COMPOSITE Index	Materials	0.0003039713
+713	INSULET CORP	US45784P1012	Vereinigte Staaten	USD	NASDAQ National Market System	Equity	-	NASDAQ Composite Index	Health Care	0.0003034142
+714	HOLOGIC	US4364401012	Vereinigte Staaten	USD	NASDAQ National Market System	Equity	-	NASDAQ Composite Index	Health Care	0.0003027832
+715	CARDINAL HEALTH	US14149Y1082	Vereinigte Staaten	USD	New York Stock Exchange	Equity	-	S&P 500 Index	Health Care	0.0003027443
+716	VICI PROPERTIES	US9256521090	Vereinigte Staaten	USD	New York Stock Exchange	Equity	-	S&P 500 Index	Real Estate	0.0003023362
+717	PERKINELMER	US7140461093	Vereinigte Staaten	USD	New York Stock Exchange	Equity	Baa3	S&P 500 Index	Health Care	0.0003010803
+718	AES CORP	US00130H1059	Vereinigte Staaten	USD	New York Stock Exchange	Equity	Ba3	S&P 500 Index	Utilities	0.0003005657
+719	KIRIN BREWERY	JP3258000003	Japan	JPY	Tokyo Stock Exchange	Equity	A3	TOPIX Index	Consumer Staples	0.0003000818
+720	INCYTE GENOMICS	US45337C1027	Vereinigte Staaten	USD	NASDAQ National Market System	Equity	-	NASDAQ Composite Index	Health Care	0.0002992672
+721	AVANTOR	US05352A1007	Vereinigte Staaten	USD	New York Stock Exchange	Equity	-	S&P 500 Index	Health Care	0.0002987299
+722	FERROVIAL	ES0118900010	Spanien	EUR	Mercado Continuo Espana	Equity	-	IBEX 35 Index	Industrials	0.0002957396
+723	TOSHIBA	JP3592200004	Japan	JPY	Tokyo Stock Exchange	Equity	Baa2	TOPIX Index	Industrials	0.0002953803
+724	DUKE REALTY	US2644115055	Vereinigte Staaten	USD	New York Stock Exchange	Equity	-	S&P 500 Index	Real Estate	0.0002948321
+725	PGE CORP	US69331C1080	Vereinigte Staaten	USD	New York Stock Exchange	Equity	Baa1	S&P 500 Index	Utilities	0.0002947153
+726	TDK	JP3538800008	Japan	JPY	Tokyo Stock Exchange	Equity	A3	TOPIX Index	Information Technology	0.000294504
+727	SARTORIUS (VZ.)	DE0007165631	Deutschland	EUR	-	Equity	-	DAX Index	Health Care	0.0002944824
+728	AEON	JP3388200002	Japan	JPY	Tokyo Stock Exchange	Equity	Baa1	TOPIX Index	Consumer Staples	0.0002933366
+729	SUMITOMO	JP3404600003	Japan	JPY	Tokyo Stock Exchange	Equity	A2	TOPIX Index	Industrials	0.0002929311
+730	JULIUS BAER N	CH0102484968	Schweiz	CHF	Scoach Switzerland	Equity	A2	Swiss Market Index	Financials	0.0002924094
+731	CK ASSET HLDGS.	KYG2177B1014	Hongkong	HKD	-	Equity	-	-	Real Estate	0.0002916442
+732	GALAXY ENTERTAINMENT	HK0027032686	Hongkong	HKD	-	Equity	-	Hang Seng Index	Consumer Discretionary	0.0002916241
+733	SS&C TECHN.	US78467J1007	Vereinigte Staaten	USD	NASDAQ National Market System	Equity	-	NASDAQ Composite Index	Information Technology	0.0002911988
+734	EDP ENERGIAS DE PORTUGAL	PTEDP0AM0009	Portugal	EUR	Euronext Lisbon	Equity	-	-	Utilities	0.000291198
+735	NAMCO BANDAI HLDGS.	JP3778630008	Japan	JPY	Tokyo Stock Exchange	Equity	-	TOPIX Index	Consumer Discretionary	0.0002904351
+736	EISAI	JP3160400002	Japan	JPY	Tokyo Stock Exchange	Equity	-	TOPIX Index	Health Care	0.0002901945
+737	MOLINA HEALTHCARE	US60855R1005	Vereinigte Staaten	USD	New York Stock Exchange	Equity	-	S&P 500 Index	Health Care	0.0002894775
+738	BRENNTAG	DE000A1DAHH0	Deutschland	EUR	XETRA	Equity	Baa3	DAX Index	Industrials	0.000289474
+739	MASCO CORP	US5745991068	Vereinigte Staaten	USD	New York Stock Exchange	Equity	-	S&P 500 Index	Industrials	0.0002891304
+740	SHIONOGI & CO	JP3347200002	Japan	JPY	Tokyo Stock Exchange	Equity	-	TOPIX Index	Health Care	0.0002882988
+741	SYMRISE	DE000SYM9999	Deutschland	EUR	XETRA	Equity	-	DAX Index	Materials	0.0002866242
+742	INGERSOLL RAND RG	US45687V1061	Vereinigte Staaten	USD	New York Stock Exchange	Equity	-	S&P 500 Index	Industrials	0.0002860052
+743	OTSUKA HLDGS.	JP3188220002	Japan	JPY	Tokyo Stock Exchange	Equity	-	TOPIX Index	Health Care	0.0002859235
+744	PACKAGING CORP	US6951561090	Vereinigte Staaten	USD	New York Stock Exchange	Equity	Baa3	S&P 500 Index	Materials	0.0002856737
+745	ALNYLAM PHARMACEUTICALS	US02043Q1076	Vereinigte Staaten	USD	NASDAQ National Market System	Equity	-	NASDAQ Composite Index	Health Care	0.0002847406
+746	WOODSIDE PETROLEUM	AU000000WPL2	Australien	AUD	Australian Stock Exchange	Equity	Baa1	ASX All Ordinaries Index	Energy	0.0002846596
+747	EPIROC RG-A	SE0015658109	Schweden	SEK	-	Equity	-	-	Industrials	0.0002843027
+748	PAYCOM SOFTWARE	US70432V1026	Vereinigte Staaten	USD	New York Stock Exchange	Equity	-	S&P 500 Index	Information Technology	0.0002833295
+749	CLP HLDGS.	HK0002007356	Hongkong	HKD	-	Equity	-	Hang Seng Index	Utilities	0.000282919
+750	SYSMEX CORP	JP3351100007	Japan	JPY	Tokyo Stock Exchange	Equity	-	TOPIX Index	Health Care	0.0002823341
+751	SHAW COMMUNICATIONS	CA82028K2002	Kanada	CAD	Toronto Stock Exchange	Equity	Baa3	S&P/TSX COMPOSITE Index	Communication Services	0.0002817773
+752	SUZUKI MOTOR	JP3397200001	Japan	JPY	Tokyo Stock Exchange	Equity	-	TOPIX Index	Consumer Discretionary	0.0002813935
+753	ELANC ANIML HEALTH	US28414H1032	Vereinigte Staaten	USD	New York Stock Exchange	Equity	-	S&P 500 Index	Health Care	0.0002813565
+754	ENPHASE ENERGY	US29355A1079	Vereinigte Staaten	USD	NASDAQ National Market System	Equity	-	NASDAQ Composite Index	Information Technology	0.0002811876
+755	MARKEL CORP.	US5705351048	Vereinigte Staaten	USD	New York Stock Exchange	Equity	Baa2	S&P 500 Index	Financials	0.0002809775
+756	SIEMENS HEALTHINEERS	DE000SHL1006	Deutschland	EUR	XETRA	Equity	-	DAX Index	Health Care	0.000280659
+757	ZALANDO	DE000ZAL1111	Deutschland	EUR	XETRA	Equity	-	DAX Index	Consumer Discretionary	0.0002795137
+758	HANG SENG BANK LTD	HK0011000095	Hongkong	HKD	-	Equity	-	Hang Seng Index	Financials	0.0002789835
+759	NOVOCURE	JE00BYSS4X48	Jersey	USD	NASDAQ National Market System	Equity	-	NASDAQ Composite Index	Health Care	0.0002788918
+760	CNH INDUSTRIAL	NL0010545661	Vereinigtes Königreich	EUR	Milan Stock Exchange	Equity	Ba1	FTSE Italia All-Share Index	Industrials	0.0002788646
+761	THOMSON REUTERS	CA8849037095	Kanada	CAD	Toronto Stock Exchange	Equity	-	S&P/TSX COMPOSITE Index	Industrials	0.0002778779
+762	EASTMAN CHEMICAL COMPANY	US2774321002	Vereinigte Staaten	USD	New York Stock Exchange	Equity	-	S&P 500 Index	Materials	0.0002772219
+763	TELADOC	US87918A1051	Vereinigte Staaten	USD	New York Stock Exchange	Equity	-	S&P 500 Index	Health Care	0.0002771962
+764	DATADOG	US23804L1035	Vereinigte Staaten	USD	NASDAQ National Market System	Equity	-	NASDAQ Composite Index	Information Technology	0.0002770462
+765	WPP	JE00B8KF9B49	Vereinigtes Königreich	GBP	London Stock Exchange	Equity	Baa2	FTSE 100 Index	Communication Services	0.0002759302
+766	PULTEGROUP	US7458671010	Vereinigte Staaten	USD	New York Stock Exchange	Equity	Ba2	S&P 500 Index	Consumer Discretionary	0.0002752315
+767	NORTONLIFELOCK RG	US6687711084	Vereinigte Staaten	USD	NASDAQ National Market System	Equity	-	NASDAQ Composite Index	Information Technology	0.000275211
+768	TEXTRON	US8832031012	Vereinigte Staaten	USD	New York Stock Exchange	Equity	-	S&P 500 Index	Industrials	0.000274746
+769	NIPPON STEEL	JP3381000003	Japan	JPY	Tokyo Stock Exchange	Equity	A3	TOPIX Index	Materials	0.0002746734
+770	SMUCKER JM	US8326964058	Vereinigte Staaten	USD	New York Stock Exchange	Equity	A3	S&P 500 Index	Consumer Staples	0.000274348
+771	EDENRED	FR0010908533	Frankreich	EUR	Euronext Paris	Equity	Baa1	CAC 40 Index	Information Technology	0.0002733267
+772	NICE SYSTEMS	IL0002730112	Israel	ILS	-	Equity	-	-	Information Technology	0.0002722859
+773	EXACT SCIENCES	US30063P1057	Vereinigte Staaten	USD	NASDAQ National Market System	Equity	-	NASDAQ Composite Index	Health Care	0.0002719423
+774	SWISS LIFE	CH0014852781	Schweiz	CHF	Scoach Switzerland	Equity	-	Swiss Market Index	Financials	0.0002719202
+775	CARVANA	US1468691027	Vereinigte Staaten	USD	New York Stock Exchange	Equity	-	S&P 500 Index	Consumer Discretionary	0.0002717553
+776	KINGSPAN GROUP	IE0004927939	Irland	EUR	Irish Stock Exchange	Equity	-	ISEQ Irish Overall Index	Industrials	0.0002710882
+777	SWEDISH MATCH	SE0015812219	Schweden	SEK	-	Equity	-	-	Consumer Staples	0.0002707649
+778	NITORI	JP3756100008	Japan	JPY	Tokyo Stock Exchange	Equity	-	TOPIX Index	Consumer Discretionary	0.0002702854
+779	BIO-RAD LABORATORIES A	US0905722072	Vereinigte Staaten	USD	New York Stock Exchange	Equity	-	S&P 500 Index	Health Care	0.0002699994
+780	EUROFINS SCIENTIFIC	FR0014000MR3	Luxemburg	EUR	-	Equity	-	-	Health Care	0.000269169
+781	PORSCHE	DE000PAH0038	Deutschland	EUR	XETRA	Equity	-	DAX Index	Consumer Discretionary	0.0002687247
+782	COGNEX	US1924221039	Vereinigte Staaten	USD	NASDAQ National Market System	Equity	-	NASDAQ Composite Index	Information Technology	0.0002677132
+783	SEKISUI HOUSE	JP3420600003	Japan	JPY	Tokyo Stock Exchange	Equity	-	TOPIX Index	Consumer Discretionary	0.0002668423
+784	HUNTINGTON BANCSHARES	US4461501045	Vereinigte Staaten	USD	NASDAQ National Market System	Equity	-	NASDAQ Composite Index	Financials	0.0002659676
+785	COUPA SOFTWARE	US22266L1061	Vereinigte Staaten	USD	NASDAQ National Market System	Equity	-	NASDAQ Composite Index	Information Technology	0.0002654882
+786	CLOUDFLARE	US18915M1071	Vereinigte Staaten	USD	New York Stock Exchange	Equity	-	S&P 500 Index	Information Technology	0.0002649473
+787	LIVE NATION	US5380341090	Vereinigte Staaten	USD	New York Stock Exchange	Equity	B3	S&P 500 Index	Communication Services	0.0002648468
+788	OCADO GR.	GB00B3MBS747	Vereinigtes Königreich	GBP	London Stock Exchange	Equity	-	FTSE 100 Index	Consumer Discretionary	0.0002646118
+789	CROWN HLDGS.	US2283681060	Vereinigte Staaten	USD	New York Stock Exchange	Equity	-	S&P 500 Index	Materials	0.0002645156
+790	BOSTON PROPERTIES	US1011211018	Vereinigte Staaten	USD	New York Stock Exchange	Equity	-	S&P 500 Index	Real Estate	0.000264448
+791	BOC HONG KONG	HK2388011192	Hongkong	HKD	-	Equity	-	Hang Seng Index	Financials	0.0002636154
+792	DELIVERY HERO	DE000A2E4K43	Deutschland	EUR	XETRA	Equity	-	DAX Index	Consumer Discretionary	0.0002632608
+793	WABTEC	US9297401088	Vereinigte Staaten	USD	New York Stock Exchange	Equity	Baa3	S&P 500 Index	Industrials	0.0002609296
+794	3I GROUP	GB00B1YW4409	Vereinigtes Königreich	GBP	London Stock Exchange	Equity	Baa2	FTSE 100 Index	Financials	0.0002603347
+795	ON SEMICONDUCTOR	US6821891057	Vereinigte Staaten	USD	NASDAQ National Market System	Equity	Ba1	NASDAQ Composite Index	Information Technology	0.0002598009
+796	ZENDESK	US98936J1016	Vereinigte Staaten	USD	New York Stock Exchange	Equity	-	S&P 500 Index	Information Technology	0.0002596361
+797	RENTOKIL INITIAL	GB00B082RF11	Vereinigtes Königreich	GBP	London Stock Exchange	Equity	Baa2	FTSE 100 Index	Industrials	0.0002592941
+798	OMRON CORP	JP3197800000	Japan	JPY	Tokyo Stock Exchange	Equity	A2	TOPIX Index	Information Technology	0.0002591646
+799	FOX	US35137L1052	Vereinigte Staaten	USD	NASDAQ National Market System	Equity	-	NASDAQ Composite Index	Communication Services	0.0002585926
+800	CARREFOUR	FR0000120172	Frankreich	EUR	Euronext Paris	Equity	Baa2	CAC 40 Index	Consumer Staples	0.0002585777
+801	JARDINE MATHESON	BMG507361001	Hongkong	USD	-	Equity	-	-	Industrials	0.0002583698
+802	DEVON ENERGY	US25179M1036	Vereinigte Staaten	USD	New York Stock Exchange	Equity	Baa1	S&P 500 Index	Energy	0.0002576968
+803	SINGTEL 1000	SG1T75931496	Singapur	SGD	-	Equity	-	-	Communication Services	0.0002575615
+804	TOYOTA INDUSTRIES	JP3634600005	Japan	JPY	Tokyo Stock Exchange	Equity	Aa3	TOPIX Index	Consumer Discretionary	0.0002568869
+805	DOLLARAMA	CA25675T1075	Kanada	CAD	Toronto Stock Exchange	Equity	-	S&P/TSX COMPOSITE Index	Consumer Discretionary	0.0002563286
+806	FISHER & PAYKEL HEALTHCARE	NZFAPE0001S2	Neuseeland	NZD	New Zealand Exchange	Equity	-	NZX 50 Index	Health Care	0.0002562876
+807	RPM INTL	US7496851038	Vereinigte Staaten	USD	New York Stock Exchange	Equity	Baa3	S&P 500 Index	Materials	0.0002557674
+808	MARUBENI	JP3877600001	Japan	JPY	Tokyo Stock Exchange	Equity	Baa2	TOPIX Index	Industrials	0.0002537844
+809	NN GROUP	NL0010773842	Niederlande	EUR	Euronext Amsterdam	Equity	-	Amsterdam Exchanges Index	Financials	0.000253271
+810	ADVANCE AUTO PARTS	US00751Y1064	Vereinigte Staaten	USD	New York Stock Exchange	Equity	Baa3	S&P 500 Index	Consumer Discretionary	0.0002532184
+811	HORMEL FOODS	US4404521001	Vereinigte Staaten	USD	New York Stock Exchange	Equity	-	S&P 500 Index	Consumer Staples	0.000253149
+812	HELLOFRESH	DE000A161408	Deutschland	EUR	-	Equity	-	DAX Index	Consumer Discretionary	0.0002531244
+813	WSP GLOBAL INC	CA92938W2022	Kanada	CAD	Toronto Stock Exchange	Equity	-	S&P/TSX COMPOSITE Index	Industrials	0.0002530815
+814	C.H. ROBINSON WORLDWIDE	US12541W2098	Vereinigte Staaten	USD	NASDAQ National Market System	Equity	-	NASDAQ Composite Index	Industrials	0.0002525879
+815	EVERGY	US30034W1062	Vereinigte Staaten	USD	New York Stock Exchange	Equity	-	S&P 500 Index	Utilities	0.0002523998
+816	FIRST QUANTUM MINERALS	CA3359341052	Kanada	CAD	Toronto Stock Exchange	Equity	-	S&P/TSX COMPOSITE Index	Materials	0.0002520822
+817	JAMES HARDIE INDUSTRIES	AU000000JHX1	Irland	AUD	Australian Stock Exchange	Equity	-	ASX All Ordinaries Index	Materials	0.0002518282
+818	AFTERPAY TOUCH GR	AU000000APT1	Australien	AUD	Australian Stock Exchange	Equity	-	ASX All Ordinaries Index	Information Technology	0.0002515367
+819	LUMEN TECH RG	US5502411037	Vereinigte Staaten	USD	-	Equity	-	-	Communication Services	0.0002515182
+820	WESTROCK	US96145D1054	Vereinigte Staaten	USD	New York Stock Exchange	Equity	-	S&P 500 Index	Materials	0.0002513781
+821	CITRIX	US1773761002	Vereinigte Staaten	USD	NASDAQ National Market System	Equity	-	NASDAQ Composite Index	Information Technology	0.0002511317
+822	SNAM	IT0003153415	Italien	EUR	Milan Stock Exchange	Equity	Baa1	FTSE Italia All-Share Index	Utilities	0.000250957
+823	NEXT	GB0032089863	Vereinigtes Königreich	GBP	London Stock Exchange	Equity	Baa2	FTSE 100 Index	Consumer Discretionary	0.0002504363
+824	VAIL RESORTS INC	US91879Q1094	Vereinigte Staaten	USD	New York Stock Exchange	Equity	-	S&P 500 Index	Consumer Discretionary	0.0002496948
+825	ROCHE I	CH0012032113	Schweiz	CHF	NASDAQ National Market System	Equity	-	Swiss Market Index	Health Care	0.000249228
+826	AENA	ES0105046009	Spanien	EUR	Mercado Continuo Espana	Equity	-	IBEX 35 Index	Industrials	0.0002488164
+827	CHECK POINT SOFTWARE TECH.	IL0010824113	Israel	USD	NASDAQ National Market System	Equity	-	NASDAQ Composite Index	Information Technology	0.0002482538
+828	STRAUMANN N	CH0012280076	Schweiz	CHF	Scoach Switzerland	Equity	-	Swiss Market Index	Health Care	0.000248201
+829	GBLGROUPE BRUXELLES LAMBERT	BE0003797140	Belgien	EUR	Euronext Brussels	Equity	-	BEL 20 Index	Financials	0.0002470635
+830	WIX.COM	IL0011301780	Israel	USD	NASDAQ National Market System	Equity	-	NASDAQ Composite Index	Information Technology	0.000246866
+831	MONDI	GB00B1CRLC47	Vereinigtes Königreich	GBP	London Stock Exchange	Equity	Baa3	FTSE 100 Index	Materials	0.000245986
+832	EMERA	CA2908761018	Kanada	CAD	Toronto Stock Exchange	Equity	Baa1	S&P/TSX COMPOSITE Index	Utilities	0.0002457761
+833	BIOMARIN PHARMA.	US09061G1013	Vereinigte Staaten	USD	NASDAQ National Market System	Equity	-	NASDAQ Composite Index	Health Care	0.0002456049
+834	HEINEKEN HLDG.	NL0000008977	Niederlande	EUR	Euronext Amsterdam	Equity	-	Amsterdam Exchanges Index	Consumer Staples	0.0002454691
+835	VMWARE	US9285634021	Vereinigte Staaten	USD	New York Stock Exchange	Equity	-	S&P 500 Index	Information Technology	0.0002447037
+836	PTC	US69370C1009	Vereinigte Staaten	USD	NASDAQ National Market System	Equity	-	NASDAQ Composite Index	Information Technology	0.0002445552
+837	EQUITY LIFESTYLE PROPERTIES	US29472R1086	Vereinigte Staaten	USD	New York Stock Exchange	Equity	-	S&P 500 Index	Real Estate	0.0002444083
+838	CENTERPOINT ENERGY	US15189T1079	Vereinigte Staaten	USD	New York Stock Exchange	Equity	Baa1	S&P 500 Index	Utilities	0.0002442659
+839	MONOLITHIC POWER SYSTEMS	US6098391054	Vereinigte Staaten	USD	NASDAQ National Market System	Equity	-	NASDAQ Composite Index	Information Technology	0.0002440903
+840	SCHINDLER PS	CH0024638196	Schweiz	CHF	Scoach Switzerland	Equity	-	Swiss Market Index	Industrials	0.0002434564
+841	MONGODB	US60937P1066	Vereinigte Staaten	USD	NASDAQ National Market System	Equity	-	NASDAQ Composite Index	Information Technology	0.0002429148
+842	MONCLER	IT0004965148	Italien	EUR	Milan Stock Exchange	Equity	-	FTSE Italia All-Share Index	Consumer Discretionary	0.0002423282
+843	MTU AERO ENGINES	DE000A0D9PT0	Deutschland	EUR	XETRA	Equity	Baa3	DAX Index	Industrials	0.0002421437
+844	TELENOR	NO0010063308	Norwegen	NOK	Oslo Stock Exchange	Equity	A3	Oslo SE All-share Index	Communication Services	0.0002419791
+845	NEC	JP3733000008	Japan	JPY	Tokyo Stock Exchange	Equity	Baa2	TOPIX Index	Information Technology	0.0002415958
+846	FAIR ISAAC & CO	US3032501047	Vereinigte Staaten	USD	New York Stock Exchange	Equity	B1	S&P 500 Index	Information Technology	0.0002411701
+847	SONIC HEALTHCARE	AU000000SHL7	Australien	AUD	Australian Stock Exchange	Equity	-	ASX All Ordinaries Index	Health Care	0.0002411099
+848	HOWMET AEROSPACE	US4432011082	Vereinigte Staaten	USD	New York Stock Exchange	Equity	-	S&P 500 Index	Industrials	0.0002407369
+849	BUNGE	BMG169621056	Vereinigte Staaten	USD	New York Stock Exchange	Equity	Baa3	S&P 500 Index	Consumer Staples	0.0002405607
+850	SMURFIT KAPPA GROUP	IE00B1RR8406	Irland	EUR	Irish Stock Exchange	Equity	Ba1	ISEQ Irish Overall Index	Materials	0.0002397644
+851	HALMA	GB0004052071	Vereinigtes Königreich	GBP	London Stock Exchange	Equity	-	FTSE 100 Index	Information Technology	0.0002394824
+852	WHIRLPOOL	US9633201069	Vereinigte Staaten	USD	New York Stock Exchange	Equity	Baa2	S&P 500 Index	Consumer Discretionary	0.0002394059
+853	ATMOS ENERGY	US0495601058	Vereinigte Staaten	USD	New York Stock Exchange	Equity	Baa1	S&P 500 Index	Utilities	0.0002392733
+854	LINCOLN NATIONAL CORP	US5341871094	Vereinigte Staaten	USD	New York Stock Exchange	Equity	-	S&P 500 Index	Financials	0.0002392485
+855	SUMITOMO EL.	JP3407400005	Japan	JPY	Tokyo Stock Exchange	Equity	A1	TOPIX Index	Consumer Discretionary	0.0002391802
+856	NOVOZYMES AS	DK0060336014	Dänemark	DKK	Copenhagen Stock Exchange	Equity	-	OMX COPENHAGEN 20 Index	Materials	0.0002386412
+857	SIEMENS ENERGY	DE000ENER6Y0	Deutschland	EUR	-	Equity	-	DAX Index	Industrials	0.0002383908
+858	ANNALY CAPITAL MANAGEMENT	US0357104092	Vereinigte Staaten	USD	New York Stock Exchange	Equity	-	S&P 500 Index	Financials	0.0002381134
+859	DENTSPLY INTL	US24906P1093	Vereinigte Staaten	USD	NASDAQ National Market System	Equity	-	NASDAQ Composite Index	Health Care	0.0002377383
+860	MOSAIC	US61945C1036	Vereinigte Staaten	USD	New York Stock Exchange	Equity	Baa1	S&P 500 Index	Materials	0.0002375441
+861	FACTSET RESH SYS	US3030751057	Vereinigte Staaten	USD	New York Stock Exchange	Equity	-	S&P 500 Index	Financials	0.0002374865
+862	GODADDY	US3802371076	Vereinigte Staaten	USD	New York Stock Exchange	Equity	-	S&P 500 Index	Information Technology	0.0002369995
+863	PANDORA	DK0060252690	Dänemark	DKK	Copenhagen Stock Exchange	Equity	-	OMX COPENHAGEN 20 Index	Consumer Discretionary	0.0002366542
+864	NEXON	JP3758190007	Japan	JPY	Tokyo Stock Exchange	Equity	-	TOPIX Index	Communication Services	0.0002362099
+865	CAMDEN PROPERTY TRUST	US1331311027	Vereinigte Staaten	USD	New York Stock Exchange	Equity	-	S&P 500 Index	Real Estate	0.0002361821
+866	WYNN RESORTS	US9831341071	Vereinigte Staaten	USD	NASDAQ National Market System	Equity	Ba1	NASDAQ Composite Index	Consumer Discretionary	0.0002359924
+867	FMC CORP	US3024913036	Vereinigte Staaten	USD	New York Stock Exchange	Equity	Baa1	S&P 500 Index	Materials	0.0002354956
+868	CAIXABANK	ES0140609019	Spanien	EUR	Mercado Continuo Espana	Equity	Baa3	IBEX 35 Index	Financials	0.0002353244
+869	XPO LOGISTICS	US9837931008	Vereinigte Staaten	USD	New York Stock Exchange	Equity	-	S&P 500 Index	Industrials	0.0002341005
+870	GVC HLDGS	IM00B5VQMV65	Isle of Man	GBP	London Stock Exchange	Equity	-	FTSE 100 Index	Consumer Discretionary	0.0002340639
+871	MOHAWK INDUSTRIES	US6081901042	Vereinigte Staaten	USD	New York Stock Exchange	Equity	Baa3	S&P 500 Index	Consumer Discretionary	0.0002331909
+872	PUBLICIS GROUPE	FR0000130577	Frankreich	EUR	Euronext Paris	Equity	Baa2	CAC 40 Index	Communication Services	0.0002326143
+873	J.B. HUNT TRANSPORT SERVICES	US4456581077	Vereinigte Staaten	USD	NASDAQ National Market System	Equity	Baa1	NASDAQ Composite Index	Industrials	0.0002312399
+874	LKQ	US5018892084	Vereinigte Staaten	USD	NASDAQ National Market System	Equity	Ba3	NASDAQ Composite Index	Consumer Discretionary	0.0002307863
+875	SARTORIUS STEDIM BIOTECH	FR0013154002	Frankreich	EUR	Euronext Paris	Equity	-	CAC 40 Index	Health Care	0.0002304002
+876	KINGFISHER	GB0033195214	Vereinigtes Königreich	GBP	London Stock Exchange	Equity	Baa2	FTSE 100 Index	Consumer Discretionary	0.0002299767
+877	LOEWS	US5404241086	Vereinigte Staaten	USD	New York Stock Exchange	Equity	-	S&P 500 Index	Financials	0.0002299588
+878	ALLIANT ENERGY	US0188021085	Vereinigte Staaten	USD	NASDAQ National Market System	Equity	A3	NASDAQ Composite Index	Utilities	0.0002299568
+879	IRON MOUNTAIN	US46284V1017	Vereinigte Staaten	USD	New York Stock Exchange	Equity	-	S&P 500 Index	Real Estate	0.0002299067
+880	TERNA SPA	IT0003242622	Italien	EUR	Milan Stock Exchange	Equity	Baa1	FTSE Italia All-Share Index	Utilities	0.0002297663
+881	ARGEN X	NL0010832176	Niederlande	EUR	Euronext Brussels	Equity	-	-	Health Care	0.0002296483
+882	PERSIMMON	GB0006825383	Vereinigtes Königreich	GBP	London Stock Exchange	Equity	-	FTSE 100 Index	Consumer Discretionary	0.0002286545
+883	JACK HENRY & ASSOCIATES	US4262811015	Vereinigte Staaten	USD	NASDAQ National Market System	Equity	-	NASDAQ Composite Index	Information Technology	0.0002285592
+884	BEIERSDORF	DE0005200000	Deutschland	EUR	XETRA	Equity	-	DAX Index	Consumer Staples	0.0002284404
+885	ABIOMED	US0036541003	Vereinigte Staaten	USD	NASDAQ National Market System	Equity	-	NASDAQ Composite Index	Health Care	0.0002279199
+886	SNAP-ON	US8330341012	Vereinigte Staaten	USD	New York Stock Exchange	Equity	A3	S&P 500 Index	Industrials	0.0002279063
+887	ASM INTL.	NL0000334118	Niederlande	EUR	Euronext Amsterdam	Equity	Ba1	Amsterdam Exchanges Index	Information Technology	0.0002269879
+888	NIBE INDUSTRIER B	SE0008321293	Schweden	SEK	Stockholm Stock Exchange	Equity	-	OMX Stockholm 30 Index	Industrials	0.0002265406
+889	LOBLAW COMPANIES	CA5394811015	Kanada	CAD	Toronto Stock Exchange	Equity	Baa2	S&P/TSX COMPOSITE Index	Consumer Staples	0.0002263132
+890	JAPAN POST HLDGS.	JP3752900005	Japan	JPY	Tokyo Stock Exchange	Equity	-	TOPIX Index	Financials	0.000226098
+891	LASERTEC	JP3979200007	Japan	JPY	Tokyo Stock Exchange	Equity	-	TOPIX Index	Information Technology	0.0002260006
+892	COCA-COLA EUROPEAN PARTNERS	GB00BDCPN049	Vereinigtes Königreich	USD	New York Stock Exchange	Equity	-	S&P 500 Index	Consumer Staples	0.0002258552
+893	HASBRO	US4180561072	Vereinigte Staaten	USD	NASDAQ National Market System	Equity	Baa2	NASDAQ Composite Index	Consumer Discretionary	0.0002258002
+894	PLUG POWER	US72919P2020	Vereinigte Staaten	USD	NASDAQ National Market System	Equity	-	NASDAQ Composite Index	Industrials	0.0002256232
+895	FAIRFAX FINANCIAL HLDGS.	CA3039011026	Kanada	CAD	Toronto Stock Exchange	Equity	Baa3	S&P/TSX COMPOSITE Index	Financials	0.000225603
+896	ZSCALER	US98980G1022	Vereinigte Staaten	USD	NASDAQ National Market System	Equity	-	NASDAQ Composite Index	Information Technology	0.0002254109
+897	NKSJ HLDS.	JP3165000005	Japan	JPY	Tokyo Stock Exchange	Equity	-	TOPIX Index	Financials	0.0002253922
+898	SWISSCOM	CH0008742519	Schweiz	CHF	Scoach Switzerland	Equity	A2	Swiss Market Index	Communication Services	0.0002251627
+899	FORTUNE BRANDS HOME & SECURIT	US34964C1062	Vereinigte Staaten	USD	New York Stock Exchange	Equity	-	S&P 500 Index	Industrials	0.0002250287
+900	OBIC	JP3173400007	Japan	JPY	Tokyo Stock Exchange	Equity	-	TOPIX Index	Information Technology	0.000224544
+901	JAPAN EXCHANGE GROUP	JP3183200009	Japan	JPY	Tokyo Stock Exchange	Equity	-	TOPIX Index	Financials	0.0002237043
+902	OPEN TEXT	CA6837151068	Kanada	CAD	NASDAQ National Market System	Equity	Ba1	NASDAQ Composite Index	Information Technology	0.0002235912
+903	PUMA	DE0006969603	Deutschland	EUR	XETRA	Equity	-	DAX Index	Consumer Discretionary	0.000223534
+904	SOLAREDGE TECHN.	US83417M1045	Israel	USD	NASDAQ National Market System	Equity	-	NASDAQ Composite Index	Information Technology	0.000222937
+905	HENRY SCHEIN	US8064071025	Vereinigte Staaten	USD	NASDAQ National Market System	Equity	-	NASDAQ Composite Index	Health Care	0.0002227935
+906	UMICORE	BE0974320526	Belgien	EUR	Euronext Brussels	Equity	-	BEL 20 Index	Materials	0.000222518
+907	HEIDELBERGCEMENT	DE0006047004	Deutschland	EUR	XETRA	Equity	Ba1	DAX Index	Materials	0.0002222863
+908	MITSUI SUMITOMO INSURANCE	JP3890310000	Japan	JPY	Tokyo Stock Exchange	Equity	-	TOPIX Index	Financials	0.0002219558
+909	LEIDOS HLDGS.	US5253271028	Vereinigte Staaten	USD	New York Stock Exchange	Equity	Baa2	S&P 500 Index	Information Technology	0.000221642
+910	ROLLS-ROYCE	GB00B63H8491	Vereinigtes Königreich	GBP	London Stock Exchange	Equity	A2	FTSE 100 Index	Industrials	0.000221102
+911	STORA ENSO	FI0009005961	Finnland	EUR	Helsinki Stock Exchange	Equity	Ba2	OMX Helsinki Index	Materials	0.0002210275
+912	UNIBAIL-WFD UNIBAI	FR0013326246	Frankreich	EUR	-	Equity	-	-	Real Estate	0.0002209125
+913	ASSOCIATED BRITISH FOODS	GB0006731235	Vereinigtes Königreich	GBP	London Stock Exchange	Equity	-	FTSE 100 Index	Consumer Staples	0.0002208826
+914	ALSTOM	FR0010220475	Frankreich	EUR	Euronext Paris	Equity	Baa3	CAC 40 Index	Industrials	0.0002206876
+915	BOOZ ALLEN HAMILTON	US0995021062	Vereinigte Staaten	USD	New York Stock Exchange	Equity	-	S&P 500 Index	Information Technology	0.0002205888
+916	ESSENTIAL UTIL RG	US29670G1022	Vereinigte Staaten	USD	-	Equity	-	-	Utilities	0.0002204027
+917	YAHOO JAPAN	JP3933800009	Japan	JPY	Tokyo Stock Exchange	Equity	-	TOPIX Index	Communication Services	0.0002203045
+918	ASAHI KASEI	JP3111200006	Japan	JPY	Tokyo Stock Exchange	Equity	-	TOPIX Index	Materials	0.0002201822
+919	TEVA PHARMACEUTICAL ADR	US8816242098	Israel	USD	New York Stock Exchange	Equity	-	S&P 500 Index	Health Care	0.0002197396
+920	UCB	BE0003739530	Belgien	EUR	Euronext Brussels	Equity	-	BEL 20 Index	Health Care	0.0002197037
+921	CBOE HLDGS	US12503M1080	Vereinigte Staaten	USD	NASDAQ National Market System	Equity	-	S&P 500 Index	Financials	0.0002195675
+922	LEG IMMOBILIEN	DE000LEG1110	Deutschland	EUR	XETRA	Equity	-	DAX Index	Real Estate	0.0002194133
+923	BUNZL	GB00B0744B38	Vereinigtes Königreich	GBP	London Stock Exchange	Equity	-	FTSE 100 Index	Industrials	0.0002193122
+924	BROWN & BROWN	US1152361010	Vereinigte Staaten	USD	New York Stock Exchange	Equity	-	S&P 500 Index	Financials	0.0002190458
+925	FIDELITY NATIONAL FINL.	US31620R3030	Vereinigte Staaten	USD	New York Stock Exchange	Equity	-	S&P 500 Index	Financials	0.0002187863
+926	FORTUM	FI0009007132	Finnland	EUR	Helsinki Stock Exchange	Equity	A2	OMX Helsinki Index	Utilities	0.0002186611
+927	INTERTEK GROUP	GB0031638363	Vereinigtes Königreich	GBP	London Stock Exchange	Equity	-	FTSE 100 Index	Industrials	0.0002179967
+928	BRAMBLES INDUSTRIES	AU000000BXB1	Australien	AUD	Australian Stock Exchange	Equity	Baa1	ASX All Ordinaries Index	Industrials	0.0002169386
+929	HANNOVER RUECK.	DE0008402215	Deutschland	EUR	XETRA	Equity	Aa3	DAX Index	Financials	0.000216813
+930	F5 NETWORKS	US3156161024	Vereinigte Staaten	USD	NASDAQ National Market System	Equity	-	NASDAQ Composite Index	Information Technology	0.0002162378
+931	HOST HOTELS & RESORTS	US44107P1049	Vereinigte Staaten	USD	New York Stock Exchange	Equity	-	S&P 500 Index	Real Estate	0.0002160121
+932	NATWEST GROUP	GB00B7T77214	Vereinigtes Königreich	GBP	London Stock Exchange	Equity	Baa2	FTSE 100 Index	Financials	0.0002150532
+933	UDR INC	US9026531049	Vereinigte Staaten	USD	New York Stock Exchange	Equity	Baa2	S&P 500 Index	Real Estate	0.0002138625
+934	SUMITOMO MITSUI TRUST	JP3892100003	Japan	JPY	Tokyo Stock Exchange	Equity	-	TOPIX Index	Financials	0.0002138348
+935	TAKEAWAY.COM HLDG.	NL0012015705	Niederlande	EUR	Euronext Amsterdam	Equity	-	Amsterdam Exchanges Index	Consumer Discretionary	0.0002125867
+936	XERO	NZXROE0001S2	Neuseeland	AUD	Tokyo Stock Exchange	Equity	-	TOPIX Index	Information Technology	0.0002117381
+937	COVESTRO	DE0006062144	Deutschland	EUR	XETRA	Equity	-	DAX Index	Materials	0.0002109319
+938	JX HLDGS.	JP3386450005	Japan	JPY	Tokyo Stock Exchange	Equity	-	TOPIX Index	Energy	0.0002105086
+939	LENNOX INTL	US5261071071	Vereinigte Staaten	USD	New York Stock Exchange	Equity	-	S&P 500 Index	Industrials	0.0002103105
+940	BANK LEUMI LE-ISRAEL B.M.	IL0006046119	Israel	ILS	-	Equity	-	-	Financials	0.0002102023
+941	NITTO DENKO	JP3684000007	Japan	JPY	Tokyo Stock Exchange	Equity	-	TOPIX Index	Materials	0.0002101893
+942	NIPPON PAINT	JP3749400002	Japan	JPY	Tokyo Stock Exchange	Equity	-	TOPIX Index	Materials	0.0002098809
+943	MITSUBISHI CHEMICAL HOLDINKGS	JP3897700005	Japan	JPY	Tokyo Stock Exchange	Equity	-	TOPIX Index	Materials	0.0002090814
+944	KPN	NL0000009082	Niederlande	EUR	Euronext Amsterdam	Equity	Baa3	Amsterdam Exchanges Index	Communication Services	0.0002083719
+945	NORDSON	US6556631025	Vereinigte Staaten	USD	NASDAQ National Market System	Equity	-	NASDAQ Composite Index	Industrials	0.0002077814
+946	QIAGEN	NL0012169213	Niederlande	EUR	New York Stock Exchange	Equity	-	S&P 500 Index	Health Care	0.0002073335
+947	DANSKE BANK	DK0010274414	Dänemark	DKK	Copenhagen Stock Exchange	Equity	Baa1	OMX COPENHAGEN 20 Index	Financials	0.0002068941
+948	NISSAN	JP3672400003	Japan	JPY	Tokyo Stock Exchange	Equity	Baa1	TOPIX Index	Consumer Discretionary	0.0002056412
+949	SPIRAX-SARCO ENGIN.	GB00BWFGQN14	Vereinigtes Königreich	GBP	London Stock Exchange	Equity	-	FTSE 100 Index	Industrials	0.0002054841
+950	EQUITABLE HLDG RG	US29452E1010	Vereinigte Staaten	USD	New York Stock Exchange	Equity	-	S&P 500 Index	Financials	0.0002045022
+951	TECK RESOURCES	CA8787422044	Kanada	CAD	New York Stock Exchange	Equity	Baa2	S&P 500 Index	Materials	0.0002042316
+952	SAGE GR.	GB00B8C3BL03	Vereinigtes Königreich	GBP	London Stock Exchange	Equity	B1	FTSE 100 Index	Information Technology	0.0002039088
+953	CRODA INTL RG	GB00BJFFLV09	Vereinigtes Königreich	GBP	-	Equity	-	-	Materials	0.0002036718
+954	KIRKLAND LAKE GOLD	CA49741E1007	Kanada	CAD	-	Equity	-	-	Materials	0.0002030363
+955	WP CAREY	US92936U1097	Vereinigte Staaten	USD	New York Stock Exchange	Equity	-	S&P 500 Index	Real Estate	0.0002025755
+956	BORGWARNER	US0997241064	Vereinigte Staaten	USD	New York Stock Exchange	Equity	Baa2	S&P 500 Index	Consumer Discretionary	0.0002025152
+957	INTERPUBLIC GROUP COS	US4606901001	Vereinigte Staaten	USD	New York Stock Exchange	Equity	Baa3	S&P 500 Index	Communication Services	0.0002023372
+958	MOWI ASA	NO0003054108	Norwegen	NOK	Oslo Stock Exchange	Equity	-	Oslo SE All-share Index	Consumer Staples	0.00020161
+959	STEEL DYNAMICS	US8581191009	Vereinigte Staaten	USD	NASDAQ National Market System	Equity	Ba2	NASDAQ Composite Index	Materials	0.000200709
+960	CERIDIN HCM HLDG	US15677J1088	Vereinigte Staaten	USD	New York Stock Exchange	Equity	-	S&P 500 Index	Information Technology	0.0002006871
+961	HENKEL ST.	DE0006048408	Deutschland	EUR	XETRA	Equity	A2	DAX Index	Consumer Staples	0.0002002608
+962	PENTAIR	IE00BLS09M33	Vereinigtes Königreich	USD	New York Stock Exchange	Equity	-	-	Industrials	0.0001990632
+963	BLACK KNIGHT	US09215C1053	Vereinigte Staaten	USD	New York Stock Exchange	Equity	-	S&P 500 Index	Information Technology	0.0001985997
+964	MELROSE IND.	GB00BZ1G4322	Vereinigtes Königreich	GBP	London Stock Exchange	Equity	-	FTSE 100 Index	Industrials	0.0001978462
+965	ALLEGION	IE00BFRT3W74	Irland	USD	New York Stock Exchange	Equity	-	S&P 500 Index	Industrials	0.0001977248
+966	KESKO B	FI0009000202	Finnland	EUR	Helsinki Stock Exchange	Equity	-	OMX Helsinki Index	Consumer Staples	0.0001973871
+967	TELUS	CA87971M1032	Kanada	CAD	New York Stock Exchange	Equity	Baa1	S&P 500 Index	Communication Services	0.0001971231
+968	SWATCH I	CH0012255151	Schweiz	CHF	Scoach Switzerland	Equity	-	Swiss Market Index	Consumer Discretionary	0.0001956098
+969	RAMSAY HEALTH CARE	AU000000RHC8	Australien	AUD	Australian Stock Exchange	Equity	-	ASX All Ordinaries Index	Health Care	0.0001948754
+970	MITSUBISHI HEAVY	JP3900000005	Japan	JPY	Tokyo Stock Exchange	Equity	Baa1	TOPIX Index	Industrials	0.0001943241
+971	BARRATT DEVELOPMENTS	GB0000811801	Vereinigtes Königreich	GBP	London Stock Exchange	Equity	-	FTSE 100 Index	Consumer Discretionary	0.0001936404
+972	INVESCO	BMG491BT1088	Vereinigte Staaten	USD	New York Stock Exchange	Equity	A3	S&P 500 Index	Financials	0.0001936203
+973	BURBERRY GROUP	GB0031743007	Vereinigtes Königreich	GBP	London Stock Exchange	Equity	-	FTSE 100 Index	Consumer Discretionary	0.000192835
+974	CANADIAN TIRE CORPORATION A	CA1366812024	Kanada	CAD	Toronto Stock Exchange	Equity	Baa1	S&P/TSX COMPOSITE Index	Consumer Discretionary	0.0001927513
+975	W.R. BERKLEY	US0844231029	Vereinigte Staaten	USD	New York Stock Exchange	Equity	Baa2	S&P 500 Index	Financials	0.0001927014
+976	ALGONQUIN POWER & UTILITIES	CA0158571053	Kanada	CAD	Toronto Stock Exchange	Equity	-	S&P/TSX COMPOSITE Index	Utilities	0.000192538
+977	SCENTRE GROUP	AU000000SCG8	Australien	AUD	Australian Stock Exchange	Equity	-	ASX All Ordinaries Index	Real Estate	0.0001924956
+978	TELSTRA	AU000000TLS2	Australien	AUD	Australian Stock Exchange	Equity	A2	ASX All Ordinaries Index	Communication Services	0.0001916444
+979	UNIVERSAL HEALTH SERVICES INC	US9139031002	Vereinigte Staaten	USD	New York Stock Exchange	Equity	Ba2	S&P 500 Index	Health Care	0.0001916213
+980	SOLVAY	BE0003470755	Belgien	EUR	Euronext Brussels	Equity	Baa2	BEL 20 Index	Materials	0.0001913932
+981	LAMB WESTON HLDNGS.	US5132721045	Vereinigte Staaten	USD	New York Stock Exchange	Equity	-	S&P 500 Index	Consumer Staples	0.0001913211
+982	MOLSON COORS BREWING CORP	US60871R2094	Vereinigte Staaten	USD	New York Stock Exchange	Equity	-	S&P 500 Index	Consumer Staples	0.0001911922
+983	ALFA LAVAL	SE0000695876	Schweden	SEK	Stockholm Stock Exchange	Equity	Baa1	OMX Stockholm 30 Index	Industrials	0.0001910539
+985	DISH NETWORK	US25470M1099	Vereinigte Staaten	USD	NASDAQ National Market System	Equity	Ba3	NASDAQ Composite Index	Communication Services	0.0001904155
+986	BANK HAPOALIM B.M.	IL0006625771	Israel	ILS	-	Equity	-	-	Financials	0.0001902264
+987	REGENCY CENTERS	US7588491032	Vereinigte Staaten	USD	NASDAQ National Market System	Equity	-	NASDAQ Composite Index	Real Estate	0.0001901948
+988	NISOURCE	US65473P1057	Vereinigte Staaten	USD	New York Stock Exchange	Equity	Baa3	S&P 500 Index	Utilities	0.0001896461
+989	NEWS CORP A	US65249B1098	Vereinigte Staaten	USD	NASDAQ National Market System	Equity	Baa1	NASDAQ Composite Index	Communication Services	0.0001887938
+990	CENOVUS ENERGY	CA15135U1093	Kanada	CAD	Toronto Stock Exchange	Equity	Baa2	S&P/TSX COMPOSITE Index	Energy	0.0001884316
+991	BOLIDEN	SE0015811559	Schweden	SEK	-	Equity	-	-	Materials	0.0001882208
+992	CHR. HANSEN HLDG.	DK0060227585	Dänemark	DKK	Copenhagen Stock Exchange	Equity	-	OMX COPENHAGEN 20 Index	Materials	0.0001879422
+993	FINECOBANK SPA	IT0000072170	Italien	EUR	Milan Stock Exchange	Equity	-	FTSE Italia All-Share Index	Financials	0.0001878199
+994	MASIMO CORP	US5747951003	Vereinigte Staaten	USD	NASDAQ National Market System	Equity	B1	NASDAQ Composite Index	Health Care	0.0001873564
+995	SUMITOMO METAL MINING	JP3402600005	Japan	JPY	Tokyo Stock Exchange	Equity	-	TOPIX Index	Materials	0.0001866801
+996	METRO INC.	CA59162N1096	Kanada	CAD	Toronto Stock Exchange	Equity	-	S&P/TSX COMPOSITE Index	Consumer Staples	0.0001865221
+997	RAKUTEN	JP3967200001	Japan	JPY	Tokyo Stock Exchange	Equity	-	TOPIX Index	Consumer Discretionary	0.0001865201
+998	AVALARA RG	US05338G1067	Vereinigte Staaten	USD	New York Stock Exchange	Equity	-	S&P 500 Index	Information Technology	0.0001860417
+999	QBE INSURANCE GROUP	AU000000QBE9	Australien	AUD	Australian Stock Exchange	Equity	Baa2	ASX All Ordinaries Index	Financials	0.0001857546
+1000	WESTERN UNION CO.	US9598021098	Vereinigte Staaten	USD	New York Stock Exchange	Equity	Baa2	S&P 500 Index	Information Technology	0.0001857182
+1001	HYDRO ONE	CA4488112083	Kanada	CAD	Toronto Stock Exchange	Equity	-	S&P/TSX COMPOSITE Index	Utilities	0.0001855005
+1002	ARROW ELECTRONICS	US0427351004	Vereinigte Staaten	USD	New York Stock Exchange	Equity	-	S&P 500 Index	Information Technology	0.0001853319
+1003	MEDICAL PROPERTIES TRUST	US58463J3041	Vereinigte Staaten	USD	New York Stock Exchange	Equity	-	S&P 500 Index	Real Estate	0.0001845681
+1004	FRANKLIN RESOURCES	US3546131018	Vereinigte Staaten	USD	New York Stock Exchange	Equity	-	S&P 500 Index	Financials	0.0001837025
+1005	CF INDUSTRIES	US1252691001	Vereinigte Staaten	USD	New York Stock Exchange	Equity	Baa2	S&P 500 Index	Materials	0.0001836623
+1006	SUMITOMO REALTY & DEV.	JP3409000001	Japan	JPY	Tokyo Stock Exchange	Equity	-	TOPIX Index	Real Estate	0.0001832084
+1007	FUJI HEAVY INDUSTRY	JP3814800003	Japan	JPY	Tokyo Stock Exchange	Equity	-	TOPIX Index	Consumer Discretionary	0.000182839
+1008	AGNC INVESTMENT	US00123Q1040	Vereinigte Staaten	USD	NASDAQ National Market System	Equity	-	NASDAQ Composite Index	Financials	0.0001827266
+1009	NEWELL RUBBERMAID	US6512291062	Vereinigte Staaten	USD	NASDAQ National Market System	Equity	Baa3	NASDAQ Composite Index	Consumer Discretionary	0.0001821243
+1010	10X GENOMICS	US88025U1097	Vereinigte Staaten	USD	NASDAQ National Market System	Equity	-	NASDAQ Composite Index	Health Care	0.000182106
+1011	SVENSKA CELLULOSA B	SE0000112724	Schweden	SEK	Stockholm Stock Exchange	Equity	Baa1	OMX Stockholm 30 Index	Materials	0.0001814069
+1012	INFORMA	GB00BMJ6DW54	Vereinigtes Königreich	GBP	London Stock Exchange	Equity	-	FTSE 100 Index	Communication Services	0.0001810243
+1013	RSA INSURANCE	GB00BKKMKR23	Vereinigtes Königreich	GBP	London Stock Exchange	Equity	-	FTSE 100 Index	Financials	0.000180687
+1014	TEMENOS GROUP	CH0012453913	Schweiz	CHF	Scoach Switzerland	Equity	-	Swiss Market Index	Information Technology	0.0001805331
+1015	WHARF REAL ESTATE INVESTMENT	KYG9593A1040	Hongkong	HKD	-	Equity	-	-	Real Estate	0.0001805109
+1016	BAUSCH HEALTH	CA0717341071	Kanada	CAD	Toronto Stock Exchange	Equity	-	S&P/TSX COMPOSITE Index	Health Care	0.0001798698
+1017	APA GROUP UNITS FULLY PAID	AU000000APA1	Australien	AUD	Australian Stock Exchange	Equity	-	ASX All Ordinaries Index	Utilities	0.0001796679
+1018	GN STORE NORD	DK0010272632	Dänemark	DKK	Copenhagen Stock Exchange	Equity	-	OMX COPENHAGEN 20 Index	Health Care	0.0001788236
+1019	INTERCONT HOTELS RG	GB00BHJYC057	Vereinigtes Königreich	GBP	-	Equity	-	-	Consumer Discretionary	0.000178663
+1020	DAVITA HEALTHCARE PARTNERS	US23918K1088	Vereinigte Staaten	USD	New York Stock Exchange	Equity	B2	S&P 500 Index	Health Care	0.0001779045
+1021	DAIFUKU	JP3497400006	Japan	JPY	Tokyo Stock Exchange	Equity	-	TOPIX Index	Industrials	0.0001774376
+1022	JAZZ PHARMA	IE00B4Q5ZN47	Irland	USD	NASDAQ National Market System	Equity	Ba2	NASDAQ Composite Index	Health Care	0.0001772481
+1023	NOMURA RESEARCH INSTITUTE	JP3762800005	Japan	JPY	Tokyo Stock Exchange	Equity	-	TOPIX Index	Information Technology	0.0001771687
+1024	AGEAS	BE0974264930	Belgien	EUR	Euronext Brussels	Equity	-	BEL 20 Index	Financials	0.0001768819
+1025	TORAY INDUSTRIES	JP3621000003	Japan	JPY	Tokyo Stock Exchange	Equity	-	TOPIX Index	Materials	0.0001764059
+1026	NORTHERN STAR RESOURCES	AU000000NST8	Australien	AUD	Australian Stock Exchange	Equity	-	ASX All Ordinaries Index	Materials	0.0001762414
+1027	ASX	AU000000ASX7	Australien	AUD	Australian Stock Exchange	Equity	Aa3	ASX All Ordinaries Index	Financials	0.0001762303
+1028	LINDT AND SPRUENGLI	CH0010570759	Schweiz	CHF	Scoach Switzerland	Equity	-	Swiss Market Index	Consumer Staples	0.0001760822
+1029	RANDSTAD HLDGS.	NL0000379121	Niederlande	EUR	Euronext Amsterdam	Equity	-	Amsterdam Exchanges Index	Industrials	0.000175833
+1030	LIBERTY GLOBAL  C	GB00B8W67B19	Vereinigtes Königreich	USD	NASDAQ National Market System	Equity	-	NASDAQ Composite Index	Communication Services	0.0001755021
+1031	APOLLO GLB MGT RG-A	US03768E1055	Vereinigte Staaten	USD	New York Stock Exchange	Equity	-	S&P 500 Index	Financials	0.0001752287
+1032	ASAHI GLASS	JP3112000009	Japan	JPY	Tokyo Stock Exchange	Equity	A2	TOPIX Index	Industrials	0.0001750512
+1033	VEREIT RG	US92339V3087	Vereinigte Staaten	USD	New York Stock Exchange	Equity	-	S&P 500 Index	Real Estate	0.0001746992
+1034	BCE	CA05534B7604	Kanada	CAD	Toronto Stock Exchange	Equity	Baa2	S&P/TSX COMPOSITE Index	Communication Services	0.000174698
+1035	SANTOS	AU000000STO6	Australien	AUD	Australian Stock Exchange	Equity	Baa1	ASX All Ordinaries Index	Energy	0.0001742113
+1036	NTT DATA	JP3165700000	Japan	JPY	Tokyo Stock Exchange	Equity	-	TOPIX Index	Information Technology	0.0001740799
+1037	SWISS PRIME SITE	CH0008038389	Schweiz	CHF	Scoach Switzerland	Equity	-	Swiss Market Index	Real Estate	0.000173087
+1038	PINNACLE WEST CAPITAL	US7234841010	Vereinigte Staaten	USD	New York Stock Exchange	Equity	Baa1	S&P 500 Index	Utilities	0.0001729884
+1039	NEUROCRINE BIOSCIENCES	 INC.	Vereinigte Staaten	USD	NASDAQ National Market System	Equity	-	NASDAQ Composite Index	Health Care	0.000172662
+1040	SANDS Volksrepublik China	KYG7800X1079	Macau	HKD	-	Equity	-	Hang Seng Index	Consumer Discretionary	0.0001724517
+1041	UNITED UTILITIES GR.	GB00B39J2M42	Vereinigtes Königreich	GBP	London Stock Exchange	Equity	-	FTSE 100 Index	Utilities	0.0001722055
+1042	LINDT & SPRUNGLI	CH0010570767	Schweiz	CHF	Scoach Switzerland	Equity	-	Swiss Market Index	Consumer Staples	0.0001721132
+1043	ERSTE BANK	AT0000652011	Österreich	EUR	Vienna Stock Exchange	Equity	Baa1	Austrian Traded Index	Financials	0.0001716606
+1044	DISCO CORP	JP3548600000	Japan	JPY	Tokyo Stock Exchange	Equity	-	TOPIX Index	Information Technology	0.0001716538
+1045	ELISA COMMUNICATION	FI0009007884	Finnland	EUR	Helsinki Stock Exchange	Equity	Baa2	OMX Helsinki Index	Communication Services	0.0001716323
+1046	YASKAWA ELECTRIC CORP	JP3932000007	Japan	JPY	Tokyo Stock Exchange	Equity	-	TOPIX Index	Industrials	0.0001715121
+1047	COCHLEAR	AU000000COH5	Australien	AUD	Australian Stock Exchange	Equity	-	ASX All Ordinaries Index	Health Care	0.000171409
+1048	SUNCORP GR.	AU000000SUN6	Australien	AUD	Australian Stock Exchange	Equity	A2	ASX All Ordinaries Index	Financials	0.0001709894
+1049	WEST JAPAN RAILWAY	JP3659000008	Japan	JPY	Tokyo Stock Exchange	Equity	-	TOPIX Index	Industrials	0.0001695973
+1050	SHIMADZU	JP3357200009	Japan	JPY	Tokyo Stock Exchange	Equity	-	TOPIX Index	Information Technology	0.0001695274
+1051	PEARSON	GB0006776081	Vereinigtes Königreich	GBP	London Stock Exchange	Equity	Baa1	FTSE 100 Index	Communication Services	0.0001692222
+1052	TOYOTA TSUSHO	JP3635000007	Japan	JPY	Tokyo Stock Exchange	Equity	A2	TOPIX Index	Industrials	0.0001681643
+1053	INSURANCE AUSTRALIA GROUP	AU000000IAG3	Australien	AUD	Australian Stock Exchange	Equity	A2	ASX All Ordinaries Index	Financials	0.0001679445
+1054	EVEREST REINSURANCE GROUP	BMG3223R1088	Bermuda	USD	New York Stock Exchange	Equity	A3	S&P 500 Index	Financials	0.0001679405
+1055	ATLANTIA	IT0003506190	Italien	EUR	Milan Stock Exchange	Equity	Baa1	FTSE Italia All-Share Index	Industrials	0.0001677869
+1056	OMV	AT0000743059	Österreich	EUR	Vienna Stock Exchange	Equity	A3	Austrian Traded Index	Energy	0.0001667155
+1057	SAPUTO	CA8029121057	Kanada	CAD	Toronto Stock Exchange	Equity	B1	S&P/TSX COMPOSITE Index	Consumer Staples	0.0001666252
+1058	THALES	FR0000121329	Frankreich	EUR	Euronext Paris	Equity	A2	CAC 40 Index	Industrials	0.0001658832
+1059	LEAR	US5218652049	Vereinigte Staaten	USD	New York Stock Exchange	Equity	-	S&P 500 Index	Consumer Discretionary	0.0001653413
+1060	SUMITOMO CHEMICAL	JP3401400001	Japan	JPY	Tokyo Stock Exchange	Equity	-	TOPIX Index	Materials	0.0001649303
+1061	SMITH (A.O.)	US8318652091	Vereinigte Staaten	USD	New York Stock Exchange	Equity	-	S&P 500 Index	Industrials	0.0001648628
+1062	SOUTH32	AU000000S320	Australien	AUD	Australian Stock Exchange	Equity	-	ASX All Ordinaries Index	Materials	0.0001646137
+1063	CABLE ONE	US12685J1051	Vereinigte Staaten	USD	New York Stock Exchange	Equity	-	S&P 500 Index	Communication Services	0.0001645795
+1064	KNORR BREMSE	DE000KBX1006	Deutschland	EUR	XETRA	Equity	-	DAX Index	Industrials	0.0001643899
+1065	OWENS CORNING	US6907421019	Vereinigte Staaten	USD	New York Stock Exchange	Equity	-	S&P 500 Index	Industrials	0.0001643619
+1066	UGI	US9026811052	Vereinigte Staaten	USD	New York Stock Exchange	Equity	-	NYSE Composite Index	Utilities	0.000163091
+1067	KIKKOMAN CORP.	JP3240400006	Japan	JPY	Tokyo Stock Exchange	Equity	-	TOPIX Index	Consumer Staples	0.0001630577
+1068	MINEBEA	JP3906000009	Japan	JPY	Tokyo Stock Exchange	Equity	-	TOPIX Index	Industrials	0.0001624587
+1069	HEICO CORP. (A)	US4228062083	Vereinigte Staaten	USD	New York Stock Exchange	Equity	-	S&P 500 Index	Industrials	0.0001624565
+1070	GLOBE LIFE RG	US37959E1029	Vereinigte Staaten	USD	New York Stock Exchange	Equity	-	S&P 500 Index	Financials	0.0001623974
+1071	VOLKSWAGEN ST.	DE0007664005	Deutschland	EUR	XETRA	Equity	A3	DAX Index	Consumer Discretionary	0.0001621078
+1072	ASSURANT	US04621X1081	Vereinigte Staaten	USD	New York Stock Exchange	Equity	-	S&P 500 Index	Financials	0.0001607005
+1073	SOUTHWEST AIRLINES	US8447411088	Vereinigte Staaten	USD	New York Stock Exchange	Equity	Baa3	S&P 500 Index	Industrials	0.0001604108
+1074	WHITBREAD	GB00B1KJJ408	Vereinigtes Königreich	GBP	London Stock Exchange	Equity	-	FTSE 100 Index	Consumer Discretionary	0.0001600873
+1075	TAYLOR WIMPEY	GB0008782301	Vereinigtes Königreich	GBP	London Stock Exchange	Equity	Ba2	FTSE 100 Index	Consumer Discretionary	0.000160086
+1076	M&G RG	GB00BKFB1C65	Vereinigtes Königreich	GBP	-	Equity	-	-	Financials	0.0001600104
+1077	SKANSKA B	SE0000113250	Schweden	SEK	Stockholm Stock Exchange	Equity	-	OMX Stockholm 30 Index	Industrials	0.0001599391
+1078	ROLLINS INC	US7757111049	Vereinigte Staaten	USD	New York Stock Exchange	Equity	-	S&P 500 Index	Industrials	0.0001593448
+1079	SEALED AIR CORP	US81211K1007	Vereinigte Staaten	USD	New York Stock Exchange	Equity	-	S&P 500 Index	Materials	0.0001591736
+1080	EDF-ELECTR. DE FR.	FR0010242511	Frankreich	EUR	Euronext Paris	Equity	Aa3	CAC 40 Index	Utilities	0.000159173
+1081	CAMPBELL SOUP	US1344291091	Vereinigte Staaten	USD	New York Stock Exchange	Equity	A2	S&P 500 Index	Consumer Staples	0.0001591341
+1082	GEORGE WESTON	CA9611485090	Kanada	CAD	Toronto Stock Exchange	Equity	Baa2	S&P/TSX COMPOSITE Index	Consumer Staples	0.0001589127
+1083	SUEZ ENVIRONMENT	FR0010613471	Frankreich	EUR	Euronext Paris	Equity	A3	CAC 40 Index	Utilities	0.00015865
+1084	WH GROUP	KYG960071028	Hongkong	HKD	-	Equity	-	Hang Seng Index	Consumer Staples	0.0001578381
+1085	ST JAMES'S PLACE	GB0007669376	Vereinigtes Königreich	GBP	London Stock Exchange	Equity	-	FTSE 100 Index	Financials	0.0001576029
+1086	ARKEMA SA	FR0010313833	Frankreich	EUR	Euronext Paris	Equity	Baa2	CAC 40 Index	Materials	0.0001572959
+1087	DYNATRACE	US2681501092	Vereinigte Staaten	USD	New York Stock Exchange	Equity	-	S&P 500 Index	Information Technology	0.0001568174
+1088	JS GROUP	JP3626800001	Japan	JPY	Tokyo Stock Exchange	Equity	-	TOPIX Index	Industrials	0.0001567866
+1089	YARA INTL.	NO0010208051	Norwegen	NOK	Oslo Stock Exchange	Equity	Baa2	Oslo SE All-share Index	Materials	0.0001566877
+1090	JOHNSON MATTHEY	GB00BZ4BQC70	Vereinigtes Königreich	GBP	London Stock Exchange	Equity	-	FTSE 100 Index	Materials	0.0001565956
+1091	SKF AB B	SE0000108227	Schweden	SEK	Stockholm Stock Exchange	Equity	Baa1	OMX Stockholm 30 Index	Industrials	0.0001561213
+1092	RESONA HLDGS.	JP3500610005	Japan	JPY	Tokyo Stock Exchange	Equity	-	TOPIX Index	Financials	0.0001560714
+1094	CAE	CA1247651088	Kanada	CAD	Toronto Stock Exchange	Equity	-	S&P/TSX COMPOSITE Index	Industrials	0.0001558185
+1095	ALLEGHANY	US0171751003	Vereinigte Staaten	USD	New York Stock Exchange	Equity	Baa2	S&P 500 Index	Financials	0.0001556237
+1096	REINSURNCE GR.	US7593516047	Vereinigte Staaten	USD	New York Stock Exchange	Equity	-	S&P 500 Index	Financials	0.000155619
+1097	EXOR HLDG	NL0012059018	Niederlande	EUR	Milan Stock Exchange	Equity	-	FTSE Italia All-Share Index	Financials	0.0001554999
+1098	AEGON	NL0000303709	Niederlande	EUR	Euronext Amsterdam	Equity	A3	Amsterdam Exchanges Index	Financials	0.000155
+1099	HUNTINGTON INGALLS INDUSTRIES	US4464131063	Vereinigte Staaten	USD	New York Stock Exchange	Equity	Ba3	S&P 500 Index	Industrials	0.0001549776
+1100	HONG KONG ELECTRIC HLDGS.	HK0006000050	Hongkong	HKD	-	Equity	-	Hang Seng Index	Utilities	0.0001547788
+1101	ARAMARK HLDGS	US03852U1060	Vereinigte Staaten	USD	New York Stock Exchange	Equity	-	S&P 500 Index	Consumer Discretionary	0.0001546436
+1102	SEVERN TRENT	GB00B1FH8J72	Vereinigtes Königreich	GBP	London Stock Exchange	Equity	Baa1	FTSE 100 Index	Utilities	0.0001542729
+1103	AJINOMOTO	JP3119600009	Japan	JPY	Tokyo Stock Exchange	Equity	Aa3	TOPIX Index	Consumer Staples	0.0001541451
+1104	MAKITA CORP.	JP3862400003	Japan	JPY	Tokyo Stock Exchange	Equity	-	TOPIX Index	Industrials	0.0001538392
+1105	DON QUIJOTE	JP3639650005	Japan	JPY	Tokyo Stock Exchange	Equity	-	TOPIX Index	Consumer Discretionary	0.0001530636
+1106	ALTICE USA	US02156K1034	Vereinigte Staaten	USD	New York Stock Exchange	Equity	-	S&P 500 Index	Communication Services	0.0001530534
+1107	ADECCO	CH0012138605	Schweiz	CHF	Scoach Switzerland	Equity	Baa3	Swiss Market Index	Industrials	0.0001529618
+1108	KYOWA HAKKO KIRIN	JP3256000005	Japan	JPY	Tokyo Stock Exchange	Equity	-	TOPIX Index	Health Care	0.0001526368
+1109	AMERICAN FINCL GRP	US0259321042	Vereinigte Staaten	USD	New York Stock Exchange	Equity	Baa2	S&P 500 Index	Financials	0.0001523892
+1110	NEW WORLD DEVELOPMENT	HK0000608585	Hongkong	HKD	-	Equity	-	-	Real Estate	0.0001521655
+1111	KINROSS	CA4969024047	Kanada	CAD	Toronto Stock Exchange	Equity	Baa3	S&P/TSX COMPOSITE Index	Materials	0.0001520534
+1112	GAS NATURAL SDG	ES0116870314	Spanien	EUR	Mercado Continuo Espana	Equity	Baa2	IBEX 35 Index	Utilities	0.0001518581
+1113	TELIA	SE0000667925	Schweden	SEK	Stockholm Stock Exchange	Equity	A3	OMX Stockholm 30 Index	Communication Services	0.0001516871
+1114	STOCKLAND	AU000000SGP0	Australien	AUD	Australian Stock Exchange	Equity	A3	ASX All Ordinaries Index	Real Estate	0.000151417
+1115	LIBERTY MEDIA (C)	US5312298541	Vereinigte Staaten	USD	NASDAQ National Market System	Equity	-	NASDAQ Composite Index	Communication Services	0.000151289
+1116	OMEGA HEALTHCARE INVESTORS	US6819361006	Vereinigte Staaten	USD	New York Stock Exchange	Equity	-	S&P 500 Index	Real Estate	0.0001512521
+1117	NRG ENERGY	US6293775085	Vereinigte Staaten	USD	New York Stock Exchange	Equity	B1	S&P 500 Index	Utilities	0.0001505928
+1118	DCC	IE0002424939	Irland	GBP	London Stock Exchange	Equity	-	FTSE 100 Index	Industrials	0.00015043
+1119	NEXI	IT0005366767	Italien	EUR	-	Equity	-	-	Information Technology	0.0001502793
+1120	SCOUT24	DE000A12DM80	Deutschland	EUR	XETRA	Equity	-	DAX Index	Communication Services	0.000150168
+1121	CAPITAMALL TRUST	SG1M51904654	Singapur	SGD	-	Equity	-	-	Real Estate	0.0001499584
+1122	MTR CORPORATION	HK0066009694	Hongkong	HKD	-	Equity	-	Hang Seng Index	Industrials	0.0001499115
+1123	SEI INVESTMENTS	US7841171033	Vereinigte Staaten	USD	NASDAQ National Market System	Equity	-	NASDAQ Composite Index	Financials	0.000149859
+1124	ADMIRAL GROUP	GB00B02J6398	Vereinigtes Königreich	GBP	London Stock Exchange	Equity	-	FTSE 100 Index	Financials	0.0001496964
+1125	ROBERT HALF	US7703231032	Vereinigte Staaten	USD	New York Stock Exchange	Equity	-	S&P 500 Index	Industrials	0.0001495442
+1126	DROPBOX	US26210C1045	Vereinigte Staaten	USD	NASDAQ National Market System	Equity	-	NASDAQ Composite Index	Information Technology	0.0001495367
+1127	NEC ELECTRONICS CORP	JP3164720009	Japan	JPY	Tokyo Stock Exchange	Equity	-	TOPIX Index	Information Technology	0.000149299
+1128	GRIFOLS	ES0171996087	Spanien	EUR	Mercado Continuo Espana	Equity	-	IBEX 35 Index	Health Care	0.0001488496
+1129	RICOH CO.	JP3973400009	Japan	JPY	Tokyo Stock Exchange	Equity	A2	TOPIX Index	Information Technology	0.0001474764
+1130	HARGREAVES LANSDOWN	GB00B1VZ0M25	Vereinigtes Königreich	GBP	London Stock Exchange	Equity	-	FTSE 100 Index	Financials	0.0001473081
+1131	IMPERIAL OIL	CA4530384086	Kanada	CAD	Toronto Stock Exchange	Equity	Aaa	S&P/TSX COMPOSITE Index	Energy	0.0001472261
+1132	PRYSMIAN	IT0004176001	Italien	EUR	Milan Stock Exchange	Equity	-	FTSE Italia All-Share Index	Industrials	0.0001471549
+1133	SEEK	AU000000SEK6	Australien	AUD	Australian Stock Exchange	Equity	-	ASX All Ordinaries Index	Communication Services	0.000146959
+1134	CYBERAGENT	JP3311400000	Japan	JPY	Tokyo Stock Exchange	Equity	-	TOPIX Index	Communication Services	0.0001468765
+1135	EMS N	CH0016440353	Schweiz	CHF	Scoach Switzerland	Equity	-	Swiss Market Index	Materials	0.0001467538
+1136	KINNEVIK RG-B	SE0015810247	Schweden	SEK	-	Equity	-	-	Financials	0.0001466666
+1137	YAMATO HLDGS.	JP3940000007	Japan	JPY	Tokyo Stock Exchange	Equity	-	TOPIX Index	Industrials	0.0001463459
+1138	GREAT WEST LIFECO	CA39138C1068	Kanada	CAD	Toronto Stock Exchange	Equity	A1	S&P/TSX COMPOSITE Index	Financials	0.0001460931
+1139	AUTO TRADER	GB00BVYVFW23	Vereinigtes Königreich	GBP	London Stock Exchange	Equity	-	FTSE 100 Index	Communication Services	0.0001460604
+1140	GECINA	FR0010040865	Frankreich	EUR	Euronext Paris	Equity	Baa2	CAC 40 Index	Real Estate	0.0001456594
+1141	ACS ACTIV.CONSTR. Y SERV.	ES0167050915	Spanien	EUR	Mercado Continuo Espana	Equity	-	IBEX 35 Index	Industrials	0.0001452438
+1142	JUNIPER NETWORKS	US48203R1041	Vereinigte Staaten	USD	New York Stock Exchange	Equity	Baa2	S&P 500 Index	Information Technology	0.0001449355
+1143	EQT RG	SE0012853455	Schweden	SEK	-	Equity	-	-	Financials	0.0001446023
+1144	MISUMI GROUP	JP3885400006	Japan	JPY	Tokyo Stock Exchange	Equity	-	TOPIX Index	Industrials	0.0001445464
+1145	TOKYO GAS	JP3573000001	Japan	JPY	Tokyo Stock Exchange	Equity	Aa3	TOPIX Index	Utilities	0.0001443133
+1146	ATHENE HLDG.	BMG0684D1074	Bermuda	USD	New York Stock Exchange	Equity	-	S&P 500 Index	Financials	0.0001442356
+1147	DRAFTKINGS	US26142R1041	Vereinigte Staaten	USD	NASDAQ National Market System	Equity	-	NASDAQ Composite Index	Consumer Discretionary	0.0001436061
+1148	JAPAN REAL ESTATE INV.	JP3027680002	Japan	JPY	Tokyo Stock Exchange	Equity	-	TOPIX Index	Real Estate	0.0001427133
+1149	RED ELECTRICA CORP	ES0173093024	Spanien	EUR	Mercado Continuo Espana	Equity	-	IBEX 35 Index	Utilities	0.0001426932
+1150	ENDESA	ES0130670112	Spanien	EUR	Mercado Continuo Espana	Equity	Baa2	IBEX 35 Index	Utilities	0.0001426734
+1151	BLUESCOPE STEEL	AU000000BSL0	Australien	AUD	Australian Stock Exchange	Equity	Ba2	ASX All Ordinaries Index	Materials	0.0001426517
+1152	VOYA FIN.	US9290891004	Vereinigte Staaten	USD	New York Stock Exchange	Equity	Baa3	S&P 500 Index	Financials	0.0001426128
+1153	GUIDEWIRE SOFTWARE	US40171V1008	Vereinigte Staaten	USD	New York Stock Exchange	Equity	-	S&P 500 Index	Information Technology	0.0001425838
+1154	DISCOVERY COMM. C	US25470F3029	Vereinigte Staaten	USD	NASDAQ National Market System	Equity	Baa2	NASDAQ Composite Index	Communication Services	0.0001423895
+1155	NIPPON BUILDING FUND	JP3027670003	Japan	JPY	Tokyo Stock Exchange	Equity	-	TOPIX Index	Real Estate	0.0001420463
+1156	EIFFAGE	FR0000130452	Frankreich	EUR	Euronext Paris	Equity	-	CAC 40 Index	Industrials	0.0001418883
+1157	TABCORP	AU000000TAH8	Australien	AUD	Australian Stock Exchange	Equity	Baa3	ASX All Ordinaries Index	Consumer Discretionary	0.0001418554
+1158	CHUBU ELECTRIC POWER	JP3526600006	Japan	JPY	Tokyo Stock Exchange	Equity	-	TOPIX Index	Utilities	0.0001417635
+1159	BUREAU VERITAS	FR0006174348	Frankreich	EUR	Euronext Paris	Equity	-	CAC 40 Index	Industrials	0.0001414469
+1160	CCL INDUSTRIES INC.	CA1249003098	Kanada	CAD	Toronto Stock Exchange	Equity	-	S&P/TSX COMPOSITE Index	Materials	0.0001412994
+1161	CAMECO	CA13321L1085	Kanada	CAD	Toronto Stock Exchange	Equity	-	S&P/TSX COMPOSITE Index	Energy	0.0001401839
+1162	DAIWA SEC.	JP3502200003	Japan	JPY	Tokyo Stock Exchange	Equity	Baa3	TOPIX Index	Financials	0.0001385513
+1163	TREND MICRO	JP3637300009	Japan	JPY	Tokyo Stock Exchange	Equity	-	TOPIX Index	Information Technology	0.0001384516
+1164	MEIJI HLDGS.	JP3918000005	Japan	JPY	Tokyo Stock Exchange	Equity	-	TOPIX Index	Consumer Staples	0.0001383956
+1165	GAMESA	ES0143416115	Spanien	EUR	Mercado Continuo Espana	Equity	-	IBEX 35 Index	Industrials	0.0001383402
+1166	EPIROC RG-B	SE0015658117	Schweden	SEK	-	Equity	-	-	Industrials	0.0001382824
+1167	YAMAHA	JP3942600002	Japan	JPY	Tokyo Stock Exchange	Equity	-	TOPIX Index	Consumer Discretionary	0.0001380499
+1168	ROHM COMPANY	JP3982800009	Japan	JPY	Tokyo Stock Exchange	Equity	-	TOPIX Index	Information Technology	0.0001378626
+1169	WM MORRISON SUPERMARKETS	GB0006043169	Vereinigtes Königreich	GBP	London Stock Exchange	Equity	Baa2	FTSE 100 Index	Consumer Staples	0.0001376754
+1170	RENAULT	FR0000131906	Frankreich	EUR	Euronext Paris	Equity	Ba1	CAC 40 Index	Consumer Discretionary	0.0001375868
+1171	DELTA AIR LINES	US2473617023	Vereinigte Staaten	USD	New York Stock Exchange	Equity	B1	S&P 500 Index	Industrials	0.0001372383
+1172	DEXUS PROPERTY GROUP	AU000000DXS1	Australien	AUD	Australian Stock Exchange	Equity	A3	ASX All Ordinaries Index	Real Estate	0.0001371136
+1173	TMX GROUP LIMITED COM CAD NPV	CA87262K1057	Kanada	CAD	Toronto Stock Exchange	Equity	B1	S&P/TSX COMPOSITE Index	Financials	0.000136894
+1174	CABOT OIL & GAS	US1270971039	Vereinigte Staaten	USD	New York Stock Exchange	Equity	-	S&P 500 Index	Energy	0.0001361331
+1175	ODAKYU ELECTRIC RAILWAY	JP3196000008	Japan	JPY	Tokyo Stock Exchange	Equity	-	TOPIX Index	Industrials	0.0001360242
+1176	RENAISSANCERE HLDGS.	BMG7496G1033	Bermuda	USD	New York Stock Exchange	Equity	A3	FTSE Italia All-Share Index	Financials	0.0001359207
+1177	NIHON M&A CENTER	JP3689050007	Japan	JPY	Tokyo Stock Exchange	Equity	-	TOPIX Index	Industrials	0.0001358857
+1178	ANTOFAGASTA	GB0000456144	Vereinigtes Königreich	GBP	London Stock Exchange	Equity	-	FTSE 100 Index	Materials	0.0001358602
+1179	AIRBNB	US0090661010	Vereinigte Staaten	USD	-	Equity	-	-	Consumer Discretionary	0.0001352223
+1180	SG HLDGS.	JP3162770006	Japan	JPY	Tokyo Stock Exchange	Equity	-	TOPIX Index	Industrials	0.0001346978
+1181	DAITO TRUST CONSTR.	JP3486800000	Japan	JPY	Tokyo Stock Exchange	Equity	-	TOPIX Index	Real Estate	0.0001342491
+1182	SENSATA TECH(S) RG	GB00BFMBMT84	Vereinigte Staaten	USD	-	Equity	-	-	Industrials	0.0001342101
+1183	HIKMA PHARMACEUTICALS	GB00B0LCW083	Vereinigtes Königreich	GBP	London Stock Exchange	Equity	-	FTSE 100 Index	Health Care	0.0001338743
+1184	T&D HLDGS.	JP3539220008	Japan	JPY	Tokyo Stock Exchange	Equity	-	TOPIX Index	Financials	0.000133807
+1185	NORTHLAND POWER	CA6665111002	Kanada	CAD	Toronto Stock Exchange	Equity	-	S&P/TSX COMPOSITE Index	Utilities	0.0001336032
+1186	REA GROUP	AU000000REA9	Australien	AUD	Australian Stock Exchange	Equity	-	ASX All Ordinaries Index	Communication Services	0.0001331736
+1187	IPG PHOTONICS CORP	US44980X1090	Vereinigte Staaten	USD	NASDAQ National Market System	Equity	-	NASDAQ Composite Index	Information Technology	0.0001326388
+1188	KEIO CORP.	JP3277800003	Japan	JPY	Tokyo Stock Exchange	Equity	-	TOPIX Index	Industrials	0.0001326119
+1189	JSR CORP	JP3385980002	Japan	JPY	Tokyo Stock Exchange	Equity	-	TOPIX Index	Materials	0.0001325918
+1190	LIBERTY MEDIA - SIRIUSXM C	US5312296073	Vereinigte Staaten	USD	NASDAQ National Market System	Equity	-	NASDAQ Composite Index	Communication Services	0.0001325793
+1191	VISTRA ENERGY CORP	US92840M1027	Vereinigte Staaten	USD	New York Stock Exchange	Equity	-	S&P 500 Index	Utilities	0.0001319141
+1192	SMITHS GROUP	GB00B1WY2338	Vereinigtes Königreich	GBP	London Stock Exchange	Equity	Baa2	FTSE 100 Index	Industrials	0.0001314016
+1193	SODEXO	FR0000121220	Frankreich	EUR	Euronext Paris	Equity	A3	CAC 40 Index	Consumer Discretionary	0.0001312726
+1194	HANKYU HANSHIN HLDGS.	JP3774200004	Japan	JPY	Tokyo Stock Exchange	Equity	-	TOPIX Index	Industrials	0.0001310209
+1195	NIPPON EXPRESS	JP3729400006	Japan	JPY	Tokyo Stock Exchange	Equity	-	TOPIX Index	Industrials	0.0001309402
+1196	BOUYGUES	FR0000120503	Frankreich	EUR	Euronext Paris	Equity	Baa1	CAC 40 Index	Industrials	0.0001307871
+1197	ISUZU MOTORS	JP3137200006	Japan	JPY	Tokyo Stock Exchange	Equity	-	TOPIX Index	Consumer Discretionary	0.0001307625
+1198	VALEO	FR0013176526	Frankreich	EUR	Euronext Paris	Equity	-	CAC 40 Index	Consumer Discretionary	0.0001299743
+1199	GPT GROUP UNIT	AU000000GPT8	Australien	AUD	Australian Stock Exchange	Equity	A3	ASX All Ordinaries Index	Real Estate	0.0001298719
+1200	YAMAHA MOTOR	JP3942800008	Japan	JPY	Tokyo Stock Exchange	Equity	A3	TOPIX Index	Consumer Discretionary	0.0001298687
+1201	TRYG	DK0060636678	Dänemark	DKK	Copenhagen Stock Exchange	Equity	-	OMX COPENHAGEN 20 Index	Financials	0.0001293989
+1202	NOMURA REAL ESTATE MASTER FD.	JP3048110005	Japan	JPY	Tokyo Stock Exchange	Equity	-	TOPIX Index	Real Estate	0.0001292865
+1203	TOTO	JP3596200000	Japan	JPY	Tokyo Stock Exchange	Equity	-	TOPIX Index	Industrials	0.0001291772
+1204	HAMAMATSU PHOTONICS KK	JP3771800004	Japan	JPY	Tokyo Stock Exchange	Equity	-	TOPIX Index	Information Technology	0.0001289938
+1205	RECORDATI	IT0003828271	Italien	EUR	Milan Stock Exchange	Equity	-	FTSE Italia All-Share Index	Health Care	0.0001286105
+1206	AUTOLIV	US0528001094	Schweden	USD	New York Stock Exchange	Equity	-	S&P 500 Index	Consumer Discretionary	0.0001285166
+1207	COCA-COLA HBC	CH0198251305	Schweiz	GBP	London Stock Exchange	Equity	Baa1	FTSE 100 Index	Consumer Staples	0.0001283107
+1208	ORPEA	FR0000184798	Frankreich	EUR	Euronext Paris	Equity	-	CAC 40 Index	Health Care	0.0001280333
+1209	STANDARD LIFE RG	GB00BF8Q6K64	Vereinigtes Königreich	GBP	-	Equity	-	-	Financials	0.0001276325
+1210	GEA GROUP	DE0006602006	Deutschland	EUR	XETRA	Equity	Baa3	DAX Index	Industrials	0.0001274591
+1211	GLP J-REIT	JP3047510007	Japan	JPY	Tokyo Stock Exchange	Equity	-	TOPIX Index	Real Estate	0.0001270245
+1212	SIRIUS XM RADIO	US82968B1035	Vereinigte Staaten	USD	NASDAQ National Market System	Equity	B1	NASDAQ Composite Index	Communication Services	0.0001267907
+1213	JAPAN RETAIL FD INVESTM.	JP3039710003	Japan	JPY	Tokyo Stock Exchange	Equity	-	TOPIX Index	Real Estate	0.0001267236
+1214	KOITO MANUFACTURING	JP3284600008	Japan	JPY	Tokyo Stock Exchange	Equity	-	TOPIX Index	Consumer Discretionary	0.0001266062
+1215	ROYAL PHARM RG -A	GB00BMVP7Y09	Vereinigte Staaten	USD	NASDAQ National Market System	Equity	-	NASDAQ Composite Index	Health Care	0.0001263441
+1216	CARL-ZEISS MEDITEC	DE0005313704	Deutschland	EUR	XETRA	Equity	-	DAX Index	Health Care	0.0001262711
+1217	HENDERSON LAND DEVELOPMENT	HK0012000102	Hongkong	HKD	-	Equity	-	Hang Seng Index	Real Estate	0.00012623
+1218	INPEX CORP	JP3294460005	Japan	JPY	Tokyo Stock Exchange	Equity	A2	TOPIX Index	Energy	0.0001260074
+1219	TRADEWEB MARKETS	US8926721064	Vereinigte Staaten	USD	NASDAQ National Market System	Equity	-	NASDAQ Composite Index	Financials	0.000125976
+1220	WILMAR INTL.	SG1T56930848	Singapur	SGD	-	Equity	-	-	Consumer Staples	0.0001259471
+1221	KAJIMA CORP.	JP3210200006	Japan	JPY	Tokyo Stock Exchange	Equity	-	TOPIX Index	Industrials	0.0001255361
+1222	DENTSU	JP3551520004	Japan	JPY	Tokyo Stock Exchange	Equity	-	TOPIX Index	Communication Services	0.0001253546
+1223	ASCENDAS REAL ESTATE	SG1M77906915	Singapur	SGD	-	Equity	-	-	Real Estate	0.0001253179
+1224	UNIPER	DE000UNSE018	Deutschland	EUR	XETRA	Equity	-	DAX Index	Utilities	0.000125316
+1225	VIFOR PHARMA	CH0364749348	Schweiz	CHF	Scoach Switzerland	Equity	-	Swiss Market Index	Health Care	0.000123966
+1226	NIPPON PROLOGIS	JP3047550003	Japan	JPY	Tokyo Stock Exchange	Equity	-	TOPIX Index	Real Estate	0.0001237538
+1227	UBISOFT	FR0000054470	Frankreich	EUR	Euronext Paris	Equity	-	CAC 40 Index	Communication Services	0.0001233581
+1228	YAKULT HONSHA	JP3931600005	Japan	JPY	Tokyo Stock Exchange	Equity	-	TOPIX Index	Consumer Staples	0.0001231921
+1229	MIRVAC GROUP STAPLED SECURITIES	AU000000MGR9	Australien	AUD	Australian Stock Exchange	Equity	Baa1	ASX All Ordinaries Index	Real Estate	0.0001229826
+1230	PAN AMERICAN SILVER	CA6979001089	Kanada	CAD	Toronto Stock Exchange	Equity	-	S&P/TSX COMPOSITE Index	Materials	0.0001229538
+1231	AUCKLAND INTL. AIRPORT	NZAIAE0002S6	Neuseeland	NZD	New Zealand Exchange	Equity	-	-	Industrials	0.0001228928
+1232	EMPIRE	CA2918434077	Kanada	CAD	Toronto Stock Exchange	Equity	-	S&P/TSX COMPOSITE Index	Consumer Staples	0.000122703
+1233	WEST FRASER	CA9528451052	Kanada	CAD	Toronto Stock Exchange	Equity	Baa3	S&P/TSX COMPOSITE Index	Materials	0.0001225896
+1234	ONO PHARMACEUTICAL	JP3197600004	Japan	JPY	Tokyo Stock Exchange	Equity	-	TOPIX Index	Health Care	0.0001224035
+1235	KANSAI EL. POWER	JP3228600007	Japan	JPY	Tokyo Stock Exchange	Equity	A3	TOPIX Index	Utilities	0.0001220028
+1236	AROUNDTOWN	LU1673108939	Luxemburg	EUR	XETRA	Equity	-	DAX Index	Real Estate	0.0001219488
+1237	ACCOR	FR0000120404	Frankreich	EUR	Euronext Paris	Equity	Baa3	CAC 40 Index	Consumer Discretionary	0.0001210342
+1238	EVOLUTION MINING	AU000000EVN4	Australien	AUD	Australian Stock Exchange	Equity	-	ASX All Ordinaries Index	Materials	0.0001209937
+1239	BALOISE	CH0012410517	Schweiz	CHF	Scoach Switzerland	Equity	-	Swiss Market Index	Financials	0.0001208087
+1240	NORSK HYDRO	NO0005052605	Norwegen	NOK	Oslo Stock Exchange	Equity	Baa2	Oslo SE All-share Index	Materials	0.0001206586
+1241	BARRY CALLEBAUT	CH0009002962	Schweiz	CHF	Scoach Switzerland	Equity	-	Swiss Market Index	Consumer Staples	0.000120464
+1242	SAINSBURY (J)	GB00B019KW72	Vereinigtes Königreich	GBP	London Stock Exchange	Equity	-	FTSE 100 Index	Consumer Staples	0.000119582
+1243	HONG KONG LAND	BMG4587L1090	Bermuda	USD	-	Equity	-	-	Real Estate	0.0001193668
+1244	INTER PIPELINE	CA45833V1094	Kanada	CAD	Toronto Stock Exchange	Equity	-	S&P/TSX COMPOSITE Index	Energy	0.0001193463
+1245	NISSAN CHEMICAL	JP3670800006	Japan	JPY	Tokyo Stock Exchange	Equity	-	TOPIX Index	Materials	0.0001188631
+1246	MEDIBANK PVT.	AU000000MPL3	Australien	AUD	Australian Stock Exchange	Equity	-	ASX All Ordinaries Index	Financials	0.0001173263
+1247	LEND LEASE CORPORATION	AU000000LLC3	Australien	AUD	Australian Stock Exchange	Equity	Baa3	ASX All Ordinaries Index	Real Estate	0.0001172716
+1248	ATOS	FR0000051732	Frankreich	EUR	Euronext Paris	Equity	-	CAC 40 Index	Information Technology	0.0001156755
+1249	XINYI GLASS HLDGS	KYG9828G1082	Hongkong	HKD	Tokyo Stock Exchange	Equity	-	TOPIX Index	Industrials	0.0001156581
+1250	CAESR ENTMT RG	US12769G1004	Vereinigte Staaten	USD	NASDAQ National Market System	Equity	-	NASDAQ Composite Index	Consumer Discretionary	0.0001152986
+1251	TELE2 -B-	SE0005190238	Schweden	SEK	Stockholm Stock Exchange	Equity	-	OMX Stockholm 30 Index	Communication Services	0.0001152454
+1252	BECHTLE	DE0005158703	Deutschland	EUR	XETRA	Equity	-	DAX Index	Information Technology	0.0001151079
+1253	JD SPORTS FASHION	GB00BYX91H57	Vereinigtes Königreich	GBP	London Stock Exchange	Equity	-	FTSE 100 Index	Consumer Discretionary	0.0001148335
+1254	ORKLA	NO0003733800	Norwegen	NOK	Oslo Stock Exchange	Equity	-	Oslo SE All-share Index	Consumer Staples	0.0001148138
+1255	TOBU RAILWAY	JP3597800006	Japan	JPY	Tokyo Stock Exchange	Equity	-	TOPIX Index	Industrials	0.0001147546
+1256	BERKELEY GR.HLDGS.	GB00B02L3W35	Vereinigtes Königreich	GBP	London Stock Exchange	Equity	-	FTSE 100 Index	Consumer Discretionary	0.0001142778
+1257	LUNDIN MINING CORP	CA5503721063	Kanada	CAD	Toronto Stock Exchange	Equity	-	S&P/TSX COMPOSITE Index	Materials	0.0001139853
+1258	RITCHIE BROS. AUCTIONEER	CA7677441056	Kanada	CAD	Toronto Stock Exchange	Equity	-	S&P/TSX COMPOSITE Index	Industrials	0.0001137966
+1259	TREASURY WINE ESTATES	AU000000TWE9	Australien	AUD	Australian Stock Exchange	Equity	-	ASX All Ordinaries Index	Consumer Staples	0.0001133968
+1260	SOFINA	BE0003717312	Belgien	EUR	Euronext Brussels	Equity	-	BEL 20 Index	Financials	0.0001129132
+1261	DISCOVERY COMM. A	US25470F1049	Vereinigte Staaten	USD	NASDAQ National Market System	Equity	Baa2	NASDAQ Composite Index	Communication Services	0.0001127537
+1262	TOSOH	JP3595200001	Japan	JPY	Tokyo Stock Exchange	Equity	-	TOPIX Index	Materials	0.0001127018
+1263	GFL ENVIRONMENTAL	CA36168Q1046	Kanada	CAD	-	Equity	-	-	Industrials	0.0001126926
+1264	LUNDIN PETROLEUM	SE0000825820	Schweden	SEK	Stockholm Stock Exchange	Equity	-	OMX Stockholm 30 Index	Energy	0.0001121122
+1265	SBI HLDGS.	JP3436120004	Japan	JPY	Tokyo Stock Exchange	Equity	B1	TOPIX Index	Financials	0.0001120525
+1266	EVONIK INDUSTRIES	DE000EVNK013	Deutschland	EUR	XETRA	Equity	Baa2	DAX Index	Materials	0.0001119526
+1267	AXALTA COATING SYSTEMS	BMG0750C1082	Vereinigte Staaten	USD	New York Stock Exchange	Equity	-	S&P 500 Index	Materials	0.0001119384
+1268	MOLLER MAERSK	DK0010244425	Dänemark	DKK	Copenhagen Stock Exchange	Equity	Baa1	OMX COPENHAGEN 20 Index	Industrials	0.0001116859
+1269	KURITA WATER	JP3270000007	Japan	JPY	Tokyo Stock Exchange	Equity	-	TOPIX Index	Industrials	0.0001115324
+1270	KINTETSU CORP	JP3260800002	Japan	JPY	Tokyo Stock Exchange	Equity	-	TOPIX Index	Industrials	0.0001112015
+1271	OTSUKA CORP	JP3188200004	Japan	JPY	Tokyo Stock Exchange	Equity	-	TOPIX Index	Information Technology	0.0001111729
+1272	DAV CAM MIL RG	NL0015435975	Italien	EUR	-	Equity	-	-	Consumer Staples	0.0001111339
+1273	AISIN SEIKI	JP3102000001	Japan	JPY	Tokyo Stock Exchange	Equity	A1	TOPIX Index	Consumer Discretionary	0.0001109684
+1274	TAISEI	JP3443600006	Japan	JPY	Tokyo Stock Exchange	Equity	-	TOPIX Index	Industrials	0.0001107679
+1275	TEAMVIEWER	DE000A2YN900	Deutschland	EUR	-	Equity	-	DAX Index	Information Technology	0.0001104411
+1276	KEPPEL	SG1U68934629	Singapur	SGD	-	Equity	-	-	Industrials	0.0001102609
+1277	TOROMONT INDUSTRIES	CA8911021050	Kanada	CAD	Toronto Stock Exchange	Equity	-	S&P/TSX COMPOSITE Index	Industrials	0.0001101459
+1278	BROOKF EXCH SV RG-A	CA11284V1058	Vereinigte Staaten	CAD	New York Stock Exchange	Equity	-	S&P 500 Index	Utilities	0.0001100279
+1279	ISRAEL DISCOUNT BANK	IL0006912120	Israel	ILS	Tokyo Stock Exchange	Equity	-	TOPIX Index	Financials	0.0001098016
+1280	SNOWFLAKE	US8334451098	Vereinigte Staaten	USD	New York Stock Exchange	Equity	-	S&P 500 Index	Information Technology	0.0001097422
+1281	LANXESS	DE0005470405	Deutschland	EUR	XETRA	Equity	Baa2	DAX Index	Materials	0.000109613
+1282	ESR CAYMAN RG	KYG319891092	Hongkong	HKD	-	Equity	-	-	Real Estate	0.0001092462
+1283	BUDWEISER BREWING	KYG1674K1013	Hongkong	HKD	-	Equity	-	-	Consumer Staples	0.0001086251
+1284	OGE ENERGY	US6708371033	Vereinigte Staaten	USD	New York Stock Exchange	Equity	-	S&P 500 Index	Utilities	0.0001083652
+1285	OIL SEARCH	PG0008579883	Papua-Neuguinea	AUD	Australian Stock Exchange	Equity	-	ASX All Ordinaries Index	Energy	0.000108363
+1286	GILDAN ACTIVEWEAR	CA3759161035	Kanada	CAD	Toronto Stock Exchange	Equity	-	S&P/TSX COMPOSITE Index	Consumer Discretionary	0.0001083142
+1287	KION GROUP	DE000KGX8881	Deutschland	EUR	XETRA	Equity	-	DAX Index	Industrials	0.0001070764
+1288	FIRSTSERVICE CORP	CA33767E2024	Kanada	CAD	Toronto Stock Exchange	Equity	-	S&P/TSX COMPOSITE Index	Real Estate	0.0001068307
+1289	VERBUND	AT0000746409	Österreich	EUR	Vienna Stock Exchange	Equity	Baa1	Austrian Traded Index	Utilities	0.0001067963
+1290	AMBU B	DK0060946788	Dänemark	DKK	-	Equity	-	-	Health Care	0.000106646
+1291	LIBERTY GLOBAL  A	GB00B8W67662	Vereinigtes Königreich	USD	NASDAQ National Market System	Equity	Ba3	NASDAQ Composite Index	Communication Services	0.0001064689
+1292	SUMCO	JP3322930003	Japan	JPY	Tokyo Stock Exchange	Equity	-	TOPIX Index	Information Technology	0.0001064399
+1293	SHIMIZU CORP.	JP3358800005	Japan	JPY	Tokyo Stock Exchange	Equity	-	TOPIX Index	Industrials	0.0001061446
+1294	SUNTORY BEVERAGE & FOOD	JP3336560002	Japan	JPY	Tokyo Stock Exchange	Equity	-	TOPIX Index	Consumer Staples	0.0001060584
+1295	COMMERZBANK	DE000CBK1001	Deutschland	EUR	XETRA	Equity	Baa1	DAX Index	Financials	0.0001059665
+1296	SEKISUI CHEMICAL	JP3419400001	Japan	JPY	Tokyo Stock Exchange	Equity	-	TOPIX Index	Consumer Discretionary	0.0001056744
+1297	MONOTARO	JP3922950005	Japan	JPY	Tokyo Stock Exchange	Equity	-	TOPIX Index	Industrials	0.0001056656
+1298	CAPCOM	JP3218900003	Japan	JPY	Tokyo Stock Exchange	Equity	-	TOPIX Index	Communication Services	0.0001051587
+1299	INDUSTRIVAERDEN A	SE0000190126	Schweden	SEK	Stockholm Stock Exchange	Equity	-	OMX Stockholm 30 Index	Financials	0.0001051133
+1300	SCHRODERS SHS. VOTING	GB0002405495	Vereinigtes Königreich	GBP	London Stock Exchange	Equity	-	FTSE 100 Index	Financials	0.0001050975
+1301	BROTHER INDUSTRIES	JP3830000000	Japan	JPY	Tokyo Stock Exchange	Equity	-	TOPIX Index	Information Technology	0.0001050466
+1302	VORNADO REALTY TRUST	US9290421091	Vereinigte Staaten	USD	New York Stock Exchange	Equity	Baa2	S&P 500 Index	Real Estate	0.0001044392
+1303	KLEPIERRE	FR0000121964	Frankreich	EUR	Euronext Paris	Equity	A3	CAC 40 Index	Real Estate	0.0001043815
+1304	HUSQVARNA (B)	SE0001662230	Schweden	SEK	Stockholm Stock Exchange	Equity	-	OMX Stockholm 30 Index	Consumer Discretionary	0.0001041687
+1305	COMPUTERSHARE	AU000000CPU5	Australien	AUD	Australian Stock Exchange	Equity	-	ASX All Ordinaries Index	Information Technology	0.0001041012
+1306	SINGAPORE EXCHANGE	SG1J26887955	Singapur	SGD	-	Equity	-	-	Financials	0.0001036654
+1307	CAPITALAND	SG1J27887962	Singapur	SGD	-	Equity	-	-	Real Estate	0.000102792
+1308	HAKON INVESTMENT	SE0000652216	Schweden	SEK	Stockholm Stock Exchange	Equity	-	OMX Stockholm 30 Index	Consumer Staples	0.0001025099
+1309	TELECOM CORP OF NEW ZEALAND	NZTELE0001S4	Neuseeland	NZD	New Zealand Exchange	Equity	A3	NZX 50 Index	Communication Services	0.0001024452
+1310	MEDIOBANCA	IT0000062957	Italien	EUR	Milan Stock Exchange	Equity	Baa2	FTSE Italia All-Share Index	Financials	0.0001019715
+1311	KOSE CORP	JP3283650004	Japan	JPY	Tokyo Stock Exchange	Equity	-	TOPIX Index	Consumer Staples	0.0001016342
+1312	MITSUI CHEMICALS	JP3888300005	Japan	JPY	Tokyo Stock Exchange	Equity	-	TOPIX Index	Materials	0.0001015328
+1313	TOKYO EL. POWER	JP3585800000	Japan	JPY	Tokyo Stock Exchange	Equity	B1	TOPIX Index	Utilities	0.0001013587
+1314	ABN AMRO GR.	NL0011540547	Niederlande	EUR	Euronext Amsterdam	Equity	-	Amsterdam Exchanges Index	Financials	0.0001012508
+1316	CONCORDIA FINL. GR.	JP3305990008	Japan	JPY	Tokyo Stock Exchange	Equity	-	TOPIX Index	Financials	0.0001007661
+1317	SINO LAND CO	HK0083000502	Hongkong	HKD	-	Equity	-	Hang Seng Index	Real Estate	0.0001002237
+1318	NIPPON YUSEN K.K.	JP3753000003	Japan	JPY	Tokyo Stock Exchange	Equity	Baa2	TOPIX Index	Industrials	0.0001001099
+1319	OSAKA GAS	JP3180400008	Japan	JPY	Tokyo Stock Exchange	Equity	Aa3	TOPIX Index	Utilities	0.0000998547
+1320	KNIGHT-SWIFT TRANSP. HLDGS	US4990491049	Vereinigte Staaten	USD	New York Stock Exchange	Equity	-	S&P 500 Index	Industrials	0.0000998349
+1321	ZILLOW GROUP	US98954M1018	Vereinigte Staaten	USD	NASDAQ National Market System	Equity	-	NASDAQ Composite Index	Communication Services	0.0000996531
+1322	POSTE ITALIANE	IT0003796171	Italien	EUR	Milan Stock Exchange	Equity	-	FTSE Italia All-Share Index	Financials	0.0000993721
+1323	OJI PAPER	JP3174410005	Japan	JPY	Tokyo Stock Exchange	Equity	-	TOPIX Index	Materials	0.0000993313
+1324	ENAGAS	ES0130960018	Spanien	EUR	Mercado Continuo Espana	Equity	Baa2	IBEX 35 Index	Utilities	0.0000993203
+1325	TOPPAN PRINTING	JP3629000005	Japan	JPY	Tokyo Stock Exchange	Equity	-	TOPIX Index	Industrials	0.0000991645
+1326	ELECTROLUX B	SE0000103814	Schweden	SEK	Stockholm Stock Exchange	Equity	Baa1	OMX Stockholm 30 Index	Consumer Discretionary	0.0000989008
+1327	DAINIPPON PRINTING	JP3493800001	Japan	JPY	Tokyo Stock Exchange	Equity	-	TOPIX Index	Industrials	0.0000984061
+1328	ASAHI INTECC	JP3110650003	Japan	JPY	Tokyo Stock Exchange	Equity	-	TOPIX Index	Health Care	0.0000983455
+1329	KONAMI CORP	JP3300200007	Japan	JPY	Tokyo Stock Exchange	Equity	-	TOPIX Index	Communication Services	0.0000982104
+1330	SYDNEY AIRPORT HLDGS.	AU000000SYD9	Australien	AUD	Australian Stock Exchange	Equity	-	ASX All Ordinaries Index	Industrials	0.0000980685
+1331	GETLINK	FR0010533075	Frankreich	EUR	Euronext Paris	Equity	-	CAC 40 Index	Industrials	0.0000977477
+1332	DIRECT LINE INS. GR.	GB00BY9D0Y18	Vereinigtes Königreich	GBP	London Stock Exchange	Equity	-	FTSE 100 Index	Financials	0.0000971905
+1333	JFE HLDGS.	JP3386030005	Japan	JPY	Tokyo Stock Exchange	Equity	Baa1	TOPIX Index	Materials	0.0000971461
+1334	IT HLDGS. CORP	JP3104890003	Japan	JPY	Tokyo Stock Exchange	Equity	-	TOPIX Index	Information Technology	0.0000966663
+1335	CANOPY GROWTH	CA1380351009	Kanada	CAD	-	Equity	-	-	Health Care	0.0000963619
+1336	AMERCO	US0235861004	Vereinigte Staaten	USD	NASDAQ National Market System	Equity	-	NASDAQ Composite Index	Industrials	0.0000963092
+1337	PPD RG	US69355F1021	Vereinigte Staaten	USD	NASDAQ National Market System	Equity	-	NASDAQ Composite Index	Health Care	0.0000959748
+1338	SCOR SE	FR0010411983	Frankreich	EUR	Euronext Paris	Equity	A1	CAC 40 Index	Financials	0.0000958993
+1339	ERIE INDEMNITY COMPANY	US29530P1021	Vereinigte Staaten	USD	NASDAQ National Market System	Equity	-	NASDAQ Composite Index	Financials	0.0000954882
+1340	WILLIAM DEMANT	DK0060738599	Dänemark	DKK	Copenhagen Stock Exchange	Equity	-	OMX COPENHAGEN 20 Index	Health Care	0.0000954855
+1341	HIROSE ELECTRIC	JP3799000009	Japan	JPY	Tokyo Stock Exchange	Equity	-	TOPIX Index	Information Technology	0.0000948774
+1342	VENTURE MANUF. (SI)	SG0531000230	Singapur	SGD	-	Equity	-	-	Information Technology	0.0000946874
+1343	KOBAYASHI PHARMACEUTICAL	JP3301100008	Japan	JPY	Tokyo Stock Exchange	Equity	-	TOPIX Index	Consumer Staples	0.000094198
+1344	LAND SECURITIES GR.	GB00BYW0PQ60	Vereinigtes Königreich	GBP	-	Equity	-	-	Real Estate	0.0000938785
+1345	VOESTALPINE	AT0000937503	Österreich	EUR	Vienna Stock Exchange	Equity	-	Austrian Traded Index	Materials	0.0000937423
+1346	ORICA	AU000000ORI1	Australien	AUD	Australian Stock Exchange	Equity	Baa2	ASX All Ordinaries Index	Materials	0.0000935774
+1347	DAIWA HOUSE	JP3046390005	Japan	JPY	Tokyo Stock Exchange	Equity	-	TOPIX Index	Real Estate	0.0000935255
+1348	STANLEY ELECTRIC	JP3399400005	Japan	JPY	Tokyo Stock Exchange	Equity	-	TOPIX Index	Consumer Discretionary	0.0000934557
+1349	AMPOL RG	AU0000088338	Australien	AUD	-	Equity	-	-	Energy	0.0000922079
+1350	SUNRUN	US86771W1053	Vereinigte Staaten	USD	NASDAQ National Market System	Equity	-	NASDAQ Composite Index	Industrials	0.0000920928
+1351	SHIZUOKA BANK	JP3351200005	Japan	JPY	Tokyo Stock Exchange	Equity	-	TOPIX Index	Financials	0.0000918583
+1352	BIOMERIEUX	FR0013280286	Frankreich	EUR	-	Equity	-	-	Health Care	0.0000918472
+1353	ALTAGAS	CA0213611001	Kanada	CAD	Toronto Stock Exchange	Equity	Baa2	S&P/TSX COMPOSITE Index	Utilities	0.0000916054
+1354	RYOHIN KEIKAKU	JP3976300008	Japan	JPY	Tokyo Stock Exchange	Equity	-	TOPIX Index	Consumer Discretionary	0.0000915543
+1355	FONCIERE DES REGIONS	FR0000064578	Frankreich	EUR	Euronext Paris	Equity	Baa3	CAC 40 Index	Real Estate	0.0000915184
+1356	MERIDIAN ENERGY (PARTLY PAID)	NZMELE0002S7	Neuseeland	NZD	New Zealand Exchange	Equity	-	-	Utilities	0.0000914652
+1357	KANSAI PAINT	JP3229400001	Japan	JPY	Tokyo Stock Exchange	Equity	-	TOPIX Index	Materials	0.0000913771
+1358	TOKYU CORP.	JP3574200006	Japan	JPY	Tokyo Stock Exchange	Equity	-	TOPIX Index	Industrials	0.0000913416
+1359	LUNDBERGFORETAGEN AB B	SE0000108847	Schweden	SEK	Stockholm Stock Exchange	Equity	A1	OMX Stockholm 30 Index	Financials	0.0000913322
+1360	CHEWY INC.	US16679L1098	Vereinigte Staaten	USD	New York Stock Exchange	Equity	-	S&P 500 Index	Consumer Discretionary	0.0000909674
+1361	FUJI ELECTRIC	JP3820000002	Japan	JPY	Tokyo Stock Exchange	Equity	-	TOPIX Index	Industrials	0.0000907541
+1362	AVEVA GROUP	GB00BBG9VN75	Vereinigtes Königreich	GBP	London Stock Exchange	Equity	-	FTSE 100 Index	Information Technology	0.0000905941
+1363	KEYERA	CA4932711001	Kanada	CAD	Toronto Stock Exchange	Equity	-	S&P/TSX COMPOSITE Index	Energy	0.0000905585
+1364	SQUARE ENIX HLDGS.	JP3164630000	Japan	JPY	Tokyo Stock Exchange	Equity	-	TOPIX Index	Communication Services	0.0000902319
+1365	TOHO GAS	JP3600200004	Japan	JPY	Tokyo Stock Exchange	Equity	-	TOPIX Index	Utilities	0.000090203
+1366	B2GOLD CORP.	CA11777Q2099	Kanada	CAD	Toronto Stock Exchange	Equity	-	S&P/TSX COMPOSITE Index	Materials	0.0000900337
+1367	AURIZON HLDGS	AU000000AZJ1	Australien	AUD	Australian Stock Exchange	Equity	Baa1	ASX All Ordinaries Index	Industrials	0.0000896438
+1368	USS CO.	JP3944130008	Japan	JPY	Tokyo Stock Exchange	Equity	-	TOPIX Index	Consumer Discretionary	0.0000893153
+1369	SANTEN PHARMACEUTICAL	JP3336000009	Japan	JPY	Tokyo Stock Exchange	Equity	-	TOPIX Index	Health Care	0.000088671
+1370	SINGAPORE AIRLINES	SG1V61937297	Singapur	SGD	-	Equity	-	-	Industrials	0.00008857
+1371	GALP ENERGIA	PTGAL0AM0009	Portugal	EUR	Euronext Lisbon	Equity	-	-	Energy	0.0000885691
+1372	NATIXIS	FR0000120685	Frankreich	EUR	Euronext Paris	Equity	A2	CAC 40 Index	Financials	0.0000882148
+1373	SECURITAS	SE0000163594	Schweden	SEK	Stockholm Stock Exchange	Equity	Baa2	OMX Stockholm 30 Index	Industrials	0.0000880247
+1374	TOHO	JP3598600009	Japan	JPY	Tokyo Stock Exchange	Equity	-	TOPIX Index	Communication Services	0.0000876399
+1375	CYBERARK SOFTWARE	IL0011334468	Israel	USD	NASDAQ National Market System	Equity	-	NASDAQ Composite Index	Information Technology	0.0000876006
+1376	FAURECIA	FR0000121147	Frankreich	EUR	Euronext Paris	Equity	B3	CAC 40 Index	Consumer Discretionary	0.0000872896
+1377	SEIKO EPSON	JP3414750004	Japan	JPY	Tokyo Stock Exchange	Equity	-	TOPIX Index	Information Technology	0.0000870914
+1378	AMPLIFON	IT0004056880	Italien	EUR	Milan Stock Exchange	Equity	-	FTSE Italia All-Share Index	Health Care	0.0000869231
+1379	TSURUHA	JP3536150000	Japan	JPY	Tokyo Stock Exchange	Equity	-	TOPIX Index	Consumer Staples	0.0000865086
+1380	HANG LUNG PROPERTIES	HK0101000591	Hongkong	HKD	-	Equity	-	Hang Seng Index	Real Estate	0.0000863599
+1381	KINNEVIK RG-B I21	SE0015797600	Schweden	SEK	-	Equity	-	-	unknown	0.0000852029
+1382	DIASORIN	IT0003492391	Italien	EUR	Milan Stock Exchange	Equity	-	FTSE Italia All-Share Index	Health Care	0.0000851914
+1383	INDUSTRIEVAERDEN C	SE0000107203	Schweden	SEK	Stockholm Stock Exchange	Equity	A3	OMX Stockholm 30 Index	Financials	0.000084996
+1384	QUEBECOR INC	CA7481932084	Kanada	CAD	Toronto Stock Exchange	Equity	B1	S&P/TSX COMPOSITE Index	Communication Services	0.0000849191
+1385	NABTESCO	JP3651210001	Japan	JPY	Tokyo Stock Exchange	Equity	-	TOPIX Index	Industrials	0.0000845851
+1386	LION CORPORATION	JP3965400009	Japan	JPY	Tokyo Stock Exchange	Equity	-	TOPIX Index	Consumer Staples	0.0000845499
+1387	BRITISH LAND	GB0001367019	Vereinigtes Königreich	GBP	London Stock Exchange	Equity	-	FTSE 100 Index	Real Estate	0.0000844563
+1388	ICL-ISRAEL CHEMICALS	IL0002810146	Israel	ILS	-	Equity	-	-	Materials	0.0000841723
+1389	GMO PAYMENT GATEWAY	JP3385890003	Japan	JPY	Tokyo Stock Exchange	Equity	-	TOPIX Index	Information Technology	0.0000841543
+1390	BLACKBERRY	CA09228F1036	Kanada	CAD	Toronto Stock Exchange	Equity	B1	S&P/TSX COMPOSITE Index	Information Technology	0.0000841044
+1391	REMY COINTREAU	FR0000130395	Frankreich	EUR	Euronext Paris	Equity	Baa3	CAC 40 Index	Consumer Staples	0.0000838617
+1392	IA FINL.	CA45075E1043	Kanada	CAD	-	Equity	-	-	Financials	0.0000835298
+1393	FASTIGHETS BALDER	SE0000455057	Schweden	SEK	Stockholm Stock Exchange	Equity	-	OMX Stockholm 30 Index	Real Estate	0.0000833382
+1394	IONIS PHARMA	US4622221004	Vereinigte Staaten	USD	NASDAQ National Market System	Equity	-	NASDAQ Composite Index	Health Care	0.0000827876
+1395	OBAYASHI	JP3190000004	Japan	JPY	Tokyo Stock Exchange	Equity	-	TOPIX Index	Industrials	0.000082643
+1396	SWIRE PACIFIC A	HK0019000162	Hongkong	HKD	-	Equity	-	Hang Seng Index	Real Estate	0.0000822226
+1397	HIKARI TSUSHIN	JP3783420007	Japan	JPY	Tokyo Stock Exchange	Equity	-	TOPIX Index	Consumer Discretionary	0.0000820242
+1398	HKT TRUST	HK0000093390	Hongkong	HKD	-	Equity	-	Hang Seng Index	Communication Services	0.0000820038
+1399	HEICO CORP	US4228061093	Vereinigte Staaten	USD	New York Stock Exchange	Equity	-	S&P 500 Index	Industrials	0.0000815481
+1400	ONEX	CA68272K1030	Kanada	CAD	Toronto Stock Exchange	Equity	-	S&P/TSX COMPOSITE Index	Financials	0.0000814235
+1401	YAMATAKE CORP.	JP3937200008	Japan	JPY	Tokyo Stock Exchange	Equity	-	TOPIX Index	Information Technology	0.0000813459
+1402	TOYO SUISAN KAISHA	JP3613000003	Japan	JPY	Tokyo Stock Exchange	Equity	-	TOPIX Index	Consumer Staples	0.0000810166
+1403	EVRAZ PLC.	GB00B71N6K86	Vereinigtes Königreich	GBP	London Stock Exchange	Equity	-	FTSE 100 Index	Materials	0.0000808539
+1404	ORIX JREIT	JP3040880001	Japan	JPY	-	Equity	-	-	Real Estate	0.0000802432
+1405	SCHIBSTED (B)	NO0010736879	Norwegen	NOK	Oslo Stock Exchange	Equity	-	Oslo SE All-share Index	Communication Services	0.0000798563
+1406	THE CARLYLE GRP RG	US14316J1088	Vereinigte Staaten	USD	NASDAQ National Market System	Equity	-	NASDAQ Composite Index	Financials	0.0000796879
+1407	GJENSIDIGE FORSIKRING	NO0010582521	Norwegen	NOK	Oslo Stock Exchange	Equity	A2	Oslo SE All-share Index	Financials	0.000079672
+1408	ORION B	FI0009014377	Finnland	EUR	Helsinki Stock Exchange	Equity	-	OMX Helsinki Index	Health Care	0.0000795733
+1409	BOLLORE	FR0000039299	Frankreich	EUR	Euronext Paris	Equity	-	CAC 40 Index	Communication Services	0.0000793256
+1410	FOX RG-B	US35137L2043	Vereinigte Staaten	USD	NASDAQ National Market System	Equity	-	NASDAQ Composite Index	Communication Services	0.0000792693
+1411	ITO EN	JP3143000002	Japan	JPY	Tokyo Stock Exchange	Equity	-	TOPIX Index	Consumer Staples	0.0000790829
+1412	YAMANA GOLD	CA98462Y1007	Kanada	CAD	Toronto Stock Exchange	Equity	-	S&P/TSX COMPOSITE Index	Materials	0.0000790756
+1413	AMUNDI	FR0004125920	Frankreich	EUR	Euronext Paris	Equity	-	CAC 40 Index	Financials	0.0000788599
+1414	ORACLE JAPAN	JP3689500001	Japan	JPY	Tokyo Stock Exchange	Equity	-	TOPIX Index	Information Technology	0.0000773624
+1415	RATIONAL	DE0007010803	Deutschland	EUR	XETRA	Equity	-	DAX Index	Industrials	0.0000767636
+1416	LA FRANCAISE DES JEUX	FR0013451333	Frankreich	EUR	-	Equity	-	-	Consumer Discretionary	0.0000764513
+1417	KEIHAN ELECTRIC RAILWAY	JP3279400000	Japan	JPY	Tokyo Stock Exchange	Equity	-	TOPIX Index	Industrials	0.0000763841
+1418	JAPAN POST INS.	JP3233250004	Japan	JPY	Tokyo Stock Exchange	Equity	-	TOPIX Index	Financials	0.0000762525
+1419	ASM PACIFIC TECHNOLOGY	KYG0535Q1331	Hongkong	HKD	-	Equity	-	Hang Seng Index	Information Technology	0.0000762251
+1420	UNITED URBAN INVEST.	JP3045540006	Japan	JPY	Tokyo Stock Exchange	Equity	-	TOPIX Index	Real Estate	0.0000759656
+1421	NGK INSULATORS	JP3695200000	Japan	JPY	Tokyo Stock Exchange	Equity	-	TOPIX Index	Industrials	0.0000759207
+1422	UNITED INTERNET	DE0005089031	Deutschland	EUR	XETRA	Equity	-	DAX Index	Communication Services	0.0000755812
+1423	NISSIN FOOD	JP3675600005	Japan	JPY	Tokyo Stock Exchange	Equity	-	TOPIX Index	Consumer Staples	0.0000754894
+1424	BMW VZ.	DE0005190037	Deutschland	EUR	XETRA	Equity	-	DAX Index	Consumer Discretionary	0.0000754289
+1425	TELECOM ITALIA	IT0003497168	Italien	EUR	Milan Stock Exchange	Equity	Ba1	FTSE Italia All-Share Index	Communication Services	0.0000752852
+1426	JAPAN AIRLINES	JP3705200008	Japan	JPY	Tokyo Stock Exchange	Equity	-	TOPIX Index	Industrials	0.0000752433
+1427	ORIGIN ENERGY	AU000000ORG5	Australien	AUD	Australian Stock Exchange	Equity	Baa2	ASX All Ordinaries Index	Energy	0.0000748325
+1428	AEROPORTS DE PARIS	FR0010340141	Frankreich	EUR	Euronext Paris	Equity	A1	CAC 40 Index	Industrials	0.0000748101
+1429	SEB S.A.	FR0000121709	Frankreich	EUR	Euronext Paris	Equity	-	CAC 40 Index	Consumer Discretionary	0.0000747891
+1430	PHOENIX GRP RG	GB00BGXQNP29	Vereinigtes Königreich	GBP	-	Equity	-	-	Financials	0.0000745419
+1431	KAKAKU.COM	JP3206000006	Japan	JPY	Tokyo Stock Exchange	Equity	-	TOPIX Index	Communication Services	0.0000744821
+1432	MITSUBISHI UFJ LEASE & FINANCE	JP3499800005	Japan	JPY	Tokyo Stock Exchange	Equity	A3	TOPIX Index	Financials	0.0000737606
+1433	SINGAPORE TECH. ENG.	SG1F60858221	Singapur	SGD	-	Equity	-	-	Industrials	0.000073634
+1434	MIZRAHI TEFAHOT BANK	IL0006954379	Israel	ILS	-	Equity	-	-	Financials	0.000073521
+1435	HOSHIZAKI ELECTRIC	JP3845770001	Japan	JPY	Tokyo Stock Exchange	Equity	-	TOPIX Index	Industrials	0.0000734333
+1436	IBIDEN	JP3148800000	Japan	JPY	Tokyo Stock Exchange	Equity	-	TOPIX Index	Information Technology	0.0000730624
+1437	PEPTIDREAM	JP3836750004	Japan	JPY	Tokyo Stock Exchange	Equity	-	TOPIX Index	Health Care	0.0000727355
+1438	EURAZEO	FR0000121121	Frankreich	EUR	Euronext Paris	Equity	-	CAC 40 Index	Financials	0.0000723371
+1439	SWATCH N	CH0012255144	Schweiz	CHF	Scoach Switzerland	Equity	-	Swiss Market Index	Consumer Discretionary	0.0000720137
+1440	MELCO CROWN ADR	US5854641009	Hongkong	USD	NASDAQ National Market System	Equity	-	NASDAQ Composite Index	Consumer Discretionary	0.0000714563
+1441	NAGOYA RAILROAD	JP3649800004	Japan	JPY	Tokyo Stock Exchange	Equity	-	TOPIX Index	Industrials	0.0000714085
+1442	PIGEON CORP	JP3801600002	Japan	JPY	Tokyo Stock Exchange	Equity	-	TOPIX Index	Consumer Staples	0.0000710681
+1443	RYMAN HEALTHCARE	NZRYME0001S4	Neuseeland	NZD	New Zealand Exchange	Equity	-	-	Health Care	0.0000706456
+1444	IDEMITSU KOSAN	JP3142500002	Japan	JPY	Tokyo Stock Exchange	Equity	-	TOPIX Index	Energy	0.0000705279
+1445	MAPLETREE LOGISTICS TR.	SG1S03926213	Singapur	SGD	-	Equity	-	-	Real Estate	0.000069915
+1446	SCHINDLER	CH0024638212	Schweiz	CHF	Scoach Switzerland	Equity	-	Swiss Market Index	Industrials	0.0000698336
+1447	ALL NIPPON AIR	JP3429800000	Japan	JPY	Tokyo Stock Exchange	Equity	-	TOPIX Index	Industrials	0.000069779
+1448	LATOUR INV.	SE0010100958	Schweden	SEK	-	Equity	-	-	Industrials	0.0000693085
+1449	MCDONALD'S HLDGS JP	JP3750500005	Japan	JPY	Tokyo Stock Exchange	Equity	-	TOPIX Index	Consumer Discretionary	0.0000691176
+1450	JERONIMO MARTINS	PTJMT0AE0001	Portugal	EUR	Euronext Lisbon	Equity	-	-	Consumer Staples	0.0000690035
+1451	SHARP	JP3359600008	Japan	JPY	Tokyo Stock Exchange	Equity	B1	TOPIX Index	Consumer Discretionary	0.0000684363
+1452	KEISEI ELECTRIC RAILWAY	JP3278600006	Japan	JPY	Tokyo Stock Exchange	Equity	-	TOPIX Index	Industrials	0.0000683842
+1453	TELECOM ITALIA RISP NEW SHARES	IT0003497176	Italien	EUR	Milan Stock Exchange	Equity	Ba1	FTSE Italia All-Share Index	Communication Services	0.0000682451
+1454	MIURA	JP3880800002	Japan	JPY	Tokyo Stock Exchange	Equity	-	TOPIX Index	Industrials	0.000068234
+1455	KYUSHU RAILWAY	JP3247010006	Japan	JPY	Tokyo Stock Exchange	Equity	-	TOPIX Index	Industrials	0.0000680145
+1457	HITACHI METALS	JP3786200000	Japan	JPY	Tokyo Stock Exchange	Equity	-	TOPIX Index	Materials	0.0000671473
+1458	TEIJIN	JP3544000007	Japan	JPY	Tokyo Stock Exchange	Equity	-	TOPIX Index	Materials	0.0000669033
+1459	WARTSILA	FI0009003727	Finnland	EUR	Helsinki Stock Exchange	Equity	-	OMX Helsinki Index	Industrials	0.0000666025
+1460	IPSEN	FR0010259150	Frankreich	EUR	Euronext Paris	Equity	-	CAC 40 Index	Health Care	0.0000659924
+1461	AGL ENERGY	AU000000AGL7	Australien	AUD	Australian Stock Exchange	Equity	-	ASX All Ordinaries Index	Utilities	0.0000659265
+1462	ITOCHU TECHNO SOLUTIONS	JP3143900003	Japan	JPY	Tokyo Stock Exchange	Equity	-	TOPIX Index	Information Technology	0.0000658084
+1463	MERCARI RG	JP3921290007	Japan	JPY	-	Equity	-	-	Consumer Discretionary	0.000065765
+1464	BALLARD POWER SYSTEMS	CA0585861085	Kanada	CAD	-	Equity	-	-	Industrials	0.000065699
+1465	AIR CANADA	CA0089118776	Kanada	CAD	Toronto Stock Exchange	Equity	-	S&P/TSX COMPOSITE Index	Industrials	0.0000654442
+1466	YOKOGAWA ELECTRIC	JP3955000009	Japan	JPY	Tokyo Stock Exchange	Equity	-	TOPIX Index	Information Technology	0.00006542
+1467	SSR MINING	CA7847301032	Kanada	CAD	NASDAQ National Market System	Equity	-	NASDAQ Composite Index	Materials	0.000065156
+1468	TOHOKU ELECTRIC POWER	JP3605400005	Japan	JPY	Tokyo Stock Exchange	Equity	-	TOPIX Index	Utilities	0.0000648336
+1469	CLARIANT	CH0012142631	Schweiz	CHF	Scoach Switzerland	Equity	-	Swiss Market Index	Materials	0.0000638947
+1470	NEMETSCHEK	DE0006452907	Deutschland	EUR	XETRA	Equity	-	DAX Index	Information Technology	0.0000637823
+1471	GENTING SPORE RG	SGXE21576413	Singapur	SGD	-	Equity	-	-	Consumer Discretionary	0.0000637083
+1472	WYNN MACAU	KYG981491007	Macau	HKD	-	Equity	-	Hang Seng Index	Consumer Discretionary	0.0000635394
+1473	CK INFRASTRUCTURE HLDGS	BMG2178K1009	Hongkong	HKD	-	Equity	-	Hang Seng Index	Utilities	0.0000627262
+1474	DAINIPPON SUMITOMO PHARMA	JP3495000006	Japan	JPY	Tokyo Stock Exchange	Equity	-	TOPIX Index	Health Care	0.0000625267
+1475	INFRASTRUTTURE WIRELESS ITALIANE	IT0005090300	Italien	EUR	Milan Stock Exchange	Equity	-	FTSE Italia All-Share Index	Communication Services	0.0000625186
+1476	SUNTEC REAL EST.INVEST.TR.	SG1Q52922370	Singapur	SGD	-	Equity	-	-	Real Estate	0.0000623347
+1477	IIDA GROUP	JP3131090007	Japan	JPY	Tokyo Stock Exchange	Equity	-	TOPIX Index	Consumer Discretionary	0.0000620163
+1478	QANTAS AIRWAYS	AU000000QAN2	Australien	AUD	Australian Stock Exchange	Equity	Ba2	ASX All Ordinaries Index	Industrials	0.0000616685
+1479	START TODAY	JP3399310006	Japan	JPY	Tokyo Stock Exchange	Equity	-	TOPIX Index	Consumer Discretionary	0.0000616493
+1480	HAKUHODO DY HLDGS.	JP3766550002	Japan	JPY	Tokyo Stock Exchange	Equity	-	TOPIX Index	Communication Services	0.0000614877
+1481	KEIHIN EL.EXPR.RAILWAY	JP3280200001	Japan	JPY	Tokyo Stock Exchange	Equity	-	TOPIX Index	Industrials	0.000061472
+1482	TENARIS	LU0156801721	Luxemburg	EUR	Milan Stock Exchange	Equity	-	FTSE Italia All-Share Index	Energy	0.000061016
+1483	ROCKWOOL INTERNATIONAL	DK0010219153	Dänemark	DKK	Copenhagen Stock Exchange	Equity	-	OMX COPENHAGEN 20 Index	Industrials	0.0000609086
+1484	YAMADA DENKI	JP3939000000	Japan	JPY	Tokyo Stock Exchange	Equity	-	TOPIX Index	Consumer Discretionary	0.0000605494
+1485	TOKYU FUDOSAN	JP3569200003	Japan	JPY	Tokyo Stock Exchange	Equity	-	TOPIX Index	Real Estate	0.0000604561
+1486	RINNAI CORP.	JP3977400005	Japan	JPY	Tokyo Stock Exchange	Equity	-	TOPIX Index	Consumer Discretionary	0.0000603983
+1487	JAPAN POST BANK	JP3946750001	Japan	JPY	Tokyo Stock Exchange	Equity	-	TOPIX Index	Financials	0.0000603325
+1488	CASIO COMPUTER	JP3209000003	Japan	JPY	Tokyo Stock Exchange	Equity	Baa2	TOPIX Index	Consumer Discretionary	0.000059946
+1489	CNP ASSURANCES	FR0000120222	Frankreich	EUR	Euronext Paris	Equity	A2	CAC 40 Index	Financials	0.0000599276
+1490	GALAPAGOS	BE0003818359	Belgien	EUR	Euronext Amsterdam	Equity	-	Amsterdam Exchanges Index	Health Care	0.0000596469
+1491	PARKLAND RG	CA70137W1086	Kanada	CAD	-	Equity	-	-	Energy	0.0000593926
+1492	THK	JP3539250005	Japan	JPY	Tokyo Stock Exchange	Equity	-	TOPIX Index	Industrials	0.0000586581
+1493	MEDICEO PALTAC HLDGS.	JP3268950007	Japan	JPY	Tokyo Stock Exchange	Equity	-	TOPIX Index	Health Care	0.0000584238
+1494	DASSAULT AVIATION	FR0000121725	Frankreich	EUR	Euronext Paris	Equity	-	CAC 40 Index	Industrials	0.0000579818
+1495	ADEVINTA-B RG	NO0010844038	Norwegen	NOK	Oslo Stock Exchange	Equity	-	Oslo SE All-share Index	Communication Services	0.0000577186
+1496	KOBE BUSSAN	JP3291200008	Japan	JPY	Tokyo Stock Exchange	Equity	-	TOPIX Index	Consumer Staples	0.000057652
+1497	CAN. APARTMENT PROP. REAL EST. INVEST. TR.	CA1349211054	Kanada	CAD	-	Equity	-	-	Real Estate	0.000057648
+1498	PROXIMUS	BE0003810273	Belgien	EUR	Euronext Brussels	Equity	A1	BEL 20 Index	Communication Services	0.000057626
+1499	CHIBA BANK	JP3511800009	Japan	JPY	Tokyo Stock Exchange	Equity	A1	TOPIX Index	Financials	0.0000574032
+1500	HITACHI CONSTRUCTION MACHINERY	JP3787000003	Japan	JPY	Tokyo Stock Exchange	Equity	A3	TOPIX Index	Industrials	0.0000569919
+1501	AZRIELI GR.	IL0011194789	Israel	ILS	-	Equity	-	-	Real Estate	0.000056499
+1502	FUCHS PETROLUB SE	DE0005790430	Deutschland	EUR	XETRA	Equity	-	DAX Index	Materials	0.0000564672
+1503	VICINITY CENTRES RE	AU000000VCX7	Australien	AUD	Australian Stock Exchange	Equity	-	ASX All Ordinaries Index	Real Estate	0.0000564262
+1504	HINO MOTORS	JP3792600003	Japan	JPY	Tokyo Stock Exchange	Equity	-	TOPIX Index	Industrials	0.0000562856
+1505	MAZDA MOTOR	JP3868400007	Japan	JPY	Tokyo Stock Exchange	Equity	-	TOPIX Index	Consumer Discretionary	0.0000560392
+1506	SHOEI COMPANY	JP3360800001	Japan	JPY	Tokyo Stock Exchange	Equity	B1	TOPIX Index	Real Estate	0.0000559193
+1507	CANADIAN UTILITIES	CA1367178326	Kanada	CAD	Toronto Stock Exchange	Equity	A2	S&P/TSX COMPOSITE Index	Utilities	0.0000558324
+1508	ELIA SYSTEM OP.	BE0003822393	Belgien	EUR	Euronext Brussels	Equity	A3	BEL 20 Index	Utilities	0.0000554482
+1509	SCHIBSTED	NO0003028904	Norwegen	NOK	Oslo Stock Exchange	Equity	-	Oslo SE All-share Index	Communication Services	0.0000554276
+1510	MITSUBISHI GAS CHEMICAL	JP3896800004	Japan	JPY	Tokyo Stock Exchange	Equity	-	TOPIX Index	Materials	0.0000553221
+1511	NOMURA REAL ESTATE HLDGS.	JP3762900003	Japan	JPY	Tokyo Stock Exchange	Equity	-	TOPIX Index	Real Estate	0.0000551765
+1512	MAGELLAN FIN.GROUP	AU000000MFG4	Australien	AUD	Australian Stock Exchange	Equity	-	ASX All Ordinaries Index	Financials	0.0000547767
+1513	LUFTHANSA	DE0008232125	Deutschland	EUR	XETRA	Equity	Ba1	DAX Index	Industrials	0.0000546839
+1514	COLRUYT	BE0974256852	Belgien	EUR	Euronext Brussels	Equity	-	BEL 20 Index	Consumer Staples	0.0000544789
+1515	THE A2 MILK CO	NZATME0002S8	Neuseeland	NZD	New Zealand Exchange	Equity	-	-	Consumer Staples	0.0000543454
+1516	NIPPON MEAT PACKERS	JP3743000006	Japan	JPY	Tokyo Stock Exchange	Equity	-	TOPIX Index	Consumer Staples	0.0000542037
+1517	NISSHIN SEIFUN	JP3676800000	Japan	JPY	Tokyo Stock Exchange	Equity	-	TOPIX Index	Consumer Staples	0.0000540468
+1518	SWIRE PROPERTIES	HK0000063609	Hongkong	HKD	-	Equity	-	Hang Seng Index	Real Estate	0.0000540097
+1519	KYUSHU ELECTRIC POWER	JP3246400000	Japan	JPY	Tokyo Stock Exchange	Equity	-	TOPIX Index	Utilities	0.0000539764
+1520	FUKUOKA FINANCIAL	JP3805010000	Japan	JPY	Tokyo Stock Exchange	Equity	-	TOPIX Index	Financials	0.0000532525
+1521	MIGHTY RIVER POWER	NZMRPE0001S2	Neuseeland	NZD	New Zealand Exchange	Equity	Baa1	NZX 50 Index	Utilities	0.0000530468
+1522	TEMP HLDGS	JP3547670004	Japan	JPY	Tokyo Stock Exchange	Equity	-	TOPIX Index	Industrials	0.0000530261
+1523	VOPAK	NL0009432491	Niederlande	EUR	Euronext Amsterdam	Equity	-	Amsterdam Exchanges Index	Energy	0.0000527541
+1524	NSK	JP3720800006	Japan	JPY	Tokyo Stock Exchange	Equity	-	TOPIX Index	Industrials	0.0000523521
+1525	NIPPON SHINYAKU	JP3717600005	Japan	JPY	Tokyo Stock Exchange	Equity	-	TOPIX Index	Health Care	0.0000523439
+1526	TELEFONICA DEUTSCHLAND	DE000A1J5RX9	Deutschland	EUR	XETRA	Equity	-	DAX Index	Communication Services	0.0000521029
+1527	TECMO KOEI HLDGS.	JP3283460008	Japan	JPY	Tokyo Stock Exchange	Equity	-	TOPIX Index	Communication Services	0.0000519852
+1528	SEGA SAMMY HLDGS.	JP3419050004	Japan	JPY	Tokyo Stock Exchange	Equity	-	TOPIX Index	Consumer Discretionary	0.0000518982
+1529	RAIFFEISEN BANK	AT0000606306	Österreich	EUR	Vienna Stock Exchange	Equity	A2	Austrian Traded Index	Financials	0.0000518076
+1530	LIBERTY BROADBAND	US5303071071	Vereinigte Staaten	USD	NASDAQ National Market System	Equity	-	NASDAQ Composite Index	Communication Services	0.0000516783
+1531	CHUGOKU ELECTRIC POWER	JP3522200009	Japan	JPY	Tokyo Stock Exchange	Equity	A3	TOPIX Index	Utilities	0.0000515472
+1532	MARUI GROUP	JP3870400003	Japan	JPY	Tokyo Stock Exchange	Equity	-	TOPIX Index	Consumer Discretionary	0.0000515351
+1533	MAPLETREE COMMERCIAL TRUST	SG2D18969584	Singapur	SGD	-	Equity	-	-	Real Estate	0.0000513931
+1534	ALFRESA HLDGS. CORP	JP3126340003	Japan	JPY	Tokyo Stock Exchange	Equity	-	TOPIX Index	Health Care	0.0000508092
+1535	KURARAY	JP3269600007	Japan	JPY	Tokyo Stock Exchange	Equity	-	TOPIX Index	Materials	0.0000507377
+1536	HK ELECTRIC INV.	HK0000179108	Hongkong	HKD	-	Equity	-	Hang Seng Index	Utilities	0.0000506321
+1537	SES SA	LU0088087324	Luxemburg	EUR	Euronext Paris	Equity	-	CAC 40 Index	Communication Services	0.0000504842
+1538	SHIMAMURA	JP3358200008	Japan	JPY	Tokyo Stock Exchange	Equity	-	TOPIX Index	Consumer Discretionary	0.0000495423
+1539	GROWELL	JP3274280001	Japan	JPY	Tokyo Stock Exchange	Equity	-	TOPIX Index	Consumer Staples	0.0000494406
+1540	AIR WATER	JP3160670000	Japan	JPY	Tokyo Stock Exchange	Equity	-	TOPIX Index	Materials	0.0000490729
+1541	IGM FINANCIAL	CA4495861060	Kanada	CAD	Toronto Stock Exchange	Equity	A1	S&P/TSX COMPOSITE Index	Financials	0.0000490111
+1542	AMADA	JP3122800000	Japan	JPY	Tokyo Stock Exchange	Equity	-	TOPIX Index	Industrials	0.0000489814
+1544	WISETECH GLBL.	AU000000WTC3	Australien	AUD	-	Equity	-	-	Information Technology	0.0000488793
+1545	CROWN	AU000000CWN6	Australien	AUD	Australian Stock Exchange	Equity	Baa2	ASX All Ordinaries Index	Consumer Discretionary	0.0000488439
+1546	SOHGO SECURITY SERVICES	JP3431900004	Japan	JPY	Tokyo Stock Exchange	Equity	-	TOPIX Index	Industrials	0.0000483941
+1547	RIOCAN REIT	CA7669101031	Kanada	CAD	Toronto Stock Exchange	Equity	Baa2	S&P/TSX COMPOSITE Index	Real Estate	0.0000480516
+1548	HISAMITSU PHARMACEUTICAL	JP3784600003	Japan	JPY	Tokyo Stock Exchange	Equity	-	TOPIX Index	Health Care	0.0000480225
+1549	AMP	AU000000AMP6	Australien	AUD	Australian Stock Exchange	Equity	A2	ASX All Ordinaries Index	Financials	0.0000475065
+1550	TAIYO NIPPON SANSO	JP3711600001	Japan	JPY	Tokyo Stock Exchange	Equity	-	TOPIX Index	Materials	0.000047498
+1551	WENDEL	FR0000121204	Frankreich	EUR	Euronext Paris	Equity	Ba1	CAC 40 Index	Financials	0.0000471956
+1552	CIMIC	AU000000CIM7	Australien	AUD	Australian Stock Exchange	Equity	-	ASX All Ordinaries Index	Industrials	0.000047193
+1553	ATCO	CA0467894006	Kanada	CAD	Toronto Stock Exchange	Equity	A2	S&P/TSX COMPOSITE Index	Utilities	0.0000469709
+1554	BC VAUDOISE N	CH0531751755	Schweiz	CHF	-	Equity	-	Swiss Market Index	Financials	0.0000467474
+1555	COSMOS	JP3298400007	Japan	JPY	Tokyo Stock Exchange	Equity	-	TOPIX Index	Consumer Staples	0.0000467248
+1556	AUSNET SERVICES NPV	AU000000AST5	Australien	AUD	Australian Stock Exchange	Equity	-	ASX All Ordinaries Index	Utilities	0.0000464329
+1557	UOL GROUP	SG1S83002349	Singapur	SGD	-	Equity	-	-	Real Estate	0.0000460843
+1558	POLA ORBIS	JP3855900001	Japan	JPY	Tokyo Stock Exchange	Equity	-	TOPIX Index	Consumer Staples	0.0000460727
+1559	JDE PEET'S N.V	NL0014332678	Niederlande	EUR	Euronext Amsterdam	Equity	-	Amsterdam Exchanges Index	Consumer Staples	0.0000458055
+1560	SHINSEI BANK	JP3729000004	Japan	JPY	Tokyo Stock Exchange	Equity	Baa1	TOPIX Index	Financials	0.0000457378
+1561	COCA-COLA WEST	JP3293200006	Japan	JPY	Tokyo Stock Exchange	Equity	-	TOPIX Index	Consumer Staples	0.0000452317
+1562	SUMISHO COMPUTER SYSTEMS	JP3400400002	Japan	JPY	Tokyo Stock Exchange	Equity	-	TOPIX Index	Information Technology	0.0000447615
+1563	JAPAN AIRPORT TERMINAL	JP3699400002	Japan	JPY	Tokyo Stock Exchange	Equity	-	TOPIX Index	Industrials	0.0000447544
+1564	BANK OF KYOTO	JP3251200006	Japan	JPY	Tokyo Stock Exchange	Equity	A2	TOPIX Index	Financials	0.0000447054
+1565	HARMONIC DRIVE SYSTEMS	JP3765150002	Japan	JPY	-	Equity	-	-	Industrials	0.0000431272
+1566	BANK OF EAST ASIA	HK0023000190	Hongkong	HKD	-	Equity	-	Hang Seng Index	Financials	0.0000429384
+1567	CENTURY TOKYO LEASING	JP3424950008	Japan	JPY	Tokyo Stock Exchange	Equity	-	TOPIX Index	Financials	0.0000427102
+1568	H.LUNDBECK	DK0010287234	Dänemark	DKK	Copenhagen Stock Exchange	Equity	-	OMX COPENHAGEN 20 Index	Health Care	0.0000425629
+1569	TAIHEIYO CEMENT	JP3449020001	Japan	JPY	Tokyo Stock Exchange	Equity	-	TOPIX Index	Materials	0.0000420342
+1570	TAISHO PHARMA HLDS.	JP3442850008	Japan	JPY	Tokyo Stock Exchange	Equity	-	TOPIX Index	Health Care	0.0000411933
+1571	CALBEE	JP3220580009	Japan	JPY	Tokyo Stock Exchange	Equity	-	TOPIX Index	Consumer Staples	0.0000411853
+1572	SJM HLDGS	HK0880043028	Hongkong	HKD	-	Equity	-	Hang Seng Index	Consumer Discretionary	0.0000410604
+1573	LIBERTY MEDIA - SIRIUSXM A	US5312294094	Vereinigte Staaten	USD	NASDAQ National Market System	Equity	-	NASDAQ Composite Index	Communication Services	0.0000404529
+1574	ABC-MART	JP3152740001	Japan	JPY	Tokyo Stock Exchange	Equity	-	TOPIX Index	Consumer Discretionary	0.0000404152
+1575	WASHINGTON H. SOUL PATTINSON	AU000000SOL3	Australien	AUD	Australian Stock Exchange	Equity	B1	ASX All Ordinaries Index	Energy	0.0000402074
+1576	LAWSON	JP3982100004	Japan	JPY	Tokyo Stock Exchange	Equity	-	TOPIX Index	Consumer Staples	0.0000401569
+1577	ILIAD SA	FR0004035913	Frankreich	EUR	Euronext Paris	Equity	-	CAC 40 Index	Communication Services	0.0000399484
+1578	TOYODA GOSEI	JP3634200004	Japan	JPY	Tokyo Stock Exchange	Equity	-	TOPIX Index	Consumer Discretionary	0.0000396119
+1579	HOCHTIEF	DE0006070006	Deutschland	EUR	XETRA	Equity	-	DAX Index	Industrials	0.0000393177
+1580	SEIBU HLDGS	JP3417200007	Japan	JPY	Tokyo Stock Exchange	Equity	-	TOPIX Index	Industrials	0.0000390837
+1581	PCCW	HK0008011667	Hongkong	HKD	-	Equity	-	Hang Seng Index	Communication Services	0.000039057
+1582	AEON MALL	JP3131430005	Japan	JPY	Tokyo Stock Exchange	Equity	-	TOPIX Index	Real Estate	0.0000379135
+1583	SUNDRUG	JP3336600006	Japan	JPY	Tokyo Stock Exchange	Equity	-	TOPIX Index	Consumer Staples	0.0000374088
+1584	YAMAZAKI BAKING	JP3935600001	Japan	JPY	Tokyo Stock Exchange	Equity	-	TOPIX Index	Consumer Staples	0.0000373614
+1585	FRESNILLO	GB00B2QPKJ12	Mexiko	GBP	London Stock Exchange	Equity	Baa2	FTSE 100 Index	Materials	0.0000371449
+1586	CITY DEVELOPMENTS	SG1R89002252	Singapur	SGD	-	Equity	-	-	Real Estate	0.0000367462
+1587	NGK SPARK PLUG	JP3738600000	Japan	JPY	Tokyo Stock Exchange	Equity	-	TOPIX Index	Consumer Discretionary	0.0000364946
+1588	ACOM CO	JP3108600002	Japan	JPY	Tokyo Stock Exchange	Equity	Ba1	TOPIX Index	Financials	0.0000346245
+1589	SUZUKEN	JP3398000004	Japan	JPY	Tokyo Stock Exchange	Equity	-	TOPIX Index	Health Care	0.0000339199
+1590	TPG TELECOM RG	AU0000090128	Australien	AUD	-	Equity	-	-	Communication Services	0.0000322665
+1591	CLX COMMUNICATIONS	SE0007439112	Schweden	SEK	-	Equity	-	-	Information Technology	0.0000270451
+1592	SAREPTA THERAPEUTICS	US8036071004	Vereinigte Staaten	USD	NASDAQ National Market System	Equity	-	NASDAQ Composite Index	Health Care	0.0000232712
+1601	CLARIVATE ANALYTICS PLC	JE00BJJN4441	Vereinigtes Königreich	USD	New York Stock Exchange	Equity	-	S&P 500 Index	Industrials	0.0000155443
+1602	IVANHOE MINES LTD CL A	CA46579R1047	Kanada	CAD	-	Equity	-	-	unknown	0.0000146902
+1603	EDP RENOVAVEIS S.A.	ES0127797019	Spanien	EUR	Euronext Lisbon	Equity	B1	PSI 20 Index	Utilities	0.0000089028
+1605	NUVEI CORP SUBORDINATE VTG	CA67079A1021	Kanada	CAD	-	Equity	-	-	unknown	0.0000058428
+1606	EPIROC AB A RED SHS	SE0015658125	Schweden	SEK	-	Equity	-	-	unknown	0.0000046289
+1607	BOLIDEN AB RED	SE0015811567	Schweden	SEK	-	Equity	-	-	unknown	0.0000033548
+1608	EPIROC AB B RED SHS	SE0015658133	Schweden	SEK	-	Equity	-	-	unknown	0.000002477
+1609	FERROVIAL SA	ES06189009H7	Spanien	EUR	-	Right	-	-	unknown	0.0000024754
+1610	AURORA CANNABIS INC	CA05156X8843	Kanada	CAD	-	Equity	-	-	Health Care	0.0000000009
+1611	ISRACARD LTD	IL0011574030	Israel	ILS	-	Equity	-	-	unknown	0.0000000004
+1612	NMC HEALTH PLC	GB00B7FC0762	Vereinigte Arabische Emirate	GBP	London Stock Exchange	Equity	-	FTSE 100 Index	Health Care	0.0000000002
