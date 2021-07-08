@@ -1,5 +1,7 @@
 # ETF portfolio visualization
 
+![test](https://github.com/fLiDK/etf-portfolio-map/blob/master/demo/demo.gif)
+
 An interactive choropleth map
 
 **Note:** The figure is only updated if all weights sum up to 100!
