@@ -14,9 +14,12 @@ Sources of the ETF data are the corresponding product pages from Xtrackers respe
 Use the sliders to change the weight of an individual ETF. When changing weights, the map is only updated if all weights sum up to 100 %.
 The colour scheme can be changed using the colour dropdown menu.
 
+Try the notebook with [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/fLiDK/etf-portfolio-map/HEAD).
+
 #### Planned improvements
 * dropdown menu to choose different ETFs
 * directly retrieve most current data instead of loading sample data/previously prepared data
+* create web app using Flask
 
 #### Links
 * https://dmnfarrell.github.io/bioinformatics/bokeh-maps (guide with some more information on creating a choropleth map with GeoPandas and Bokeh)
