@@ -1,0 +1,21 @@
+name: ETF
+channels:
+  - defaults
+dependencies:
+  - numpy
+  - geopandas
+  - matplotlib
+  - jupyterlab
+  - bokeh
+  - ipywidgets
+  - geckodriver
+  - selenium
+  - imageio
+  - scikit-image
+  - gifsicle
+  - scikit-learn
+  - networkx[version='>=2.5']
+  - theano
+  - future
+  - flask
+
